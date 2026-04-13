@@ -1,0 +1,732 @@
+[
+  {
+    "club": "Real Madrid",
+    "manager": "Carlo Ancelotti",
+    "formation": "4-3-3 Attack",
+    "squad": [
+      {
+        "id": 5,
+        "name": "Kylian Mbappé",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566102,
+        "name": "Mats Mbappe",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566103,
+        "name": "Hugo Vance",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566104,
+        "name": "Jonas Silva",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566105,
+        "name": "Erik Nadal",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566106,
+        "name": "Carlos Sato",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566107,
+        "name": "Carlos Müller",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566108,
+        "name": "Hiro Ricci",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566109,
+        "name": "Erik Messi",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566110,
+        "name": "Jean García",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566111,
+        "name": "Jonas Schmidt",
+        "position": "Forward",
+        "status": "Healthy"
+      }
+    ]
+  },
+  {
+    "club": "Inter Milan",
+    "manager": "Simone Inzaghi",
+    "formation": "3-5-2",
+    "squad": [
+      {
+        "id": "1775988566081",
+        "name": "Gabriel Santos",
+        "position": "Winger",
+        "status": "Healthy"
+      },
+      {
+        "id": "1775988566085",
+        "name": "Victor Vance",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566112,
+        "name": "Jonas Dubois",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566113,
+        "name": "Hiro Silva",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566114,
+        "name": "Marco Dubois",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566115,
+        "name": "Jonas Santos",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566116,
+        "name": "Thiago Silva",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566117,
+        "name": "Thiago Ricci",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566118,
+        "name": "David Vance",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566119,
+        "name": "Erik Müller",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566120,
+        "name": "Hugo Ricci",
+        "position": "Forward",
+        "status": "Healthy"
+      }
+    ]
+  },
+  {
+    "club": "Bayern Munich",
+    "manager": "Thomas Tuchel",
+    "formation": "4-2-3-1",
+    "squad": [
+      {
+        "id": 1775988566121,
+        "name": "Jonas Nadal",
+        "position": "Goalkeeper",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566122,
+        "name": "Hugo Messi",
+        "position": "Defender",
+        "status": "Injured"
+      },
+      {
+        "id": 1775988566123,
+        "name": "Erik Thorne",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566124,
+        "name": "Marco Schmidt",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566125,
+        "name": "Oliver Messi",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566126,
+        "name": "Hiro García",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566127,
+        "name": "Leo Schmidt",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566128,
+        "name": "Marco Sato",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566129,
+        "name": "Sandro Nadal",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566130,
+        "name": "Hiro Schmidt",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566131,
+        "name": "Jean Vance",
+        "position": "Forward",
+        "status": "Healthy"
+      }
+    ]
+  },
+  {
+    "club": "Bayer Leverkusen",
+    "manager": "Xabi Alonso",
+    "formation": "3-4-3 Attack",
+    "squad": [
+      {
+        "id": 1775988566132,
+        "name": "Oliver Silva",
+        "position": "Goalkeeper",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566133,
+        "name": "Lukas Müller",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566134,
+        "name": "Oliver Müller",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566135,
+        "name": "Marco Ricci",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566136,
+        "name": "Jean Mbappe",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566137,
+        "name": "David Santos",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566138,
+        "name": "Thiago Webber",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566139,
+        "name": "Thiago Santos",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566140,
+        "name": "Hugo Webber",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566141,
+        "name": "Marco Nadal",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566142,
+        "name": "Hugo Müller",
+        "position": "Forward",
+        "status": "Healthy"
+      }
+    ]
+  },
+  {
+    "club": "London Titans",
+    "manager": "Mikel Arteta",
+    "formation": "4-3-3 Defense",
+    "squad": [
+      {
+        "id": 6,
+        "name": "Marcus Vance",
+        "position": "Midfielder",
+        "status": "Injured"
+      },
+      {
+        "id": 1775988566143,
+        "name": "Hiro Dubois",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566144,
+        "name": "Hugo Santos",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566145,
+        "name": "Mats Müller",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566146,
+        "name": "Hugo Mbappe",
+        "position": "Defender",
+        "status": "Injured"
+      },
+      {
+        "id": 1775988566147,
+        "name": "Sandro Santos",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566148,
+        "name": "Lukas Dubois",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566149,
+        "name": "David Ricci",
+        "position": "Midfielder",
+        "status": "Injured"
+      },
+      {
+        "id": 1775988566150,
+        "name": "Thiago Sato",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566151,
+        "name": "Thiago Thorne",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566152,
+        "name": "Erik Sato",
+        "position": "Forward",
+        "status": "Healthy"
+      }
+    ]
+  },
+  {
+    "club": "Paris Saints",
+    "manager": "Luis Enrique",
+    "formation": "4-3-3",
+    "squad": [
+      {
+        "id": 9,
+        "name": "Amara Diallo",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566153,
+        "name": "Thiago Kahn",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566154,
+        "name": "Thiago Schmidt",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566155,
+        "name": "Carlos Dubois",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566156,
+        "name": "Hiro Sato",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566157,
+        "name": "Alessandro Messi",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566158,
+        "name": "Carlos Mbappe",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566159,
+        "name": "Hiro Mbappe",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566160,
+        "name": "Thiago Mbappe",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566161,
+        "name": "Lukas Nadal",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566162,
+        "name": "Hiro Messi",
+        "position": "Forward",
+        "status": "Healthy"
+      }
+    ]
+  },
+  {
+    "club": "London United",
+    "manager": "Pep Guardiola",
+    "formation": "4-2-3-1",
+    "squad": [
+      {
+        "id": 2,
+        "name": "Lucas Vance",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566163,
+        "name": "Hugo Sato",
+        "position": "Defender",
+        "status": "Injured"
+      },
+      {
+        "id": 1775988566164,
+        "name": "Alessandro Schmidt",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566165,
+        "name": "Alessandro Kahn",
+        "position": "Defender",
+        "status": "Injured"
+      },
+      {
+        "id": 1775988566166,
+        "name": "Jean Thorne",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566167,
+        "name": "Erik Silva",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566168,
+        "name": "David Silva",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566169,
+        "name": "Mats Silva",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566170,
+        "name": "Leo Messi",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566171,
+        "name": "Sandro Schmidt",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566172,
+        "name": "Marco Müller",
+        "position": "Forward",
+        "status": "Healthy"
+      }
+    ]
+  },
+  {
+    "club": "AC Milan",
+    "manager": "Stefano Pioli",
+    "formation": "4-2-3-1",
+    "squad": [
+      {
+        "id": "1775988566073",
+        "name": "Marcus Hernandez",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": "1775988566076",
+        "name": "Gabriel Chen",
+        "position": "Midfielder",
+        "status": "Injured"
+      },
+      {
+        "id": "1775988566078",
+        "name": "Alexander Hernandez",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": "1775988566079",
+        "name": "Eduardo Russo",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": "1775988566086",
+        "name": "Oscar Hernandez",
+        "position": "Goalkeeper",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566173,
+        "name": "Mats Sato",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566174,
+        "name": "Leo Ricci",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566175,
+        "name": "Thiago Müller",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566176,
+        "name": "Leo Müller",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566177,
+        "name": "Erik Mbappe",
+        "position": "Forward",
+        "status": "Injured"
+      },
+      {
+        "id": 1775988566178,
+        "name": "David Webber",
+        "position": "Forward",
+        "status": "Healthy"
+      }
+    ]
+  },
+  {
+    "club": "Napoli",
+    "manager": "Walter Mazzarri",
+    "formation": "4-3-3",
+    "squad": [
+      {
+        "id": "1775988566090",
+        "name": "Oscar Santos",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": "1775988566096",
+        "name": "Eduardo Costa",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": "1775988566098",
+        "name": "Eduardo Vance",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": "1775988566100",
+        "name": "Liam Hernandez",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": "1775988566101",
+        "name": "Alexander Hernandez",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566179,
+        "name": "Leo Dubois",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566180,
+        "name": "Jonas Müller",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566181,
+        "name": "Lukas Vance",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566182,
+        "name": "Oliver Schmidt",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566183,
+        "name": "Alessandro Ricci",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566184,
+        "name": "Hugo García",
+        "position": "Forward",
+        "status": "Injured"
+      }
+    ]
+  },
+  {
+    "club": "Amsterdam United",
+    "manager": "John van 't Schip",
+    "formation": "4-3-3",
+    "squad": [
+      {
+        "id": 10,
+        "name": "Van Der Graaf",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566185,
+        "name": "Hiro Nadal",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566186,
+        "name": "Erik Vance",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566187,
+        "name": "Sandro Müller",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566188,
+        "name": "Hugo Nadal",
+        "position": "Defender",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566189,
+        "name": "David Müller",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566190,
+        "name": "Marco Webber",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566191,
+        "name": "Marco Silva",
+        "position": "Midfielder",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566192,
+        "name": "Alessandro Thorne",
+        "position": "Forward",
+        "status": "Injured"
+      },
+      {
+        "id": 1775988566193,
+        "name": "Alessandro Santos",
+        "position": "Forward",
+        "status": "Healthy"
+      },
+      {
+        "id": 1775988566194,
+        "name": "Thiago Dubois",
+        "position": "Forward",
+        "status": "Healthy"
+      }
+    ]
+  }
+]

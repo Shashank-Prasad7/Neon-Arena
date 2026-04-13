@@ -1,0 +1,3064 @@
+{
+  "matches": [
+    {
+      "id": 1001,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-12T10:44:05.198Z",
+      "status": "IN_PLAY",
+      "minute": 25,
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/86.png"
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/90.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "stats": {
+        "possession": "20% - 55%",
+        "xG": "2.7 - 1.3"
+      },
+      "group": "Matchweek 22"
+    },
+    {
+      "id": 1002,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-12T10:44:05.199Z",
+      "status": "IN_PLAY",
+      "minute": 24,
+      "homeTeam": {
+        "name": "Barcelona",
+        "shortName": "BAR",
+        "crest": "https://crests.football-data.org/81.png"
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/90.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "stats": {
+        "possession": "25% - 6%",
+        "xG": "2.8 - 2.7"
+      },
+      "group": "Matchweek 21"
+    },
+    {
+      "id": 1003,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-12T10:44:05.199Z",
+      "status": "IN_PLAY",
+      "minute": 6,
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "SEV",
+        "crest": "https://crests.football-data.org/77.png"
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/92.svg"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "stats": {
+        "possession": "66% - 76%",
+        "xG": "1.1 - 2.1"
+      },
+      "group": "Matchweek 24"
+    },
+    {
+      "id": 1004,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-12T10:44:05.199Z",
+      "status": "IN_PLAY",
+      "minute": 61,
+      "homeTeam": {
+        "name": "Real Sociedad",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/92.svg"
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "VIL",
+        "crest": "https://crests.football-data.org/94.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "stats": {
+        "possession": "14% - 58%",
+        "xG": "0.3 - 1.6"
+      },
+      "group": "Matchweek 21"
+    },
+    {
+      "id": 1005,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-12T10:44:05.199Z",
+      "status": "IN_PLAY",
+      "minute": 43,
+      "homeTeam": {
+        "name": "Barcelona",
+        "shortName": "BAR",
+        "crest": "https://crests.football-data.org/81.png"
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "VAL",
+        "crest": "https://crests.football-data.org/95.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "stats": {
+        "possession": "79% - 43%",
+        "xG": "2.6 - 3.0"
+      },
+      "group": "Matchweek 17"
+    },
+    {
+      "id": 1006,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-12T10:44:05.199Z",
+      "status": "IN_PLAY",
+      "minute": 8,
+      "homeTeam": {
+        "name": "Atletico Madrid",
+        "shortName": "ATL",
+        "crest": "https://crests.football-data.org/78.png"
+      },
+      "awayTeam": {
+        "name": "Real Madrid",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/86.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "stats": {
+        "possession": "81% - 34%",
+        "xG": "2.9 - 2.1"
+      },
+      "group": "Matchweek 27"
+    },
+    {
+      "id": 1007,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-13T10:44:05.199Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "SEV",
+        "crest": "https://crests.football-data.org/77.png"
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "VIL",
+        "crest": "https://crests.football-data.org/94.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 5"
+    },
+    {
+      "id": 1008,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-17T10:44:05.199Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/86.png"
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "VAL",
+        "crest": "https://crests.football-data.org/95.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 28"
+    },
+    {
+      "id": 1009,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-17T10:44:05.199Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "VAL",
+        "crest": "https://crests.football-data.org/95.png"
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "VIL",
+        "crest": "https://crests.football-data.org/94.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 25"
+    },
+    {
+      "id": 1010,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-17T10:44:05.199Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "VAL",
+        "crest": "https://crests.football-data.org/95.png"
+      },
+      "awayTeam": {
+        "name": "Villarreal",
+        "shortName": "VIL",
+        "crest": "https://crests.football-data.org/94.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 24"
+    },
+    {
+      "id": 1011,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-14T10:44:05.199Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Valencia",
+        "shortName": "VAL",
+        "crest": "https://crests.football-data.org/95.png"
+      },
+      "awayTeam": {
+        "name": "Barcelona",
+        "shortName": "BAR",
+        "crest": "https://crests.football-data.org/81.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 28"
+    },
+    {
+      "id": 1012,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-14T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Barcelona",
+        "shortName": "BAR",
+        "crest": "https://crests.football-data.org/81.png"
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/92.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 6"
+    },
+    {
+      "id": 1013,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-10T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "SEV",
+        "crest": "https://crests.football-data.org/77.png"
+      },
+      "awayTeam": {
+        "name": "Real Madrid",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/86.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "stats": {
+        "possession": "26% - 7%",
+        "xG": "1.0 - 1.1"
+      },
+      "group": "Matchweek 35"
+    },
+    {
+      "id": 1014,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-11T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/86.png"
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/90.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "stats": {
+        "possession": "38% - 35%",
+        "xG": "0.4 - 1.1"
+      },
+      "group": "Matchweek 25"
+    },
+    {
+      "id": 1015,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-07T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Atletico Madrid",
+        "shortName": "ATL",
+        "crest": "https://crests.football-data.org/78.png"
+      },
+      "awayTeam": {
+        "name": "Barcelona",
+        "shortName": "BAR",
+        "crest": "https://crests.football-data.org/81.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "stats": {
+        "possession": "44% - 46%",
+        "xG": "2.2 - 1.0"
+      },
+      "group": "Matchweek 33"
+    },
+    {
+      "id": 1016,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-08T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Villarreal",
+        "shortName": "VIL",
+        "crest": "https://crests.football-data.org/94.png"
+      },
+      "awayTeam": {
+        "name": "Real Sociedad",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/92.svg"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "stats": {
+        "possession": "25% - 56%",
+        "xG": "0.6 - 1.7"
+      },
+      "group": "Matchweek 37"
+    },
+    {
+      "id": 1017,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-09T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Sevilla",
+        "shortName": "SEV",
+        "crest": "https://crests.football-data.org/77.png"
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/90.png"
+      },
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "stats": {
+        "possession": "11% - 2%",
+        "xG": "0.6 - 1.2"
+      },
+      "group": "Matchweek 32"
+    },
+    {
+      "id": 1018,
+      "competition": {
+        "id": 2014,
+        "name": "La Liga",
+        "code": "PD"
+      },
+      "utcDate": "2026-04-11T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Barcelona",
+        "shortName": "BAR",
+        "crest": "https://crests.football-data.org/81.png"
+      },
+      "awayTeam": {
+        "name": "Valencia",
+        "shortName": "VAL",
+        "crest": "https://crests.football-data.org/95.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "stats": {
+        "possession": "68% - 31%",
+        "xG": "2.6 - 2.4"
+      },
+      "group": "Matchweek 16"
+    },
+    {
+      "id": 1019,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 55,
+      "homeTeam": {
+        "name": "West Ham United",
+        "shortName": "WES",
+        "crest": "https://crests.football-data.org/563.png"
+      },
+      "awayTeam": {
+        "name": "Arsenal",
+        "shortName": "ARS",
+        "crest": "https://crests.football-data.org/57.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "stats": {
+        "possession": "62% - 32%",
+        "xG": "1.5 - 1.7"
+      },
+      "group": "Matchweek 31"
+    },
+    {
+      "id": 1020,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 76,
+      "homeTeam": {
+        "name": "Leicester City",
+        "shortName": "LEI",
+        "crest": "https://crests.football-data.org/338.png"
+      },
+      "awayTeam": {
+        "name": "Manchester City",
+        "shortName": "MAN",
+        "crest": "https://crests.football-data.org/65.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "stats": {
+        "possession": "80% - 13%",
+        "xG": "1.1 - 2.8"
+      },
+      "group": "Matchweek 36"
+    },
+    {
+      "id": 1021,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 69,
+      "homeTeam": {
+        "name": "Liverpool",
+        "shortName": "LIV",
+        "crest": "https://crests.football-data.org/64.png"
+      },
+      "awayTeam": {
+        "name": "Tottenham Hotspurs",
+        "shortName": "TOT",
+        "crest": "https://crests.football-data.org/73.svg"
+      },
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "stats": {
+        "possession": "39% - 6%",
+        "xG": "0.1 - 2.3"
+      },
+      "group": "Matchweek 29"
+    },
+    {
+      "id": 1022,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 52,
+      "homeTeam": {
+        "name": "Aston Villa",
+        "shortName": "AST",
+        "crest": "https://crests.football-data.org/58.png"
+      },
+      "awayTeam": {
+        "name": "Manchester United",
+        "shortName": "MAN",
+        "crest": "https://crests.football-data.org/66.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "stats": {
+        "possession": "44% - 41%",
+        "xG": "0.6 - 2.7"
+      },
+      "group": "Matchweek 19"
+    },
+    {
+      "id": 1023,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 46,
+      "homeTeam": {
+        "name": "Manchester United",
+        "shortName": "MAN",
+        "crest": "https://crests.football-data.org/66.png"
+      },
+      "awayTeam": {
+        "name": "Manchester City",
+        "shortName": "MAN",
+        "crest": "https://crests.football-data.org/65.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "stats": {
+        "possession": "74% - 8%",
+        "xG": "2.9 - 2.2"
+      },
+      "group": "Matchweek 20"
+    },
+    {
+      "id": 1024,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 69,
+      "homeTeam": {
+        "name": "Manchester United",
+        "shortName": "MAN",
+        "crest": "https://crests.football-data.org/66.png"
+      },
+      "awayTeam": {
+        "name": "Manchester City",
+        "shortName": "MAN",
+        "crest": "https://crests.football-data.org/65.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "stats": {
+        "possession": "24% - 23%",
+        "xG": "0.1 - 2.2"
+      },
+      "group": "Matchweek 6"
+    },
+    {
+      "id": 1025,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-16T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Chelsea",
+        "shortName": "CHE",
+        "crest": "https://crests.football-data.org/61.png"
+      },
+      "awayTeam": {
+        "name": "Manchester United",
+        "shortName": "MAN",
+        "crest": "https://crests.football-data.org/66.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 10"
+    },
+    {
+      "id": 1026,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-13T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Aston Villa",
+        "shortName": "AST",
+        "crest": "https://crests.football-data.org/58.png"
+      },
+      "awayTeam": {
+        "name": "Leicester City",
+        "shortName": "LEI",
+        "crest": "https://crests.football-data.org/338.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 4"
+    },
+    {
+      "id": 1027,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-13T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Wolverhampton",
+        "shortName": "WOL",
+        "crest": "https://crests.football-data.org/76.svg"
+      },
+      "awayTeam": {
+        "name": "Arsenal",
+        "shortName": "ARS",
+        "crest": "https://crests.football-data.org/57.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 22"
+    },
+    {
+      "id": 1028,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-16T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "West Ham United",
+        "shortName": "WES",
+        "crest": "https://crests.football-data.org/563.png"
+      },
+      "awayTeam": {
+        "name": "Aston Villa",
+        "shortName": "AST",
+        "crest": "https://crests.football-data.org/58.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 6"
+    },
+    {
+      "id": 1029,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-13T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Chelsea",
+        "shortName": "CHE",
+        "crest": "https://crests.football-data.org/61.png"
+      },
+      "awayTeam": {
+        "name": "Manchester City",
+        "shortName": "MAN",
+        "crest": "https://crests.football-data.org/65.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 21"
+    },
+    {
+      "id": 1030,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-16T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Manchester United",
+        "shortName": "MAN",
+        "crest": "https://crests.football-data.org/66.png"
+      },
+      "awayTeam": {
+        "name": "Liverpool",
+        "shortName": "LIV",
+        "crest": "https://crests.football-data.org/64.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 37"
+    },
+    {
+      "id": 1031,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-09T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Wolverhampton",
+        "shortName": "WOL",
+        "crest": "https://crests.football-data.org/76.svg"
+      },
+      "awayTeam": {
+        "name": "West Ham United",
+        "shortName": "WES",
+        "crest": "https://crests.football-data.org/563.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "stats": {
+        "possession": "70% - 76%",
+        "xG": "1.0 - 1.4"
+      },
+      "group": "Matchweek 12"
+    },
+    {
+      "id": 1032,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-09T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Manchester City",
+        "shortName": "MAN",
+        "crest": "https://crests.football-data.org/65.png"
+      },
+      "awayTeam": {
+        "name": "Leicester City",
+        "shortName": "LEI",
+        "crest": "https://crests.football-data.org/338.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "stats": {
+        "possession": "85% - 75%",
+        "xG": "0.2 - 1.5"
+      },
+      "group": "Matchweek 15"
+    },
+    {
+      "id": 1033,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-10T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Leicester City",
+        "shortName": "LEI",
+        "crest": "https://crests.football-data.org/338.png"
+      },
+      "awayTeam": {
+        "name": "Chelsea",
+        "shortName": "CHE",
+        "crest": "https://crests.football-data.org/61.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "stats": {
+        "possession": "21% - 35%",
+        "xG": "2.9 - 0.2"
+      },
+      "group": "Matchweek 28"
+    },
+    {
+      "id": 1034,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-11T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Liverpool",
+        "shortName": "LIV",
+        "crest": "https://crests.football-data.org/64.png"
+      },
+      "awayTeam": {
+        "name": "Manchester United",
+        "shortName": "MAN",
+        "crest": "https://crests.football-data.org/66.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "stats": {
+        "possession": "79% - 12%",
+        "xG": "2.9 - 1.1"
+      },
+      "group": "Matchweek 30"
+    },
+    {
+      "id": 1035,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-09T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Aston Villa",
+        "shortName": "AST",
+        "crest": "https://crests.football-data.org/58.png"
+      },
+      "awayTeam": {
+        "name": "Liverpool",
+        "shortName": "LIV",
+        "crest": "https://crests.football-data.org/64.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "stats": {
+        "possession": "54% - 6%",
+        "xG": "2.8 - 0.4"
+      },
+      "group": "Matchweek 10"
+    },
+    {
+      "id": 1036,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL"
+      },
+      "utcDate": "2026-04-07T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Chelsea",
+        "shortName": "CHE",
+        "crest": "https://crests.football-data.org/61.png"
+      },
+      "awayTeam": {
+        "name": "Wolverhampton",
+        "shortName": "WOL",
+        "crest": "https://crests.football-data.org/76.svg"
+      },
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "stats": {
+        "possession": "51% - 78%",
+        "xG": "0.5 - 2.3"
+      },
+      "group": "Matchweek 27"
+    },
+    {
+      "id": 1037,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 67,
+      "homeTeam": {
+        "name": "Eintracht Frankfurt",
+        "shortName": "EIN",
+        "crest": "https://crests.football-data.org/19.png"
+      },
+      "awayTeam": {
+        "name": "RB Leipzig",
+        "shortName": "RB ",
+        "crest": "https://crests.football-data.org/721.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "stats": {
+        "possession": "57% - 80%",
+        "xG": "0.9 - 0.7"
+      },
+      "group": "Matchweek 35"
+    },
+    {
+      "id": 1038,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 67,
+      "homeTeam": {
+        "name": "VfB Stuttgart",
+        "shortName": "VFB",
+        "crest": "https://crests.football-data.org/10.png"
+      },
+      "awayTeam": {
+        "name": "Borussia Dortmund",
+        "shortName": "BOR",
+        "crest": "https://crests.football-data.org/4.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "stats": {
+        "possession": "76% - 70%",
+        "xG": "3.0 - 2.4"
+      },
+      "group": "Matchweek 5"
+    },
+    {
+      "id": 1039,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 67,
+      "homeTeam": {
+        "name": "Borussia Dortmund",
+        "shortName": "BOR",
+        "crest": "https://crests.football-data.org/4.png"
+      },
+      "awayTeam": {
+        "name": "RB Leipzig",
+        "shortName": "RB ",
+        "crest": "https://crests.football-data.org/721.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "stats": {
+        "possession": "66% - 28%",
+        "xG": "1.1 - 0.7"
+      },
+      "group": "Matchweek 31"
+    },
+    {
+      "id": 1040,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 87,
+      "homeTeam": {
+        "name": "Bayern Leverkusen",
+        "shortName": "BAY",
+        "crest": "https://crests.football-data.org/3.png"
+      },
+      "awayTeam": {
+        "name": "Borussia Dortmund",
+        "shortName": "BOR",
+        "crest": "https://crests.football-data.org/4.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "stats": {
+        "possession": "22% - 41%",
+        "xG": "1.0 - 2.6"
+      },
+      "group": "Matchweek 3"
+    },
+    {
+      "id": 1041,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 61,
+      "homeTeam": {
+        "name": "Borussia Dortmund",
+        "shortName": "BOR",
+        "crest": "https://crests.football-data.org/4.png"
+      },
+      "awayTeam": {
+        "name": "Bayern Leverkusen",
+        "shortName": "BAY",
+        "crest": "https://crests.football-data.org/3.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "stats": {
+        "possession": "87% - 60%",
+        "xG": "1.6 - 1.6"
+      },
+      "group": "Matchweek 33"
+    },
+    {
+      "id": 1042,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 10,
+      "homeTeam": {
+        "name": "Borussia Dortmund",
+        "shortName": "BOR",
+        "crest": "https://crests.football-data.org/4.png"
+      },
+      "awayTeam": {
+        "name": "RB Leipzig",
+        "shortName": "RB ",
+        "crest": "https://crests.football-data.org/721.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "stats": {
+        "possession": "33% - 41%",
+        "xG": "3.0 - 1.7"
+      },
+      "group": "Matchweek 28"
+    },
+    {
+      "id": 1043,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-15T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "RB Leipzig",
+        "shortName": "RB ",
+        "crest": "https://crests.football-data.org/721.png"
+      },
+      "awayTeam": {
+        "name": "Borussia Dortmund",
+        "shortName": "BOR",
+        "crest": "https://crests.football-data.org/4.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 3"
+    },
+    {
+      "id": 1044,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-15T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Bayern Leverkusen",
+        "shortName": "BAY",
+        "crest": "https://crests.football-data.org/3.png"
+      },
+      "awayTeam": {
+        "name": "VfB Stuttgart",
+        "shortName": "VFB",
+        "crest": "https://crests.football-data.org/10.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 24"
+    },
+    {
+      "id": 1045,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-14T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "RB Leipzig",
+        "shortName": "RB ",
+        "crest": "https://crests.football-data.org/721.png"
+      },
+      "awayTeam": {
+        "name": "Bayern Leverkusen",
+        "shortName": "BAY",
+        "crest": "https://crests.football-data.org/3.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 29"
+    },
+    {
+      "id": 1046,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-14T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Borussia Dortmund",
+        "shortName": "BOR",
+        "crest": "https://crests.football-data.org/4.png"
+      },
+      "awayTeam": {
+        "name": "RB Leipzig",
+        "shortName": "RB ",
+        "crest": "https://crests.football-data.org/721.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 27"
+    },
+    {
+      "id": 1047,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-13T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "RB Leipzig",
+        "shortName": "RB ",
+        "crest": "https://crests.football-data.org/721.png"
+      },
+      "awayTeam": {
+        "name": "Bayern Munich",
+        "shortName": "BAY",
+        "crest": "https://crests.football-data.org/5.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 38"
+    },
+    {
+      "id": 1048,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-15T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "VfB Stuttgart",
+        "shortName": "VFB",
+        "crest": "https://crests.football-data.org/10.png"
+      },
+      "awayTeam": {
+        "name": "Bayern Munich",
+        "shortName": "BAY",
+        "crest": "https://crests.football-data.org/5.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 16"
+    },
+    {
+      "id": 1049,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-09T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "VfB Stuttgart",
+        "shortName": "VFB",
+        "crest": "https://crests.football-data.org/10.png"
+      },
+      "awayTeam": {
+        "name": "Eintracht Frankfurt",
+        "shortName": "EIN",
+        "crest": "https://crests.football-data.org/19.png"
+      },
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "stats": {
+        "possession": "68% - 38%",
+        "xG": "0.9 - 0.5"
+      },
+      "group": "Matchweek 4"
+    },
+    {
+      "id": 1050,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-07T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "RB Leipzig",
+        "shortName": "RB ",
+        "crest": "https://crests.football-data.org/721.png"
+      },
+      "awayTeam": {
+        "name": "Borussia Dortmund",
+        "shortName": "BOR",
+        "crest": "https://crests.football-data.org/4.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "stats": {
+        "possession": "27% - 32%",
+        "xG": "2.8 - 0.2"
+      },
+      "group": "Matchweek 30"
+    },
+    {
+      "id": 1051,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-09T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Eintracht Frankfurt",
+        "shortName": "EIN",
+        "crest": "https://crests.football-data.org/19.png"
+      },
+      "awayTeam": {
+        "name": "Bayern Leverkusen",
+        "shortName": "BAY",
+        "crest": "https://crests.football-data.org/3.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "stats": {
+        "possession": "17% - 11%",
+        "xG": "2.4 - 1.1"
+      },
+      "group": "Matchweek 13"
+    },
+    {
+      "id": 1052,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-08T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Bayern Leverkusen",
+        "shortName": "BAY",
+        "crest": "https://crests.football-data.org/3.png"
+      },
+      "awayTeam": {
+        "name": "Eintracht Frankfurt",
+        "shortName": "EIN",
+        "crest": "https://crests.football-data.org/19.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "stats": {
+        "possession": "21% - 76%",
+        "xG": "0.8 - 2.9"
+      },
+      "group": "Matchweek 26"
+    },
+    {
+      "id": 1053,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-11T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Bayern Leverkusen",
+        "shortName": "BAY",
+        "crest": "https://crests.football-data.org/3.png"
+      },
+      "awayTeam": {
+        "name": "Bayern Munich",
+        "shortName": "BAY",
+        "crest": "https://crests.football-data.org/5.png"
+      },
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "stats": {
+        "possession": "50% - 6%",
+        "xG": "0.5 - 0.4"
+      },
+      "group": "Matchweek 22"
+    },
+    {
+      "id": 1054,
+      "competition": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "code": "BL1"
+      },
+      "utcDate": "2026-04-11T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "VfB Stuttgart",
+        "shortName": "VFB",
+        "crest": "https://crests.football-data.org/10.png"
+      },
+      "awayTeam": {
+        "name": "Eintracht Frankfurt",
+        "shortName": "EIN",
+        "crest": "https://crests.football-data.org/19.png"
+      },
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "stats": {
+        "possession": "55% - 78%",
+        "xG": "2.7 - 1.9"
+      },
+      "group": "Matchweek 32"
+    },
+    {
+      "id": 1055,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 47,
+      "homeTeam": {
+        "name": "Marseille",
+        "shortName": "MAR",
+        "crest": "https://crests.football-data.org/516.png"
+      },
+      "awayTeam": {
+        "name": "Paris Saint German",
+        "shortName": "PAR",
+        "crest": "https://crests.football-data.org/524.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "stats": {
+        "possession": "69% - 74%",
+        "xG": "0.1 - 1.5"
+      },
+      "group": "Matchweek 28"
+    },
+    {
+      "id": 1056,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 23,
+      "homeTeam": {
+        "name": "Rennes",
+        "shortName": "REN",
+        "crest": "https://crests.football-data.org/529.png"
+      },
+      "awayTeam": {
+        "name": "Monaco",
+        "shortName": "MON",
+        "crest": "https://crests.football-data.org/548.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "stats": {
+        "possession": "19% - 16%",
+        "xG": "2.7 - 1.4"
+      },
+      "group": "Matchweek 13"
+    },
+    {
+      "id": 1057,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 79,
+      "homeTeam": {
+        "name": "Lyon",
+        "shortName": "LYO",
+        "crest": "https://crests.football-data.org/523.png"
+      },
+      "awayTeam": {
+        "name": "Rennes",
+        "shortName": "REN",
+        "crest": "https://crests.football-data.org/529.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "stats": {
+        "possession": "35% - 35%",
+        "xG": "0.1 - 1.3"
+      },
+      "group": "Matchweek 8"
+    },
+    {
+      "id": 1058,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 38,
+      "homeTeam": {
+        "name": "Lens",
+        "shortName": "LEN",
+        "crest": "https://crests.football-data.org/546.png"
+      },
+      "awayTeam": {
+        "name": "Monaco",
+        "shortName": "MON",
+        "crest": "https://crests.football-data.org/548.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "stats": {
+        "possession": "57% - 49%",
+        "xG": "0.1 - 1.0"
+      },
+      "group": "Matchweek 8"
+    },
+    {
+      "id": 1059,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 39,
+      "homeTeam": {
+        "name": "Lyon",
+        "shortName": "LYO",
+        "crest": "https://crests.football-data.org/523.png"
+      },
+      "awayTeam": {
+        "name": "Marseille",
+        "shortName": "MAR",
+        "crest": "https://crests.football-data.org/516.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "stats": {
+        "possession": "16% - 10%",
+        "xG": "0.1 - 1.9"
+      },
+      "group": "Matchweek 26"
+    },
+    {
+      "id": 1060,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 69,
+      "homeTeam": {
+        "name": "Lille",
+        "shortName": "LIL",
+        "crest": "https://crests.football-data.org/521.png"
+      },
+      "awayTeam": {
+        "name": "Lens",
+        "shortName": "LEN",
+        "crest": "https://crests.football-data.org/546.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "stats": {
+        "possession": "23% - 67%",
+        "xG": "2.8 - 1.0"
+      },
+      "group": "Matchweek 11"
+    },
+    {
+      "id": 1061,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-16T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Lille",
+        "shortName": "LIL",
+        "crest": "https://crests.football-data.org/521.png"
+      },
+      "awayTeam": {
+        "name": "Lyon",
+        "shortName": "LYO",
+        "crest": "https://crests.football-data.org/523.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 37"
+    },
+    {
+      "id": 1062,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-13T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Lille",
+        "shortName": "LIL",
+        "crest": "https://crests.football-data.org/521.png"
+      },
+      "awayTeam": {
+        "name": "Rennes",
+        "shortName": "REN",
+        "crest": "https://crests.football-data.org/529.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 37"
+    },
+    {
+      "id": 1063,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-16T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Monaco",
+        "shortName": "MON",
+        "crest": "https://crests.football-data.org/548.png"
+      },
+      "awayTeam": {
+        "name": "Rennes",
+        "shortName": "REN",
+        "crest": "https://crests.football-data.org/529.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 2"
+    },
+    {
+      "id": 1064,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-13T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Lille",
+        "shortName": "LIL",
+        "crest": "https://crests.football-data.org/521.png"
+      },
+      "awayTeam": {
+        "name": "Rennes",
+        "shortName": "REN",
+        "crest": "https://crests.football-data.org/529.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 3"
+    },
+    {
+      "id": 1065,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-17T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Rennes",
+        "shortName": "REN",
+        "crest": "https://crests.football-data.org/529.png"
+      },
+      "awayTeam": {
+        "name": "Lyon",
+        "shortName": "LYO",
+        "crest": "https://crests.football-data.org/523.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 37"
+    },
+    {
+      "id": 1066,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-17T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Lyon",
+        "shortName": "LYO",
+        "crest": "https://crests.football-data.org/523.png"
+      },
+      "awayTeam": {
+        "name": "Lens",
+        "shortName": "LEN",
+        "crest": "https://crests.football-data.org/546.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 6"
+    },
+    {
+      "id": 1067,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-08T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Marseille",
+        "shortName": "MAR",
+        "crest": "https://crests.football-data.org/516.png"
+      },
+      "awayTeam": {
+        "name": "Rennes",
+        "shortName": "REN",
+        "crest": "https://crests.football-data.org/529.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "stats": {
+        "possession": "17% - 37%",
+        "xG": "1.2 - 1.2"
+      },
+      "group": "Matchweek 8"
+    },
+    {
+      "id": 1068,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-10T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Paris Saint German",
+        "shortName": "PAR",
+        "crest": "https://crests.football-data.org/524.png"
+      },
+      "awayTeam": {
+        "name": "Marseille",
+        "shortName": "MAR",
+        "crest": "https://crests.football-data.org/516.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "stats": {
+        "possession": "47% - 34%",
+        "xG": "0.2 - 1.1"
+      },
+      "group": "Matchweek 28"
+    },
+    {
+      "id": 1069,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-07T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Lyon",
+        "shortName": "LYO",
+        "crest": "https://crests.football-data.org/523.png"
+      },
+      "awayTeam": {
+        "name": "Lille",
+        "shortName": "LIL",
+        "crest": "https://crests.football-data.org/521.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "stats": {
+        "possession": "82% - 63%",
+        "xG": "1.3 - 2.9"
+      },
+      "group": "Matchweek 13"
+    },
+    {
+      "id": 1070,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-11T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Lille",
+        "shortName": "LIL",
+        "crest": "https://crests.football-data.org/521.png"
+      },
+      "awayTeam": {
+        "name": "Paris Saint German",
+        "shortName": "PAR",
+        "crest": "https://crests.football-data.org/524.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "stats": {
+        "possession": "62% - 24%",
+        "xG": "0.7 - 2.0"
+      },
+      "group": "Matchweek 28"
+    },
+    {
+      "id": 1071,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-11T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Marseille",
+        "shortName": "MAR",
+        "crest": "https://crests.football-data.org/516.png"
+      },
+      "awayTeam": {
+        "name": "Lyon",
+        "shortName": "LYO",
+        "crest": "https://crests.football-data.org/523.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "stats": {
+        "possession": "33% - 44%",
+        "xG": "0.8 - 1.3"
+      },
+      "group": "Matchweek 16"
+    },
+    {
+      "id": 1072,
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1"
+      },
+      "utcDate": "2026-04-10T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Lille",
+        "shortName": "LIL",
+        "crest": "https://crests.football-data.org/521.png"
+      },
+      "awayTeam": {
+        "name": "Rennes",
+        "shortName": "REN",
+        "crest": "https://crests.football-data.org/529.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "stats": {
+        "possession": "48% - 60%",
+        "xG": "0.4 - 2.4"
+      },
+      "group": "Matchweek 3"
+    },
+    {
+      "id": 1073,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 56,
+      "homeTeam": {
+        "name": "Lazio",
+        "shortName": "LAZ",
+        "crest": "https://crests.football-data.org/110.png"
+      },
+      "awayTeam": {
+        "name": "AC Milan",
+        "shortName": "AC ",
+        "crest": "https://crests.football-data.org/98.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "stats": {
+        "possession": "81% - 17%",
+        "xG": "2.5 - 0.2"
+      },
+      "group": "Matchweek 35"
+    },
+    {
+      "id": 1074,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 11,
+      "homeTeam": {
+        "name": "Roma",
+        "shortName": "ROM",
+        "crest": "https://crests.football-data.org/100.png"
+      },
+      "awayTeam": {
+        "name": "Como",
+        "shortName": "COM",
+        "crest": "https://crests.football-data.org/7342.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "stats": {
+        "possession": "72% - 75%",
+        "xG": "3.0 - 0.3"
+      },
+      "group": "Matchweek 1"
+    },
+    {
+      "id": 1075,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 14,
+      "homeTeam": {
+        "name": "Inter Milan",
+        "shortName": "INT",
+        "crest": "https://crests.football-data.org/108.png"
+      },
+      "awayTeam": {
+        "name": "AC Milan",
+        "shortName": "AC ",
+        "crest": "https://crests.football-data.org/98.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "stats": {
+        "possession": "83% - 18%",
+        "xG": "2.3 - 0.1"
+      },
+      "group": "Matchweek 22"
+    },
+    {
+      "id": 1076,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 82,
+      "homeTeam": {
+        "name": "Como",
+        "shortName": "COM",
+        "crest": "https://crests.football-data.org/7342.png"
+      },
+      "awayTeam": {
+        "name": "AC Milan",
+        "shortName": "AC ",
+        "crest": "https://crests.football-data.org/98.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "stats": {
+        "possession": "53% - 37%",
+        "xG": "1.0 - 1.4"
+      },
+      "group": "Matchweek 7"
+    },
+    {
+      "id": 1077,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 18,
+      "homeTeam": {
+        "name": "Napoli",
+        "shortName": "NAP",
+        "crest": "https://crests.football-data.org/113.png"
+      },
+      "awayTeam": {
+        "name": "Atalanta",
+        "shortName": "ATA",
+        "crest": "https://crests.football-data.org/102.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "stats": {
+        "possession": "55% - 29%",
+        "xG": "1.6 - 1.7"
+      },
+      "group": "Matchweek 33"
+    },
+    {
+      "id": 1078,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 88,
+      "homeTeam": {
+        "name": "Roma",
+        "shortName": "ROM",
+        "crest": "https://crests.football-data.org/100.png"
+      },
+      "awayTeam": {
+        "name": "Atalanta",
+        "shortName": "ATA",
+        "crest": "https://crests.football-data.org/102.png"
+      },
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "stats": {
+        "possession": "59% - 35%",
+        "xG": "1.8 - 0.5"
+      },
+      "group": "Matchweek 33"
+    },
+    {
+      "id": 1079,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-17T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "AC Milan",
+        "shortName": "AC ",
+        "crest": "https://crests.football-data.org/98.png"
+      },
+      "awayTeam": {
+        "name": "Como",
+        "shortName": "COM",
+        "crest": "https://crests.football-data.org/7342.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 25"
+    },
+    {
+      "id": 1080,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-17T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Como",
+        "shortName": "COM",
+        "crest": "https://crests.football-data.org/7342.png"
+      },
+      "awayTeam": {
+        "name": "Atalanta",
+        "shortName": "ATA",
+        "crest": "https://crests.football-data.org/102.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 38"
+    },
+    {
+      "id": 1081,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-16T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Inter Milan",
+        "shortName": "INT",
+        "crest": "https://crests.football-data.org/108.png"
+      },
+      "awayTeam": {
+        "name": "Lazio",
+        "shortName": "LAZ",
+        "crest": "https://crests.football-data.org/110.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 38"
+    },
+    {
+      "id": 1082,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-13T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Lazio",
+        "shortName": "LAZ",
+        "crest": "https://crests.football-data.org/110.png"
+      },
+      "awayTeam": {
+        "name": "Roma",
+        "shortName": "ROM",
+        "crest": "https://crests.football-data.org/100.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 21"
+    },
+    {
+      "id": 1083,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-15T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Inter Milan",
+        "shortName": "INT",
+        "crest": "https://crests.football-data.org/108.png"
+      },
+      "awayTeam": {
+        "name": "Como",
+        "shortName": "COM",
+        "crest": "https://crests.football-data.org/7342.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 17"
+    },
+    {
+      "id": 1084,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-14T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Juventus",
+        "shortName": "JUV",
+        "crest": "https://crests.football-data.org/109.png"
+      },
+      "awayTeam": {
+        "name": "Napoli",
+        "shortName": "NAP",
+        "crest": "https://crests.football-data.org/113.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 7"
+    },
+    {
+      "id": 1085,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-10T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Atalanta",
+        "shortName": "ATA",
+        "crest": "https://crests.football-data.org/102.png"
+      },
+      "awayTeam": {
+        "name": "Napoli",
+        "shortName": "NAP",
+        "crest": "https://crests.football-data.org/113.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "stats": {
+        "possession": "45% - 23%",
+        "xG": "0.2 - 2.8"
+      },
+      "group": "Matchweek 26"
+    },
+    {
+      "id": 1086,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-07T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Juventus",
+        "shortName": "JUV",
+        "crest": "https://crests.football-data.org/109.png"
+      },
+      "awayTeam": {
+        "name": "Atalanta",
+        "shortName": "ATA",
+        "crest": "https://crests.football-data.org/102.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "stats": {
+        "possession": "10% - 39%",
+        "xG": "0.7 - 1.2"
+      },
+      "group": "Matchweek 22"
+    },
+    {
+      "id": 1087,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-10T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Lazio",
+        "shortName": "LAZ",
+        "crest": "https://crests.football-data.org/110.png"
+      },
+      "awayTeam": {
+        "name": "Atalanta",
+        "shortName": "ATA",
+        "crest": "https://crests.football-data.org/102.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "stats": {
+        "possession": "65% - 7%",
+        "xG": "0.5 - 1.2"
+      },
+      "group": "Matchweek 17"
+    },
+    {
+      "id": 1088,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-11T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Atalanta",
+        "shortName": "ATA",
+        "crest": "https://crests.football-data.org/102.png"
+      },
+      "awayTeam": {
+        "name": "Roma",
+        "shortName": "ROM",
+        "crest": "https://crests.football-data.org/100.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "stats": {
+        "possession": "63% - 69%",
+        "xG": "2.8 - 1.9"
+      },
+      "group": "Matchweek 22"
+    },
+    {
+      "id": 1089,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-08T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Lazio",
+        "shortName": "LAZ",
+        "crest": "https://crests.football-data.org/110.png"
+      },
+      "awayTeam": {
+        "name": "Juventus",
+        "shortName": "JUV",
+        "crest": "https://crests.football-data.org/109.png"
+      },
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "stats": {
+        "possession": "28% - 43%",
+        "xG": "0.5 - 0.9"
+      },
+      "group": "Matchweek 13"
+    },
+    {
+      "id": 1090,
+      "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA"
+      },
+      "utcDate": "2026-04-07T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Inter Milan",
+        "shortName": "INT",
+        "crest": "https://crests.football-data.org/108.png"
+      },
+      "awayTeam": {
+        "name": "AC Milan",
+        "shortName": "AC ",
+        "crest": "https://crests.football-data.org/98.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "stats": {
+        "possession": "48% - 21%",
+        "xG": "0.6 - 1.9"
+      },
+      "group": "Matchweek 4"
+    },
+    {
+      "id": 1091,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 25,
+      "homeTeam": {
+        "name": "Inter Milan",
+        "shortName": "INT",
+        "crest": "https://crests.football-data.org/108.png"
+      },
+      "awayTeam": {
+        "name": "Real Madrid",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/86.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "stats": {
+        "possession": "65% - 40%",
+        "xG": "0.4 - 2.5"
+      },
+      "group": "Matchweek 31"
+    },
+    {
+      "id": 1092,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 3,
+      "homeTeam": {
+        "name": "Arsenal",
+        "shortName": "ARS",
+        "crest": "https://crests.football-data.org/57.png"
+      },
+      "awayTeam": {
+        "name": "Liverpool",
+        "shortName": "LIV",
+        "crest": "https://crests.football-data.org/64.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "stats": {
+        "possession": "76% - 37%",
+        "xG": "1.7 - 2.5"
+      },
+      "group": "Matchweek 37"
+    },
+    {
+      "id": 1093,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 41,
+      "homeTeam": {
+        "name": "Paris Saint German",
+        "shortName": "PAR",
+        "crest": "https://crests.football-data.org/524.png"
+      },
+      "awayTeam": {
+        "name": "Inter Milan",
+        "shortName": "INT",
+        "crest": "https://crests.football-data.org/108.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "stats": {
+        "possession": "41% - 23%",
+        "xG": "2.0 - 2.0"
+      },
+      "group": "Matchweek 15"
+    },
+    {
+      "id": 1094,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 40,
+      "homeTeam": {
+        "name": "Arsenal",
+        "shortName": "ARS",
+        "crest": "https://crests.football-data.org/57.png"
+      },
+      "awayTeam": {
+        "name": "Juventus",
+        "shortName": "JUV",
+        "crest": "https://crests.football-data.org/109.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "stats": {
+        "possession": "12% - 25%",
+        "xG": "2.1 - 0.7"
+      },
+      "group": "Matchweek 6"
+    },
+    {
+      "id": 1095,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 42,
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/86.png"
+      },
+      "awayTeam": {
+        "name": "Paris Saint German",
+        "shortName": "PAR",
+        "crest": "https://crests.football-data.org/524.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "stats": {
+        "possession": "79% - 73%",
+        "xG": "1.8 - 1.9"
+      },
+      "group": "Matchweek 32"
+    },
+    {
+      "id": 1096,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-12T10:44:05.200Z",
+      "status": "IN_PLAY",
+      "minute": 15,
+      "homeTeam": {
+        "name": "Bayern Munich",
+        "shortName": "BAY",
+        "crest": "https://crests.football-data.org/5.png"
+      },
+      "awayTeam": {
+        "name": "Arsenal",
+        "shortName": "ARS",
+        "crest": "https://crests.football-data.org/57.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "stats": {
+        "possession": "55% - 38%",
+        "xG": "0.8 - 0.2"
+      },
+      "group": "Matchweek 23"
+    },
+    {
+      "id": 1097,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-13T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Paris Saint German",
+        "shortName": "PAR",
+        "crest": "https://crests.football-data.org/524.png"
+      },
+      "awayTeam": {
+        "name": "Juventus",
+        "shortName": "JUV",
+        "crest": "https://crests.football-data.org/109.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 16"
+    },
+    {
+      "id": 1098,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-17T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Juventus",
+        "shortName": "JUV",
+        "crest": "https://crests.football-data.org/109.png"
+      },
+      "awayTeam": {
+        "name": "Paris Saint German",
+        "shortName": "PAR",
+        "crest": "https://crests.football-data.org/524.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 35"
+    },
+    {
+      "id": 1099,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-17T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Inter Milan",
+        "shortName": "INT",
+        "crest": "https://crests.football-data.org/108.png"
+      },
+      "awayTeam": {
+        "name": "Liverpool",
+        "shortName": "LIV",
+        "crest": "https://crests.football-data.org/64.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 29"
+    },
+    {
+      "id": 1100,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-15T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/86.png"
+      },
+      "awayTeam": {
+        "name": "Paris Saint German",
+        "shortName": "PAR",
+        "crest": "https://crests.football-data.org/524.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 32"
+    },
+    {
+      "id": 1101,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-13T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Juventus",
+        "shortName": "JUV",
+        "crest": "https://crests.football-data.org/109.png"
+      },
+      "awayTeam": {
+        "name": "Inter Milan",
+        "shortName": "INT",
+        "crest": "https://crests.football-data.org/108.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 4"
+    },
+    {
+      "id": 1102,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-13T10:44:05.200Z",
+      "status": "SCHEDULED",
+      "homeTeam": {
+        "name": "Liverpool",
+        "shortName": "LIV",
+        "crest": "https://crests.football-data.org/64.png"
+      },
+      "awayTeam": {
+        "name": "Paris Saint German",
+        "shortName": "PAR",
+        "crest": "https://crests.football-data.org/524.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      },
+      "stats": {},
+      "group": "Matchweek 2"
+    },
+    {
+      "id": 1103,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-11T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Real Madrid",
+        "shortName": "REA",
+        "crest": "https://crests.football-data.org/86.png"
+      },
+      "awayTeam": {
+        "name": "Paris Saint German",
+        "shortName": "PAR",
+        "crest": "https://crests.football-data.org/524.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "stats": {
+        "possession": "11% - 64%",
+        "xG": "0.7 - 1.6"
+      },
+      "group": "Matchweek 26"
+    },
+    {
+      "id": 1104,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-11T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Arsenal",
+        "shortName": "ARS",
+        "crest": "https://crests.football-data.org/57.png"
+      },
+      "awayTeam": {
+        "name": "Manchester City",
+        "shortName": "MAN",
+        "crest": "https://crests.football-data.org/65.png"
+      },
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "stats": {
+        "possession": "17% - 48%",
+        "xG": "0.0 - 2.0"
+      },
+      "group": "Matchweek 23"
+    },
+    {
+      "id": 1105,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-07T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Juventus",
+        "shortName": "JUV",
+        "crest": "https://crests.football-data.org/109.png"
+      },
+      "awayTeam": {
+        "name": "Arsenal",
+        "shortName": "ARS",
+        "crest": "https://crests.football-data.org/57.png"
+      },
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "stats": {
+        "possession": "41% - 76%",
+        "xG": "2.2 - 1.0"
+      },
+      "group": "Matchweek 4"
+    },
+    {
+      "id": 1106,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-09T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Manchester City",
+        "shortName": "MAN",
+        "crest": "https://crests.football-data.org/65.png"
+      },
+      "awayTeam": {
+        "name": "Liverpool",
+        "shortName": "LIV",
+        "crest": "https://crests.football-data.org/64.png"
+      },
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "stats": {
+        "possession": "48% - 21%",
+        "xG": "2.4 - 0.8"
+      },
+      "group": "Matchweek 10"
+    },
+    {
+      "id": 1107,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-09T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Manchester City",
+        "shortName": "MAN",
+        "crest": "https://crests.football-data.org/65.png"
+      },
+      "awayTeam": {
+        "name": "Bayern Munich",
+        "shortName": "BAY",
+        "crest": "https://crests.football-data.org/5.png"
+      },
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "stats": {
+        "possession": "29% - 5%",
+        "xG": "1.5 - 1.0"
+      },
+      "group": "Matchweek 12"
+    },
+    {
+      "id": 1108,
+      "competition": {
+        "id": 2001,
+        "name": "Champions League",
+        "code": "CL"
+      },
+      "utcDate": "2026-04-10T10:44:05.200Z",
+      "status": "FINISHED",
+      "homeTeam": {
+        "name": "Inter Milan",
+        "shortName": "INT",
+        "crest": "https://crests.football-data.org/108.png"
+      },
+      "awayTeam": {
+        "name": "Juventus",
+        "shortName": "JUV",
+        "crest": "https://crests.football-data.org/109.png"
+      },
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "stats": {
+        "possession": "14% - 19%",
+        "xG": "2.7 - 1.1"
+      },
+      "group": "Matchweek 11"
+    }
+  ]
+}

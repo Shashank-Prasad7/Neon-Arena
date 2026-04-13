@@ -1,0 +1,6702 @@
+[
+  {
+    "id": 1,
+    "name": "Rafael Thorne",
+    "shortName": "R. Thorne",
+    "number": 9,
+    "position": "Forward",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "Neo Tokyo FC",
+    "age": 24,
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?q=80&w=400&fit=crop",
+    "rating": 94,
+    "badge": "TOP RATED",
+    "stats": {
+      "pace": 95,
+      "shooting": 93,
+      "passing": 80,
+      "dribbling": 92,
+      "defending": 32,
+      "physical": 78
+    },
+    "seasonStats": {
+      "goals": 28,
+      "assists": 12,
+      "matches": 32,
+      "minutesPlayed": 2688,
+      "passAccuracy": 81,
+      "shotsOnTarget": 74,
+      "tackles": 18,
+      "sprints": 312
+    },
+    "recentForm": [
+      {
+        "opponent": "FCB",
+        "score": 8.5,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "opponent": "ATM",
+        "score": 7.2,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "VIL",
+        "score": 9.2,
+        "goals": 3,
+        "assists": 0
+      },
+      {
+        "opponent": "SEV",
+        "score": 6.8,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "BET",
+        "score": 8,
+        "goals": 1,
+        "assists": 1
+      }
+    ],
+    "careerHighlights": [
+      "Champions League Winner 2023",
+      "Golden Boot 2022/23 (28 goals)",
+      "World Cup Top Scorer 2022",
+      "Best Young Player 2021"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lucas Vance",
+    "shortName": "L. Vance",
+    "number": 8,
+    "position": "Midfielder",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "London United",
+    "age": 27,
+    "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?q=80&w=400&fit=crop",
+    "rating": 91,
+    "badge": null,
+    "stats": {
+      "pace": 82,
+      "shooting": 75,
+      "passing": 94,
+      "dribbling": 88,
+      "defending": 72,
+      "physical": 80
+    },
+    "seasonStats": {
+      "goals": 8,
+      "assists": 21,
+      "matches": 34,
+      "minutesPlayed": 3000,
+      "passAccuracy": 92,
+      "shotsOnTarget": 22,
+      "tackles": 44,
+      "sprints": 289
+    },
+    "recentForm": [
+      {
+        "opponent": "CHE",
+        "score": 7.8,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "ARS",
+        "score": 8.1,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "MCI",
+        "score": 7.5,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "EVE",
+        "score": 6.9,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "NEW",
+        "score": 8.4,
+        "goals": 2,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Premier League Player of the Season 2023",
+      "England World Cup Squad 2022",
+      "League Cup Winner 2022",
+      "4x Premier League Winner"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Soren Klerk",
+    "shortName": "S. Klerk",
+    "number": 4,
+    "position": "Defender",
+    "nationality": "Denmark",
+    "nationalityCode": "dk",
+    "club": "Nordic Alliance FC",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=400&fit=crop",
+    "rating": 88,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 78,
+      "shooting": 52,
+      "passing": 82,
+      "dribbling": 71,
+      "defending": 96,
+      "physical": 93
+    },
+    "seasonStats": {
+      "goals": 3,
+      "assists": 6,
+      "matches": 33,
+      "minutesPlayed": 2970,
+      "passAccuracy": 87,
+      "shotsOnTarget": 8,
+      "tackles": 104,
+      "sprints": 322
+    },
+    "recentForm": [
+      {
+        "opponent": "HAM",
+        "score": 7.6,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "HOF",
+        "score": 8.2,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "WOL",
+        "score": 7.1,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "BRE",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "CRY",
+        "score": 8.5,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Bundesliga Defender of the Year 2023",
+      "Denmark National Team Captain",
+      "Champions League Finalist 2023",
+      "2x Bundesliga Winner"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Yuta Tanaka",
+    "shortName": "Y. Tanaka",
+    "number": 11,
+    "position": "Winger",
+    "nationality": "Japan",
+    "nationalityCode": "jp",
+    "club": "Kyoto Dynamos",
+    "age": 22,
+    "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=400&fit=crop",
+    "rating": 85,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 97,
+      "shooting": 78,
+      "passing": 82,
+      "dribbling": 94,
+      "defending": 38,
+      "physical": 70
+    },
+    "seasonStats": {
+      "goals": 14,
+      "assists": 18,
+      "matches": 30,
+      "minutesPlayed": 2400,
+      "passAccuracy": 78,
+      "shotsOnTarget": 38,
+      "tackles": 22,
+      "sprints": 445
+    },
+    "recentForm": [
+      {
+        "opponent": "OSK",
+        "score": 8.7,
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "opponent": "TOK",
+        "score": 7.4,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "KAW",
+        "score": 8.9,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "opponent": "YOK",
+        "score": 7.2,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "HIR",
+        "score": 8.1,
+        "goals": 1,
+        "assists": 1
+      }
+    ],
+    "careerHighlights": [
+      "J-League MVP 2023",
+      "Asian Cup Winner 2023",
+      "Top Dribbler J-League 2022/23",
+      "Japan Golden Boot 2023"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Kylian Mbappé",
+    "shortName": "K. Mbappé",
+    "number": 10,
+    "position": "Forward",
+    "nationality": "France",
+    "nationalityCode": "fr",
+    "club": "Real Madrid",
+    "age": 25,
+    "image": "https://images.unsplash.com/photo-1518605368461-1ee790ab2281?q=80&w=400&fit=crop",
+    "rating": 97,
+    "badge": "LEGENDARY",
+    "stats": {
+      "pace": 97,
+      "shooting": 91,
+      "passing": 83,
+      "dribbling": 92,
+      "defending": 36,
+      "physical": 78
+    },
+    "seasonStats": {
+      "goals": 36,
+      "assists": 14,
+      "matches": 35,
+      "minutesPlayed": 2890,
+      "passAccuracy": 82,
+      "shotsOnTarget": 98,
+      "tackles": 14,
+      "sprints": 498
+    },
+    "recentForm": [
+      {
+        "opponent": "BAR",
+        "score": 9.4,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "opponent": "ATM",
+        "score": 8.1,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "VIL",
+        "score": 9.2,
+        "goals": 3,
+        "assists": 0
+      },
+      {
+        "opponent": "SEV",
+        "score": 7.8,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "BET",
+        "score": 8.5,
+        "goals": 1,
+        "assists": 1
+      }
+    ],
+    "careerHighlights": [
+      "Champions League Winner 2024",
+      "Ligue 1 Golden Boot x5",
+      "World Cup Winner 2018",
+      "Ballon d'Or 2023"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Marcus Vance",
+    "shortName": "M. Vance",
+    "number": 7,
+    "position": "Midfielder",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "London Titans",
+    "age": 28,
+    "image": "https://images.unsplash.com/photo-1511886929837-354d827a08b5?q=80&w=400&fit=crop",
+    "rating": 90,
+    "badge": null,
+    "stats": {
+      "pace": 94,
+      "shooting": 88,
+      "passing": 91,
+      "dribbling": 89,
+      "defending": 68,
+      "physical": 82
+    },
+    "seasonStats": {
+      "goals": 15,
+      "assists": 16,
+      "matches": 33,
+      "minutesPlayed": 2900,
+      "passAccuracy": 88,
+      "shotsOnTarget": 42,
+      "tackles": 55,
+      "sprints": 356
+    },
+    "recentForm": [
+      {
+        "opponent": "BER",
+        "score": 8.3,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "PAR",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "MIL",
+        "score": 8.7,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "opponent": "ROM",
+        "score": 7.5,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "INT",
+        "score": 8.2,
+        "goals": 0,
+        "assists": 2
+      }
+    ],
+    "careerHighlights": [
+      "PFA Player of the Year 2023",
+      "3x Premier League Winner",
+      "FA Cup Winner 2022",
+      "Euro 2024 Semi-Finalist"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Diego Herrera",
+    "shortName": "D. Herrera",
+    "number": 10,
+    "position": "Forward",
+    "nationality": "Argentina",
+    "nationalityCode": "ar",
+    "club": "Buenos Aires CF",
+    "age": 23,
+    "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?q=80&w=400&fit=crop",
+    "rating": 87,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 88,
+      "shooting": 89,
+      "passing": 84,
+      "dribbling": 93,
+      "defending": 30,
+      "physical": 76
+    },
+    "seasonStats": {
+      "goals": 22,
+      "assists": 9,
+      "matches": 28,
+      "minutesPlayed": 2300,
+      "passAccuracy": 79,
+      "shotsOnTarget": 58,
+      "tackles": 12,
+      "sprints": 340
+    },
+    "recentForm": [
+      {
+        "opponent": "BOC",
+        "score": 8.8,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "opponent": "RIV",
+        "score": 7.6,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "SAN",
+        "score": 8.1,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "LAN",
+        "score": 9,
+        "goals": 3,
+        "assists": 0
+      },
+      {
+        "opponent": "IND",
+        "score": 7.3,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Argentine Liga Top Scorer 2023",
+      "Copa Libertadores Winner 2023",
+      "U-23 World Cup Winner 2022",
+      "Argentine Footballer of the Year 2023"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Finn Mueller",
+    "shortName": "F. Mueller",
+    "number": 6,
+    "position": "Midfielder",
+    "nationality": "Germany",
+    "nationalityCode": "de",
+    "club": "Berlin Kings",
+    "age": 25,
+    "image": "https://images.unsplash.com/photo-1551280857-e63bd0b7fdee?q=80&w=400&fit=crop",
+    "rating": 86,
+    "badge": null,
+    "stats": {
+      "pace": 80,
+      "shooting": 77,
+      "passing": 92,
+      "dribbling": 85,
+      "defending": 84,
+      "physical": 88
+    },
+    "seasonStats": {
+      "goals": 6,
+      "assists": 19,
+      "matches": 32,
+      "minutesPlayed": 2800,
+      "passAccuracy": 91,
+      "shotsOnTarget": 18,
+      "tackles": 78,
+      "sprints": 298
+    },
+    "recentForm": [
+      {
+        "opponent": "BAY",
+        "score": 7.8,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "DOT",
+        "score": 8.2,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "LEV",
+        "score": 7.5,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "LEI",
+        "score": 8,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "FRE",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 2
+      }
+    ],
+    "careerHighlights": [
+      "Bundesliga Assist Record 2023",
+      "Germany Midfielder of the Year 2023",
+      "DFB-Pokal Winner 2022",
+      "Champions League Quarter-Finalist 2023"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Amara Diallo",
+    "shortName": "A. Diallo",
+    "number": 9,
+    "position": "Forward",
+    "nationality": "Senegal",
+    "nationalityCode": "sn",
+    "club": "Paris Saints",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?q=80&w=400&fit=crop",
+    "rating": 89,
+    "badge": "TOP RATED",
+    "stats": {
+      "pace": 93,
+      "shooting": 90,
+      "passing": 76,
+      "dribbling": 88,
+      "defending": 28,
+      "physical": 86
+    },
+    "seasonStats": {
+      "goals": 25,
+      "assists": 7,
+      "matches": 31,
+      "minutesPlayed": 2600,
+      "passAccuracy": 74,
+      "shotsOnTarget": 66,
+      "tackles": 10,
+      "sprints": 388
+    },
+    "recentForm": [
+      {
+        "opponent": "LYO",
+        "score": 8.9,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "opponent": "MAR",
+        "score": 8.4,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "NIC",
+        "score": 9.1,
+        "goals": 2,
+        "assists": 2
+      },
+      {
+        "opponent": "STR",
+        "score": 7.6,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "REN",
+        "score": 8.7,
+        "goals": 2,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Ligue 1 Top Scorer 2023 (25 goals)",
+      "AFCON Winner 2023",
+      "CAF Player of the Year 2023",
+      "Champions League Top Scorer 2022/23"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Van Der Graaf",
+    "shortName": "Van Der Graaf",
+    "number": 4,
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Amsterdam United",
+    "age": 29,
+    "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?q=80&w=400&fit=crop",
+    "rating": 92,
+    "badge": null,
+    "stats": {
+      "pace": 80,
+      "shooting": 55,
+      "passing": 84,
+      "dribbling": 73,
+      "defending": 98,
+      "physical": 95
+    },
+    "seasonStats": {
+      "goals": 4,
+      "assists": 8,
+      "matches": 34,
+      "minutesPlayed": 3060,
+      "passAccuracy": 89,
+      "shotsOnTarget": 10,
+      "tackles": 118,
+      "sprints": 290
+    },
+    "recentForm": [
+      {
+        "opponent": "PSG",
+        "score": 8.8,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "BAY",
+        "score": 8.1,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "INT",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "JUV",
+        "score": 8.5,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "BEN",
+        "score": 9,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Eredivisie Defender of the Year x3",
+      "Champions League Winner 2023",
+      "Netherlands National Team Vice-Captain",
+      "UEFA Team of the Year 2023"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Carlos Santos",
+    "shortName": "C. Santos",
+    "number": 11,
+    "position": "Winger",
+    "nationality": "Portugal",
+    "nationalityCode": "pt",
+    "club": "Lisbon FC",
+    "age": 21,
+    "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=400&fit=crop",
+    "rating": 83,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 96,
+      "shooting": 81,
+      "passing": 78,
+      "dribbling": 91,
+      "defending": 40,
+      "physical": 72
+    },
+    "seasonStats": {
+      "goals": 12,
+      "assists": 14,
+      "matches": 28,
+      "minutesPlayed": 2100,
+      "passAccuracy": 76,
+      "shotsOnTarget": 32,
+      "tackles": 18,
+      "sprints": 410
+    },
+    "recentForm": [
+      {
+        "opponent": "BEN",
+        "score": 8.2,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "SPO",
+        "score": 7.8,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "POR",
+        "score": 8.6,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "opponent": "BRA",
+        "score": 7.4,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "GIM",
+        "score": 8,
+        "goals": 0,
+        "assists": 2
+      }
+    ],
+    "careerHighlights": [
+      "Primeira Liga Young Player 2023",
+      "Portugal U-21 Euro Winner 2023",
+      "Golden Boy Nominee 2023",
+      "Liga Record: Most Dribbles U-21 2023"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Takumi Ito",
+    "shortName": "T. Ito",
+    "number": 8,
+    "position": "Midfielder",
+    "nationality": "Japan",
+    "nationalityCode": "jp",
+    "club": "Tokyo Storm FC",
+    "age": 24,
+    "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=400&fit=crop",
+    "rating": 84,
+    "badge": null,
+    "stats": {
+      "pace": 84,
+      "shooting": 79,
+      "passing": 90,
+      "dribbling": 87,
+      "defending": 70,
+      "physical": 76
+    },
+    "seasonStats": {
+      "goals": 9,
+      "assists": 17,
+      "matches": 30,
+      "minutesPlayed": 2600,
+      "passAccuracy": 88,
+      "shotsOnTarget": 24,
+      "tackles": 62,
+      "sprints": 330
+    },
+    "recentForm": [
+      {
+        "opponent": "KAS",
+        "score": 7.9,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "NAG",
+        "score": 8.4,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "URA",
+        "score": 7.6,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "GAN",
+        "score": 8.1,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "SAN",
+        "score": 8.7,
+        "goals": 2,
+        "assists": 1
+      }
+    ],
+    "careerHighlights": [
+      "J-League Best Midfielder 2023",
+      "Asia Champions League Winner 2023",
+      "Japan Player of the Year 2022",
+      "Olympic Bronze Medal 2021"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Ivan Petrov",
+    "shortName": "I. Petrov",
+    "number": 5,
+    "position": "Defender",
+    "nationality": "Croatia",
+    "nationalityCode": "hr",
+    "club": "Zagreb Wolves",
+    "age": 27,
+    "image": "https://images.unsplash.com/photo-1518605368461-1ee790ab2281?q=80&w=400&fit=crop",
+    "rating": 86,
+    "badge": null,
+    "stats": {
+      "pace": 76,
+      "shooting": 58,
+      "passing": 80,
+      "dribbling": 70,
+      "defending": 93,
+      "physical": 90
+    },
+    "seasonStats": {
+      "goals": 2,
+      "assists": 5,
+      "matches": 32,
+      "minutesPlayed": 2880,
+      "passAccuracy": 85,
+      "shotsOnTarget": 6,
+      "tackles": 96,
+      "sprints": 278
+    },
+    "recentForm": [
+      {
+        "opponent": "OSI",
+        "score": 7.8,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "HNK",
+        "score": 8.1,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "HAJ",
+        "score": 7.5,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "RIJ",
+        "score": 8.3,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "VAR",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "HNL Defender of the Year 2023",
+      "Croatia World Cup Bronze Medal 2022",
+      "Europa League Semi-Finalist 2023",
+      "Super Cup Winner 2022"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Leandro Silva",
+    "shortName": "L. Silva",
+    "number": 10,
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "São Paulo Stars",
+    "age": 25,
+    "image": "https://images.unsplash.com/photo-1511886929837-354d827a08b5?q=80&w=400&fit=crop",
+    "rating": 88,
+    "badge": "TOP RATED",
+    "stats": {
+      "pace": 86,
+      "shooting": 84,
+      "passing": 93,
+      "dribbling": 91,
+      "defending": 62,
+      "physical": 80
+    },
+    "seasonStats": {
+      "goals": 11,
+      "assists": 22,
+      "matches": 33,
+      "minutesPlayed": 2900,
+      "passAccuracy": 90,
+      "shotsOnTarget": 30,
+      "tackles": 50,
+      "sprints": 310
+    },
+    "recentForm": [
+      {
+        "opponent": "FLA",
+        "score": 8.6,
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "opponent": "PAL",
+        "score": 8.2,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "FLU",
+        "score": 8.9,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "opponent": "BOT",
+        "score": 7.8,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "COR",
+        "score": 8.4,
+        "goals": 0,
+        "assists": 2
+      }
+    ],
+    "careerHighlights": [
+      "Brasileirão Top Assist Provider 2023",
+      "Copa Libertadores Winner 2023",
+      "Brazil National Team Regular",
+      "South American Footballer of the Year 2023"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Aaron Walsh",
+    "shortName": "A. Walsh",
+    "number": 1,
+    "position": "Goalkeeper",
+    "nationality": "Ireland",
+    "nationalityCode": "ie",
+    "club": "Dublin FC",
+    "age": 28,
+    "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?q=80&w=400&fit=crop",
+    "rating": 87,
+    "badge": null,
+    "stats": {
+      "pace": 52,
+      "shooting": 20,
+      "passing": 68,
+      "dribbling": 30,
+      "defending": 22,
+      "physical": 85
+    },
+    "seasonStats": {
+      "goals": 0,
+      "assists": 2,
+      "matches": 34,
+      "minutesPlayed": 3060,
+      "passAccuracy": 71,
+      "shotsOnTarget": 0,
+      "tackles": 8,
+      "sprints": 120
+    },
+    "recentForm": [
+      {
+        "opponent": "WES",
+        "score": 8.5,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "WAT",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "DER",
+        "score": 8.2,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "NOR",
+        "score": 7.6,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "SWA",
+        "score": 8.8,
+        "goals": 0,
+        "assists": 1
+      }
+    ],
+    "careerHighlights": [
+      "League of Ireland Best Goalkeeper x4",
+      "Ireland International 45 Caps",
+      "Europa Conference League Winner 2023",
+      "League Cup Winner 2022"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Kwame Asante",
+    "shortName": "K. Asante",
+    "number": 7,
+    "position": "Winger",
+    "nationality": "Ghana",
+    "nationalityCode": "gh",
+    "club": "Accra Stars",
+    "age": 22,
+    "image": "https://images.unsplash.com/photo-1551280857-e63bd0b7fdee?q=80&w=400&fit=crop",
+    "rating": 81,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 98,
+      "shooting": 77,
+      "passing": 74,
+      "dribbling": 90,
+      "defending": 32,
+      "physical": 74
+    },
+    "seasonStats": {
+      "goals": 16,
+      "assists": 10,
+      "matches": 29,
+      "minutesPlayed": 2200,
+      "passAccuracy": 72,
+      "shotsOnTarget": 42,
+      "tackles": 14,
+      "sprints": 490
+    },
+    "recentForm": [
+      {
+        "opponent": "HAR",
+        "score": 8.4,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "ASH",
+        "score": 7.8,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "opponent": "KOT",
+        "score": 8.6,
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "opponent": "HEA",
+        "score": 7.4,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "ADO",
+        "score": 8.2,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Ghana Premier League Fastest Player Award 2023",
+      "Ghana U-23 AFCON Winner 2023",
+      "CAF Young Player of the Year Nominee 2023",
+      "GPL Season Top Scorer 2022/23"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Pierre Moreau",
+    "shortName": "P. Moreau",
+    "number": 3,
+    "position": "Defender",
+    "nationality": "France",
+    "nationalityCode": "fr",
+    "club": "Lyon FC",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?q=80&w=400&fit=crop",
+    "rating": 85,
+    "badge": null,
+    "stats": {
+      "pace": 82,
+      "shooting": 60,
+      "passing": 83,
+      "dribbling": 76,
+      "defending": 92,
+      "physical": 88
+    },
+    "seasonStats": {
+      "goals": 3,
+      "assists": 7,
+      "matches": 31,
+      "minutesPlayed": 2700,
+      "passAccuracy": 87,
+      "shotsOnTarget": 8,
+      "tackles": 88,
+      "sprints": 266
+    },
+    "recentForm": [
+      {
+        "opponent": "PSG",
+        "score": 8,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "MAR",
+        "score": 7.7,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "MON",
+        "score": 8.3,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "NIC",
+        "score": 7.5,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "LEN",
+        "score": 8.1,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Ligue 1 Defender of the Year 2023",
+      "France U-21 Euro Bronze Medal",
+      "UEFA Europa League Winner 2022",
+      "3x Ligue 1 Winner"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Matteo Ricci",
+    "shortName": "M. Ricci",
+    "number": 21,
+    "position": "Midfielder",
+    "nationality": "Italy",
+    "nationalityCode": "it",
+    "club": "Roma Wolves",
+    "age": 23,
+    "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?q=80&w=400&fit=crop",
+    "rating": 82,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 78,
+      "shooting": 80,
+      "passing": 88,
+      "dribbling": 83,
+      "defending": 74,
+      "physical": 78
+    },
+    "seasonStats": {
+      "goals": 10,
+      "assists": 13,
+      "matches": 29,
+      "minutesPlayed": 2400,
+      "passAccuracy": 86,
+      "shotsOnTarget": 28,
+      "tackles": 56,
+      "sprints": 292
+    },
+    "recentForm": [
+      {
+        "opponent": "JUV",
+        "score": 7.9,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "INT",
+        "score": 8.3,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "MIL",
+        "score": 7.6,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "NAP",
+        "score": 8.1,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "ATA",
+        "score": 8.5,
+        "goals": 2,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Serie A Young Player of the Year 2023",
+      "Italy U-21 Euro Finalist 2023",
+      "Coppa Italia Winner 2023",
+      "Serie A Best Newcomer 2022"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Erik Lindqvist",
+    "shortName": "E. Lindqvist",
+    "number": 9,
+    "position": "Forward",
+    "nationality": "Sweden",
+    "nationalityCode": "se",
+    "club": "Stockholm Giants",
+    "age": 24,
+    "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=400&fit=crop",
+    "rating": 83,
+    "badge": null,
+    "stats": {
+      "pace": 84,
+      "shooting": 87,
+      "passing": 75,
+      "dribbling": 82,
+      "defending": 36,
+      "physical": 84
+    },
+    "seasonStats": {
+      "goals": 20,
+      "assists": 8,
+      "matches": 30,
+      "minutesPlayed": 2500,
+      "passAccuracy": 73,
+      "shotsOnTarget": 54,
+      "tackles": 16,
+      "sprints": 334
+    },
+    "recentForm": [
+      {
+        "opponent": "MAL",
+        "score": 8.1,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "opponent": "HAM",
+        "score": 7.6,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "GBG",
+        "score": 8.4,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "IFK",
+        "score": 7.9,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "AIK",
+        "score": 8.6,
+        "goals": 2,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Allsvenskan Top Scorer 2023 (20 goals)",
+      "Sweden Player of the Year 2023",
+      "Europa League Top Scorer 2022/23",
+      "2x Allsvenskan Winner"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Hassan Al-Rashid",
+    "shortName": "H. Al-Rashid",
+    "number": 8,
+    "position": "Midfielder",
+    "nationality": "Morocco",
+    "nationalityCode": "ma",
+    "club": "Casablanca United",
+    "age": 25,
+    "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=400&fit=crop",
+    "rating": 84,
+    "badge": "TOP RATED",
+    "stats": {
+      "pace": 83,
+      "shooting": 78,
+      "passing": 91,
+      "dribbling": 88,
+      "defending": 76,
+      "physical": 82
+    },
+    "seasonStats": {
+      "goals": 8,
+      "assists": 16,
+      "matches": 31,
+      "minutesPlayed": 2700,
+      "passAccuracy": 89,
+      "shotsOnTarget": 22,
+      "tackles": 70,
+      "sprints": 306
+    },
+    "recentForm": [
+      {
+        "opponent": "WAD",
+        "score": 8.2,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "FAR",
+        "score": 7.8,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "IST",
+        "score": 8.5,
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "opponent": "MAS",
+        "score": 7.6,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "OLM",
+        "score": 8.3,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "AFCON Runner-Up 2023",
+      "Botola Best Midfielder 2023",
+      "Morocco World Cup Semi-Finalist 2022",
+      "CAF Champions League Winner 2023"
+    ]
+  },
+  {
+    "id": "1775988566071",
+    "name": "Victor Santos",
+    "shortName": "R. Thorne",
+    "number": 9,
+    "position": "Forward",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "Roma",
+    "age": 24,
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?q=80&w=400&fit=crop",
+    "rating": 93,
+    "badge": "TOP RATED",
+    "stats": {
+      "pace": 95,
+      "shooting": 93,
+      "passing": 80,
+      "dribbling": 92,
+      "defending": 32,
+      "physical": 78
+    },
+    "seasonStats": {
+      "goals": 28,
+      "assists": 12,
+      "matches": 32,
+      "minutesPlayed": 2688,
+      "passAccuracy": 81,
+      "shotsOnTarget": 74,
+      "tackles": 18,
+      "sprints": 312
+    },
+    "recentForm": [
+      {
+        "opponent": "FCB",
+        "score": 8.5,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "opponent": "ATM",
+        "score": 7.2,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "VIL",
+        "score": 9.2,
+        "goals": 3,
+        "assists": 0
+      },
+      {
+        "opponent": "SEV",
+        "score": 6.8,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "BET",
+        "score": 8,
+        "goals": 1,
+        "assists": 1
+      }
+    ],
+    "careerHighlights": [
+      "Champions League Winner 2023",
+      "Golden Boot 2022/23 (28 goals)",
+      "World Cup Top Scorer 2022",
+      "Best Young Player 2021"
+    ]
+  },
+  {
+    "id": "1775988566072",
+    "name": "Alexander Larsen",
+    "shortName": "L. Vance",
+    "number": 8,
+    "position": "Midfielder",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "Rennes",
+    "age": 27,
+    "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?q=80&w=400&fit=crop",
+    "rating": 92,
+    "badge": null,
+    "stats": {
+      "pace": 82,
+      "shooting": 75,
+      "passing": 94,
+      "dribbling": 88,
+      "defending": 72,
+      "physical": 80
+    },
+    "seasonStats": {
+      "goals": 8,
+      "assists": 21,
+      "matches": 34,
+      "minutesPlayed": 3000,
+      "passAccuracy": 92,
+      "shotsOnTarget": 22,
+      "tackles": 44,
+      "sprints": 289
+    },
+    "recentForm": [
+      {
+        "opponent": "CHE",
+        "score": 7.8,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "ARS",
+        "score": 8.1,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "MCI",
+        "score": 7.5,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "EVE",
+        "score": 6.9,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "NEW",
+        "score": 8.4,
+        "goals": 2,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Premier League Player of the Season 2023",
+      "England World Cup Squad 2022",
+      "League Cup Winner 2022",
+      "4x Premier League Winner"
+    ]
+  },
+  {
+    "id": "1775988566073",
+    "name": "Marcus Hernandez",
+    "shortName": "S. Klerk",
+    "number": 4,
+    "position": "Defender",
+    "nationality": "Denmark",
+    "nationalityCode": "dk",
+    "club": "AC Milan",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=400&fit=crop",
+    "rating": 92,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 78,
+      "shooting": 52,
+      "passing": 82,
+      "dribbling": 71,
+      "defending": 96,
+      "physical": 93
+    },
+    "seasonStats": {
+      "goals": 3,
+      "assists": 6,
+      "matches": 33,
+      "minutesPlayed": 2970,
+      "passAccuracy": 87,
+      "shotsOnTarget": 8,
+      "tackles": 104,
+      "sprints": 322
+    },
+    "recentForm": [
+      {
+        "opponent": "HAM",
+        "score": 7.6,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "HOF",
+        "score": 8.2,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "WOL",
+        "score": 7.1,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "BRE",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "CRY",
+        "score": 8.5,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Bundesliga Defender of the Year 2023",
+      "Denmark National Team Captain",
+      "Champions League Finalist 2023",
+      "2x Bundesliga Winner"
+    ]
+  },
+  {
+    "id": "1775988566074",
+    "name": "Oscar Vance",
+    "shortName": "Y. Tanaka",
+    "number": 11,
+    "position": "Winger",
+    "nationality": "Japan",
+    "nationalityCode": "jp",
+    "club": "Rennes",
+    "age": 22,
+    "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=400&fit=crop",
+    "rating": 90,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 97,
+      "shooting": 78,
+      "passing": 82,
+      "dribbling": 94,
+      "defending": 38,
+      "physical": 70
+    },
+    "seasonStats": {
+      "goals": 14,
+      "assists": 18,
+      "matches": 30,
+      "minutesPlayed": 2400,
+      "passAccuracy": 78,
+      "shotsOnTarget": 38,
+      "tackles": 22,
+      "sprints": 445
+    },
+    "recentForm": [
+      {
+        "opponent": "OSK",
+        "score": 8.7,
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "opponent": "TOK",
+        "score": 7.4,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "KAW",
+        "score": 8.9,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "opponent": "YOK",
+        "score": 7.2,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "HIR",
+        "score": 8.1,
+        "goals": 1,
+        "assists": 1
+      }
+    ],
+    "careerHighlights": [
+      "J-League MVP 2023",
+      "Asian Cup Winner 2023",
+      "Top Dribbler J-League 2022/23",
+      "Japan Golden Boot 2023"
+    ]
+  },
+  {
+    "id": "1775988566075",
+    "name": "Alexander Martinez",
+    "shortName": "K. Mbappé",
+    "number": 10,
+    "position": "Forward",
+    "nationality": "France",
+    "nationalityCode": "fr",
+    "club": "Liverpool",
+    "age": 25,
+    "image": "https://images.unsplash.com/photo-1518605368461-1ee790ab2281?q=80&w=400&fit=crop",
+    "rating": 87,
+    "badge": "LEGENDARY",
+    "stats": {
+      "pace": 97,
+      "shooting": 91,
+      "passing": 83,
+      "dribbling": 92,
+      "defending": 36,
+      "physical": 78
+    },
+    "seasonStats": {
+      "goals": 36,
+      "assists": 14,
+      "matches": 35,
+      "minutesPlayed": 2890,
+      "passAccuracy": 82,
+      "shotsOnTarget": 98,
+      "tackles": 14,
+      "sprints": 498
+    },
+    "recentForm": [
+      {
+        "opponent": "BAR",
+        "score": 9.4,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "opponent": "ATM",
+        "score": 8.1,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "VIL",
+        "score": 9.2,
+        "goals": 3,
+        "assists": 0
+      },
+      {
+        "opponent": "SEV",
+        "score": 7.8,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "BET",
+        "score": 8.5,
+        "goals": 1,
+        "assists": 1
+      }
+    ],
+    "careerHighlights": [
+      "Champions League Winner 2024",
+      "Ligue 1 Golden Boot x5",
+      "World Cup Winner 2018",
+      "Ballon d'Or 2023"
+    ]
+  },
+  {
+    "id": "1775988566076",
+    "name": "Gabriel Chen",
+    "shortName": "M. Vance",
+    "number": 7,
+    "position": "Midfielder",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "AC Milan",
+    "age": 28,
+    "image": "https://images.unsplash.com/photo-1511886929837-354d827a08b5?q=80&w=400&fit=crop",
+    "rating": 82,
+    "badge": null,
+    "stats": {
+      "pace": 94,
+      "shooting": 88,
+      "passing": 91,
+      "dribbling": 89,
+      "defending": 68,
+      "physical": 82
+    },
+    "seasonStats": {
+      "goals": 15,
+      "assists": 16,
+      "matches": 33,
+      "minutesPlayed": 2900,
+      "passAccuracy": 88,
+      "shotsOnTarget": 42,
+      "tackles": 55,
+      "sprints": 356
+    },
+    "recentForm": [
+      {
+        "opponent": "BER",
+        "score": 8.3,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "PAR",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "MIL",
+        "score": 8.7,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "opponent": "ROM",
+        "score": 7.5,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "INT",
+        "score": 8.2,
+        "goals": 0,
+        "assists": 2
+      }
+    ],
+    "careerHighlights": [
+      "PFA Player of the Year 2023",
+      "3x Premier League Winner",
+      "FA Cup Winner 2022",
+      "Euro 2024 Semi-Finalist"
+    ]
+  },
+  {
+    "id": "1775988566077",
+    "name": "Victor Hernandez",
+    "shortName": "D. Herrera",
+    "number": 10,
+    "position": "Forward",
+    "nationality": "Argentina",
+    "nationalityCode": "ar",
+    "club": "Liverpool",
+    "age": 23,
+    "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?q=80&w=400&fit=crop",
+    "rating": 79,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 88,
+      "shooting": 89,
+      "passing": 84,
+      "dribbling": 93,
+      "defending": 30,
+      "physical": 76
+    },
+    "seasonStats": {
+      "goals": 22,
+      "assists": 9,
+      "matches": 28,
+      "minutesPlayed": 2300,
+      "passAccuracy": 79,
+      "shotsOnTarget": 58,
+      "tackles": 12,
+      "sprints": 340
+    },
+    "recentForm": [
+      {
+        "opponent": "BOC",
+        "score": 8.8,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "opponent": "RIV",
+        "score": 7.6,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "SAN",
+        "score": 8.1,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "LAN",
+        "score": 9,
+        "goals": 3,
+        "assists": 0
+      },
+      {
+        "opponent": "IND",
+        "score": 7.3,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Argentine Liga Top Scorer 2023",
+      "Copa Libertadores Winner 2023",
+      "U-23 World Cup Winner 2022",
+      "Argentine Footballer of the Year 2023"
+    ]
+  },
+  {
+    "id": "1775988566078",
+    "name": "Alexander Hernandez",
+    "shortName": "F. Mueller",
+    "number": 6,
+    "position": "Midfielder",
+    "nationality": "Germany",
+    "nationalityCode": "de",
+    "club": "AC Milan",
+    "age": 25,
+    "image": "https://images.unsplash.com/photo-1551280857-e63bd0b7fdee?q=80&w=400&fit=crop",
+    "rating": 95,
+    "badge": null,
+    "stats": {
+      "pace": 80,
+      "shooting": 77,
+      "passing": 92,
+      "dribbling": 85,
+      "defending": 84,
+      "physical": 88
+    },
+    "seasonStats": {
+      "goals": 6,
+      "assists": 19,
+      "matches": 32,
+      "minutesPlayed": 2800,
+      "passAccuracy": 91,
+      "shotsOnTarget": 18,
+      "tackles": 78,
+      "sprints": 298
+    },
+    "recentForm": [
+      {
+        "opponent": "BAY",
+        "score": 7.8,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "DOT",
+        "score": 8.2,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "LEV",
+        "score": 7.5,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "LEI",
+        "score": 8,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "FRE",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 2
+      }
+    ],
+    "careerHighlights": [
+      "Bundesliga Assist Record 2023",
+      "Germany Midfielder of the Year 2023",
+      "DFB-Pokal Winner 2022",
+      "Champions League Quarter-Finalist 2023"
+    ]
+  },
+  {
+    "id": "1775988566079",
+    "name": "Eduardo Russo",
+    "shortName": "A. Diallo",
+    "number": 9,
+    "position": "Forward",
+    "nationality": "Senegal",
+    "nationalityCode": "sn",
+    "club": "AC Milan",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?q=80&w=400&fit=crop",
+    "rating": 90,
+    "badge": "TOP RATED",
+    "stats": {
+      "pace": 93,
+      "shooting": 90,
+      "passing": 76,
+      "dribbling": 88,
+      "defending": 28,
+      "physical": 86
+    },
+    "seasonStats": {
+      "goals": 25,
+      "assists": 7,
+      "matches": 31,
+      "minutesPlayed": 2600,
+      "passAccuracy": 74,
+      "shotsOnTarget": 66,
+      "tackles": 10,
+      "sprints": 388
+    },
+    "recentForm": [
+      {
+        "opponent": "LYO",
+        "score": 8.9,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "opponent": "MAR",
+        "score": 8.4,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "NIC",
+        "score": 9.1,
+        "goals": 2,
+        "assists": 2
+      },
+      {
+        "opponent": "STR",
+        "score": 7.6,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "REN",
+        "score": 8.7,
+        "goals": 2,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Ligue 1 Top Scorer 2023 (25 goals)",
+      "AFCON Winner 2023",
+      "CAF Player of the Year 2023",
+      "Champions League Top Scorer 2022/23"
+    ]
+  },
+  {
+    "id": "1775988566080",
+    "name": "Joao Silva",
+    "shortName": "Van Der Graaf",
+    "number": 4,
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Lens",
+    "age": 29,
+    "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?q=80&w=400&fit=crop",
+    "rating": 75,
+    "badge": null,
+    "stats": {
+      "pace": 80,
+      "shooting": 55,
+      "passing": 84,
+      "dribbling": 73,
+      "defending": 98,
+      "physical": 95
+    },
+    "seasonStats": {
+      "goals": 4,
+      "assists": 8,
+      "matches": 34,
+      "minutesPlayed": 3060,
+      "passAccuracy": 89,
+      "shotsOnTarget": 10,
+      "tackles": 118,
+      "sprints": 290
+    },
+    "recentForm": [
+      {
+        "opponent": "PSG",
+        "score": 8.8,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "BAY",
+        "score": 8.1,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "INT",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "JUV",
+        "score": 8.5,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "BEN",
+        "score": 9,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Eredivisie Defender of the Year x3",
+      "Champions League Winner 2023",
+      "Netherlands National Team Vice-Captain",
+      "UEFA Team of the Year 2023"
+    ]
+  },
+  {
+    "id": "1775988566081",
+    "name": "Gabriel Santos",
+    "shortName": "C. Santos",
+    "number": 11,
+    "position": "Winger",
+    "nationality": "Portugal",
+    "nationalityCode": "pt",
+    "club": "Inter Milan",
+    "age": 21,
+    "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=400&fit=crop",
+    "rating": 82,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 96,
+      "shooting": 81,
+      "passing": 78,
+      "dribbling": 91,
+      "defending": 40,
+      "physical": 72
+    },
+    "seasonStats": {
+      "goals": 12,
+      "assists": 14,
+      "matches": 28,
+      "minutesPlayed": 2100,
+      "passAccuracy": 76,
+      "shotsOnTarget": 32,
+      "tackles": 18,
+      "sprints": 410
+    },
+    "recentForm": [
+      {
+        "opponent": "BEN",
+        "score": 8.2,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "SPO",
+        "score": 7.8,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "POR",
+        "score": 8.6,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "opponent": "BRA",
+        "score": 7.4,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "GIM",
+        "score": 8,
+        "goals": 0,
+        "assists": 2
+      }
+    ],
+    "careerHighlights": [
+      "Primeira Liga Young Player 2023",
+      "Portugal U-21 Euro Winner 2023",
+      "Golden Boy Nominee 2023",
+      "Liga Record: Most Dribbles U-21 2023"
+    ]
+  },
+  {
+    "id": "1775988566082",
+    "name": "Mateo Hernandez",
+    "shortName": "T. Ito",
+    "number": 8,
+    "position": "Midfielder",
+    "nationality": "Japan",
+    "nationalityCode": "jp",
+    "club": "Roma",
+    "age": 24,
+    "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=400&fit=crop",
+    "rating": 84,
+    "badge": null,
+    "stats": {
+      "pace": 84,
+      "shooting": 79,
+      "passing": 90,
+      "dribbling": 87,
+      "defending": 70,
+      "physical": 76
+    },
+    "seasonStats": {
+      "goals": 9,
+      "assists": 17,
+      "matches": 30,
+      "minutesPlayed": 2600,
+      "passAccuracy": 88,
+      "shotsOnTarget": 24,
+      "tackles": 62,
+      "sprints": 330
+    },
+    "recentForm": [
+      {
+        "opponent": "KAS",
+        "score": 7.9,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "NAG",
+        "score": 8.4,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "URA",
+        "score": 7.6,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "GAN",
+        "score": 8.1,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "SAN",
+        "score": 8.7,
+        "goals": 2,
+        "assists": 1
+      }
+    ],
+    "careerHighlights": [
+      "J-League Best Midfielder 2023",
+      "Asia Champions League Winner 2023",
+      "Japan Player of the Year 2022",
+      "Olympic Bronze Medal 2021"
+    ]
+  },
+  {
+    "id": "1775988566084",
+    "name": "Victor Russo",
+    "shortName": "I. Petrov",
+    "number": 5,
+    "position": "Defender",
+    "nationality": "Croatia",
+    "nationalityCode": "hr",
+    "club": "Liverpool",
+    "age": 27,
+    "image": "https://images.unsplash.com/photo-1518605368461-1ee790ab2281?q=80&w=400&fit=crop",
+    "rating": 91,
+    "badge": null,
+    "stats": {
+      "pace": 76,
+      "shooting": 58,
+      "passing": 80,
+      "dribbling": 70,
+      "defending": 93,
+      "physical": 90
+    },
+    "seasonStats": {
+      "goals": 2,
+      "assists": 5,
+      "matches": 32,
+      "minutesPlayed": 2880,
+      "passAccuracy": 85,
+      "shotsOnTarget": 6,
+      "tackles": 96,
+      "sprints": 278
+    },
+    "recentForm": [
+      {
+        "opponent": "OSI",
+        "score": 7.8,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "HNK",
+        "score": 8.1,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "HAJ",
+        "score": 7.5,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "RIJ",
+        "score": 8.3,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "VAR",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "HNL Defender of the Year 2023",
+      "Croatia World Cup Bronze Medal 2022",
+      "Europa League Semi-Finalist 2023",
+      "Super Cup Winner 2022"
+    ]
+  },
+  {
+    "id": "1775988566085",
+    "name": "Victor Vance",
+    "shortName": "L. Silva",
+    "number": 10,
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "Inter Milan",
+    "age": 25,
+    "image": "https://images.unsplash.com/photo-1511886929837-354d827a08b5?q=80&w=400&fit=crop",
+    "rating": 87,
+    "badge": "TOP RATED",
+    "stats": {
+      "pace": 86,
+      "shooting": 84,
+      "passing": 93,
+      "dribbling": 91,
+      "defending": 62,
+      "physical": 80
+    },
+    "seasonStats": {
+      "goals": 11,
+      "assists": 22,
+      "matches": 33,
+      "minutesPlayed": 2900,
+      "passAccuracy": 90,
+      "shotsOnTarget": 30,
+      "tackles": 50,
+      "sprints": 310
+    },
+    "recentForm": [
+      {
+        "opponent": "FLA",
+        "score": 8.6,
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "opponent": "PAL",
+        "score": 8.2,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "FLU",
+        "score": 8.9,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "opponent": "BOT",
+        "score": 7.8,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "COR",
+        "score": 8.4,
+        "goals": 0,
+        "assists": 2
+      }
+    ],
+    "careerHighlights": [
+      "Brasileirão Top Assist Provider 2023",
+      "Copa Libertadores Winner 2023",
+      "Brazil National Team Regular",
+      "South American Footballer of the Year 2023"
+    ]
+  },
+  {
+    "id": "1775988566086",
+    "name": "Oscar Hernandez",
+    "shortName": "A. Walsh",
+    "number": 1,
+    "position": "Goalkeeper",
+    "nationality": "Ireland",
+    "nationalityCode": "ie",
+    "club": "AC Milan",
+    "age": 28,
+    "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?q=80&w=400&fit=crop",
+    "rating": 94,
+    "badge": null,
+    "stats": {
+      "pace": 52,
+      "shooting": 20,
+      "passing": 68,
+      "dribbling": 30,
+      "defending": 22,
+      "physical": 85
+    },
+    "seasonStats": {
+      "goals": 0,
+      "assists": 2,
+      "matches": 34,
+      "minutesPlayed": 3060,
+      "passAccuracy": 71,
+      "shotsOnTarget": 0,
+      "tackles": 8,
+      "sprints": 120
+    },
+    "recentForm": [
+      {
+        "opponent": "WES",
+        "score": 8.5,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "WAT",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "DER",
+        "score": 8.2,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "NOR",
+        "score": 7.6,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "SWA",
+        "score": 8.8,
+        "goals": 0,
+        "assists": 1
+      }
+    ],
+    "careerHighlights": [
+      "League of Ireland Best Goalkeeper x4",
+      "Ireland International 45 Caps",
+      "Europa Conference League Winner 2023",
+      "League Cup Winner 2022"
+    ]
+  },
+  {
+    "id": "1775988566087",
+    "name": "Alexander Costa",
+    "shortName": "K. Asante",
+    "number": 7,
+    "position": "Winger",
+    "nationality": "Ghana",
+    "nationalityCode": "gh",
+    "club": "Rennes",
+    "age": 22,
+    "image": "https://images.unsplash.com/photo-1551280857-e63bd0b7fdee?q=80&w=400&fit=crop",
+    "rating": 80,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 98,
+      "shooting": 77,
+      "passing": 74,
+      "dribbling": 90,
+      "defending": 32,
+      "physical": 74
+    },
+    "seasonStats": {
+      "goals": 16,
+      "assists": 10,
+      "matches": 29,
+      "minutesPlayed": 2200,
+      "passAccuracy": 72,
+      "shotsOnTarget": 42,
+      "tackles": 14,
+      "sprints": 490
+    },
+    "recentForm": [
+      {
+        "opponent": "HAR",
+        "score": 8.4,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "ASH",
+        "score": 7.8,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "opponent": "KOT",
+        "score": 8.6,
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "opponent": "HEA",
+        "score": 7.4,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "ADO",
+        "score": 8.2,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Ghana Premier League Fastest Player Award 2023",
+      "Ghana U-23 AFCON Winner 2023",
+      "CAF Young Player of the Year Nominee 2023",
+      "GPL Season Top Scorer 2022/23"
+    ]
+  },
+  {
+    "id": "1775988566088",
+    "name": "Joao Vance",
+    "shortName": "P. Moreau",
+    "number": 3,
+    "position": "Defender",
+    "nationality": "France",
+    "nationalityCode": "fr",
+    "club": "Rennes",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?q=80&w=400&fit=crop",
+    "rating": 88,
+    "badge": null,
+    "stats": {
+      "pace": 82,
+      "shooting": 60,
+      "passing": 83,
+      "dribbling": 76,
+      "defending": 92,
+      "physical": 88
+    },
+    "seasonStats": {
+      "goals": 3,
+      "assists": 7,
+      "matches": 31,
+      "minutesPlayed": 2700,
+      "passAccuracy": 87,
+      "shotsOnTarget": 8,
+      "tackles": 88,
+      "sprints": 266
+    },
+    "recentForm": [
+      {
+        "opponent": "PSG",
+        "score": 8,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "MAR",
+        "score": 7.7,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "MON",
+        "score": 8.3,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "NIC",
+        "score": 7.5,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "LEN",
+        "score": 8.1,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Ligue 1 Defender of the Year 2023",
+      "France U-21 Euro Bronze Medal",
+      "UEFA Europa League Winner 2022",
+      "3x Ligue 1 Winner"
+    ]
+  },
+  {
+    "id": "1775988566089",
+    "name": "Alexander Silva",
+    "shortName": "M. Ricci",
+    "number": 21,
+    "position": "Midfielder",
+    "nationality": "Italy",
+    "nationalityCode": "it",
+    "club": "Lens",
+    "age": 23,
+    "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?q=80&w=400&fit=crop",
+    "rating": 80,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 78,
+      "shooting": 80,
+      "passing": 88,
+      "dribbling": 83,
+      "defending": 74,
+      "physical": 78
+    },
+    "seasonStats": {
+      "goals": 10,
+      "assists": 13,
+      "matches": 29,
+      "minutesPlayed": 2400,
+      "passAccuracy": 86,
+      "shotsOnTarget": 28,
+      "tackles": 56,
+      "sprints": 292
+    },
+    "recentForm": [
+      {
+        "opponent": "JUV",
+        "score": 7.9,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "INT",
+        "score": 8.3,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "MIL",
+        "score": 7.6,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "NAP",
+        "score": 8.1,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "ATA",
+        "score": 8.5,
+        "goals": 2,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Serie A Young Player of the Year 2023",
+      "Italy U-21 Euro Finalist 2023",
+      "Coppa Italia Winner 2023",
+      "Serie A Best Newcomer 2022"
+    ]
+  },
+  {
+    "id": "1775988566090",
+    "name": "Oscar Santos",
+    "shortName": "E. Lindqvist",
+    "number": 9,
+    "position": "Forward",
+    "nationality": "Sweden",
+    "nationalityCode": "se",
+    "club": "Napoli",
+    "age": 24,
+    "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=400&fit=crop",
+    "rating": 95,
+    "badge": null,
+    "stats": {
+      "pace": 84,
+      "shooting": 87,
+      "passing": 75,
+      "dribbling": 82,
+      "defending": 36,
+      "physical": 84
+    },
+    "seasonStats": {
+      "goals": 20,
+      "assists": 8,
+      "matches": 30,
+      "minutesPlayed": 2500,
+      "passAccuracy": 73,
+      "shotsOnTarget": 54,
+      "tackles": 16,
+      "sprints": 334
+    },
+    "recentForm": [
+      {
+        "opponent": "MAL",
+        "score": 8.1,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "opponent": "HAM",
+        "score": 7.6,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "GBG",
+        "score": 8.4,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "IFK",
+        "score": 7.9,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "AIK",
+        "score": 8.6,
+        "goals": 2,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Allsvenskan Top Scorer 2023 (20 goals)",
+      "Sweden Player of the Year 2023",
+      "Europa League Top Scorer 2022/23",
+      "2x Allsvenskan Winner"
+    ]
+  },
+  {
+    "id": "1775988566091",
+    "name": "Alexander Santos",
+    "shortName": "H. Al-Rashid",
+    "number": 8,
+    "position": "Midfielder",
+    "nationality": "Morocco",
+    "nationalityCode": "ma",
+    "club": "Roma",
+    "age": 25,
+    "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=400&fit=crop",
+    "rating": 95,
+    "badge": "TOP RATED",
+    "stats": {
+      "pace": 83,
+      "shooting": 78,
+      "passing": 91,
+      "dribbling": 88,
+      "defending": 76,
+      "physical": 82
+    },
+    "seasonStats": {
+      "goals": 8,
+      "assists": 16,
+      "matches": 31,
+      "minutesPlayed": 2700,
+      "passAccuracy": 89,
+      "shotsOnTarget": 22,
+      "tackles": 70,
+      "sprints": 306
+    },
+    "recentForm": [
+      {
+        "opponent": "WAD",
+        "score": 8.2,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "FAR",
+        "score": 7.8,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "IST",
+        "score": 8.5,
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "opponent": "MAS",
+        "score": 7.6,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "OLM",
+        "score": 8.3,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "AFCON Runner-Up 2023",
+      "Botola Best Midfielder 2023",
+      "Morocco World Cup Semi-Finalist 2022",
+      "CAF Champions League Winner 2023"
+    ]
+  },
+  {
+    "id": "1775988566092",
+    "name": "Alexander Santos",
+    "shortName": "R. Thorne",
+    "number": 9,
+    "position": "Forward",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "Rennes",
+    "age": 24,
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?q=80&w=400&fit=crop",
+    "rating": 92,
+    "badge": "TOP RATED",
+    "stats": {
+      "pace": 95,
+      "shooting": 93,
+      "passing": 80,
+      "dribbling": 92,
+      "defending": 32,
+      "physical": 78
+    },
+    "seasonStats": {
+      "goals": 28,
+      "assists": 12,
+      "matches": 32,
+      "minutesPlayed": 2688,
+      "passAccuracy": 81,
+      "shotsOnTarget": 74,
+      "tackles": 18,
+      "sprints": 312
+    },
+    "recentForm": [
+      {
+        "opponent": "FCB",
+        "score": 8.5,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "opponent": "ATM",
+        "score": 7.2,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "VIL",
+        "score": 9.2,
+        "goals": 3,
+        "assists": 0
+      },
+      {
+        "opponent": "SEV",
+        "score": 6.8,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "BET",
+        "score": 8,
+        "goals": 1,
+        "assists": 1
+      }
+    ],
+    "careerHighlights": [
+      "Champions League Winner 2023",
+      "Golden Boot 2022/23 (28 goals)",
+      "World Cup Top Scorer 2022",
+      "Best Young Player 2021"
+    ]
+  },
+  {
+    "id": "1775988566093",
+    "name": "Oscar Vance",
+    "shortName": "L. Vance",
+    "number": 8,
+    "position": "Midfielder",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "Rennes",
+    "age": 27,
+    "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?q=80&w=400&fit=crop",
+    "rating": 91,
+    "badge": null,
+    "stats": {
+      "pace": 82,
+      "shooting": 75,
+      "passing": 94,
+      "dribbling": 88,
+      "defending": 72,
+      "physical": 80
+    },
+    "seasonStats": {
+      "goals": 8,
+      "assists": 21,
+      "matches": 34,
+      "minutesPlayed": 3000,
+      "passAccuracy": 92,
+      "shotsOnTarget": 22,
+      "tackles": 44,
+      "sprints": 289
+    },
+    "recentForm": [
+      {
+        "opponent": "CHE",
+        "score": 7.8,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "ARS",
+        "score": 8.1,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "MCI",
+        "score": 7.5,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "EVE",
+        "score": 6.9,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "NEW",
+        "score": 8.4,
+        "goals": 2,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Premier League Player of the Season 2023",
+      "England World Cup Squad 2022",
+      "League Cup Winner 2022",
+      "4x Premier League Winner"
+    ]
+  },
+  {
+    "id": "1775988566094",
+    "name": "Liam Costa",
+    "shortName": "S. Klerk",
+    "number": 4,
+    "position": "Defender",
+    "nationality": "Denmark",
+    "nationalityCode": "dk",
+    "club": "Lens",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=400&fit=crop",
+    "rating": 80,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 78,
+      "shooting": 52,
+      "passing": 82,
+      "dribbling": 71,
+      "defending": 96,
+      "physical": 93
+    },
+    "seasonStats": {
+      "goals": 3,
+      "assists": 6,
+      "matches": 33,
+      "minutesPlayed": 2970,
+      "passAccuracy": 87,
+      "shotsOnTarget": 8,
+      "tackles": 104,
+      "sprints": 322
+    },
+    "recentForm": [
+      {
+        "opponent": "HAM",
+        "score": 7.6,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "HOF",
+        "score": 8.2,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "WOL",
+        "score": 7.1,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "BRE",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "CRY",
+        "score": 8.5,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Bundesliga Defender of the Year 2023",
+      "Denmark National Team Captain",
+      "Champions League Finalist 2023",
+      "2x Bundesliga Winner"
+    ]
+  },
+  {
+    "id": "1775988566095",
+    "name": "Liam Silva",
+    "shortName": "Y. Tanaka",
+    "number": 11,
+    "position": "Winger",
+    "nationality": "Japan",
+    "nationalityCode": "jp",
+    "club": "Roma",
+    "age": 22,
+    "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=400&fit=crop",
+    "rating": 85,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 97,
+      "shooting": 78,
+      "passing": 82,
+      "dribbling": 94,
+      "defending": 38,
+      "physical": 70
+    },
+    "seasonStats": {
+      "goals": 14,
+      "assists": 18,
+      "matches": 30,
+      "minutesPlayed": 2400,
+      "passAccuracy": 78,
+      "shotsOnTarget": 38,
+      "tackles": 22,
+      "sprints": 445
+    },
+    "recentForm": [
+      {
+        "opponent": "OSK",
+        "score": 8.7,
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "opponent": "TOK",
+        "score": 7.4,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "KAW",
+        "score": 8.9,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "opponent": "YOK",
+        "score": 7.2,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "HIR",
+        "score": 8.1,
+        "goals": 1,
+        "assists": 1
+      }
+    ],
+    "careerHighlights": [
+      "J-League MVP 2023",
+      "Asian Cup Winner 2023",
+      "Top Dribbler J-League 2022/23",
+      "Japan Golden Boot 2023"
+    ]
+  },
+  {
+    "id": "1775988566096",
+    "name": "Eduardo Costa",
+    "shortName": "K. Mbappé",
+    "number": 10,
+    "position": "Forward",
+    "nationality": "France",
+    "nationalityCode": "fr",
+    "club": "Napoli",
+    "age": 25,
+    "image": "https://images.unsplash.com/photo-1518605368461-1ee790ab2281?q=80&w=400&fit=crop",
+    "rating": 88,
+    "badge": "LEGENDARY",
+    "stats": {
+      "pace": 97,
+      "shooting": 91,
+      "passing": 83,
+      "dribbling": 92,
+      "defending": 36,
+      "physical": 78
+    },
+    "seasonStats": {
+      "goals": 36,
+      "assists": 14,
+      "matches": 35,
+      "minutesPlayed": 2890,
+      "passAccuracy": 82,
+      "shotsOnTarget": 98,
+      "tackles": 14,
+      "sprints": 498
+    },
+    "recentForm": [
+      {
+        "opponent": "BAR",
+        "score": 9.4,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "opponent": "ATM",
+        "score": 8.1,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "VIL",
+        "score": 9.2,
+        "goals": 3,
+        "assists": 0
+      },
+      {
+        "opponent": "SEV",
+        "score": 7.8,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "BET",
+        "score": 8.5,
+        "goals": 1,
+        "assists": 1
+      }
+    ],
+    "careerHighlights": [
+      "Champions League Winner 2024",
+      "Ligue 1 Golden Boot x5",
+      "World Cup Winner 2018",
+      "Ballon d'Or 2023"
+    ]
+  },
+  {
+    "id": "1775988566097",
+    "name": "Oscar Chen",
+    "shortName": "M. Vance",
+    "number": 7,
+    "position": "Midfielder",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "Rennes",
+    "age": 28,
+    "image": "https://images.unsplash.com/photo-1511886929837-354d827a08b5?q=80&w=400&fit=crop",
+    "rating": 91,
+    "badge": null,
+    "stats": {
+      "pace": 94,
+      "shooting": 88,
+      "passing": 91,
+      "dribbling": 89,
+      "defending": 68,
+      "physical": 82
+    },
+    "seasonStats": {
+      "goals": 15,
+      "assists": 16,
+      "matches": 33,
+      "minutesPlayed": 2900,
+      "passAccuracy": 88,
+      "shotsOnTarget": 42,
+      "tackles": 55,
+      "sprints": 356
+    },
+    "recentForm": [
+      {
+        "opponent": "BER",
+        "score": 8.3,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "PAR",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "MIL",
+        "score": 8.7,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "opponent": "ROM",
+        "score": 7.5,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "INT",
+        "score": 8.2,
+        "goals": 0,
+        "assists": 2
+      }
+    ],
+    "careerHighlights": [
+      "PFA Player of the Year 2023",
+      "3x Premier League Winner",
+      "FA Cup Winner 2022",
+      "Euro 2024 Semi-Finalist"
+    ]
+  },
+  {
+    "id": "1775988566098",
+    "name": "Eduardo Vance",
+    "shortName": "D. Herrera",
+    "number": 10,
+    "position": "Forward",
+    "nationality": "Argentina",
+    "nationalityCode": "ar",
+    "club": "Napoli",
+    "age": 23,
+    "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?q=80&w=400&fit=crop",
+    "rating": 75,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 88,
+      "shooting": 89,
+      "passing": 84,
+      "dribbling": 93,
+      "defending": 30,
+      "physical": 76
+    },
+    "seasonStats": {
+      "goals": 22,
+      "assists": 9,
+      "matches": 28,
+      "minutesPlayed": 2300,
+      "passAccuracy": 79,
+      "shotsOnTarget": 58,
+      "tackles": 12,
+      "sprints": 340
+    },
+    "recentForm": [
+      {
+        "opponent": "BOC",
+        "score": 8.8,
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "opponent": "RIV",
+        "score": 7.6,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "SAN",
+        "score": 8.1,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "LAN",
+        "score": 9,
+        "goals": 3,
+        "assists": 0
+      },
+      {
+        "opponent": "IND",
+        "score": 7.3,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Argentine Liga Top Scorer 2023",
+      "Copa Libertadores Winner 2023",
+      "U-23 World Cup Winner 2022",
+      "Argentine Footballer of the Year 2023"
+    ]
+  },
+  {
+    "id": "1775988566099",
+    "name": "Gabriel Chen",
+    "shortName": "F. Mueller",
+    "number": 6,
+    "position": "Midfielder",
+    "nationality": "Germany",
+    "nationalityCode": "de",
+    "club": "Rennes",
+    "age": 25,
+    "image": "https://images.unsplash.com/photo-1551280857-e63bd0b7fdee?q=80&w=400&fit=crop",
+    "rating": 75,
+    "badge": null,
+    "stats": {
+      "pace": 80,
+      "shooting": 77,
+      "passing": 92,
+      "dribbling": 85,
+      "defending": 84,
+      "physical": 88
+    },
+    "seasonStats": {
+      "goals": 6,
+      "assists": 19,
+      "matches": 32,
+      "minutesPlayed": 2800,
+      "passAccuracy": 91,
+      "shotsOnTarget": 18,
+      "tackles": 78,
+      "sprints": 298
+    },
+    "recentForm": [
+      {
+        "opponent": "BAY",
+        "score": 7.8,
+        "goals": 0,
+        "assists": 2
+      },
+      {
+        "opponent": "DOT",
+        "score": 8.2,
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "opponent": "LEV",
+        "score": 7.5,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "LEI",
+        "score": 8,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "FRE",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 2
+      }
+    ],
+    "careerHighlights": [
+      "Bundesliga Assist Record 2023",
+      "Germany Midfielder of the Year 2023",
+      "DFB-Pokal Winner 2022",
+      "Champions League Quarter-Finalist 2023"
+    ]
+  },
+  {
+    "id": "1775988566100",
+    "name": "Liam Hernandez",
+    "shortName": "A. Diallo",
+    "number": 9,
+    "position": "Forward",
+    "nationality": "Senegal",
+    "nationalityCode": "sn",
+    "club": "Napoli",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?q=80&w=400&fit=crop",
+    "rating": 76,
+    "badge": "TOP RATED",
+    "stats": {
+      "pace": 93,
+      "shooting": 90,
+      "passing": 76,
+      "dribbling": 88,
+      "defending": 28,
+      "physical": 86
+    },
+    "seasonStats": {
+      "goals": 25,
+      "assists": 7,
+      "matches": 31,
+      "minutesPlayed": 2600,
+      "passAccuracy": 74,
+      "shotsOnTarget": 66,
+      "tackles": 10,
+      "sprints": 388
+    },
+    "recentForm": [
+      {
+        "opponent": "LYO",
+        "score": 8.9,
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "opponent": "MAR",
+        "score": 8.4,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "NIC",
+        "score": 9.1,
+        "goals": 2,
+        "assists": 2
+      },
+      {
+        "opponent": "STR",
+        "score": 7.6,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "REN",
+        "score": 8.7,
+        "goals": 2,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Ligue 1 Top Scorer 2023 (25 goals)",
+      "AFCON Winner 2023",
+      "CAF Player of the Year 2023",
+      "Champions League Top Scorer 2022/23"
+    ]
+  },
+  {
+    "id": "1775988566101",
+    "name": "Alexander Hernandez",
+    "shortName": "Van Der Graaf",
+    "number": 4,
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Napoli",
+    "age": 29,
+    "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?q=80&w=400&fit=crop",
+    "rating": 92,
+    "badge": null,
+    "stats": {
+      "pace": 80,
+      "shooting": 55,
+      "passing": 84,
+      "dribbling": 73,
+      "defending": 98,
+      "physical": 95
+    },
+    "seasonStats": {
+      "goals": 4,
+      "assists": 8,
+      "matches": 34,
+      "minutesPlayed": 3060,
+      "passAccuracy": 89,
+      "shotsOnTarget": 10,
+      "tackles": 118,
+      "sprints": 290
+    },
+    "recentForm": [
+      {
+        "opponent": "PSG",
+        "score": 8.8,
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "opponent": "BAY",
+        "score": 8.1,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "INT",
+        "score": 7.9,
+        "goals": 0,
+        "assists": 0
+      },
+      {
+        "opponent": "JUV",
+        "score": 8.5,
+        "goals": 0,
+        "assists": 1
+      },
+      {
+        "opponent": "BEN",
+        "score": 9,
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "careerHighlights": [
+      "Eredivisie Defender of the Year x3",
+      "Champions League Winner 2023",
+      "Netherlands National Team Vice-Captain",
+      "UEFA Team of the Year 2023"
+    ]
+  },
+  {
+    "id": 1775988566102,
+    "name": "Mats Mbappe",
+    "shortName": "M. Mbappe",
+    "number": 12,
+    "position": "Defender",
+    "nationality": "Germany",
+    "nationalityCode": "de",
+    "club": "Real Madrid",
+    "age": 31,
+    "image": "https://images.unsplash.com/photo-1500000486232?q=80&w=400&fit=crop",
+    "rating": 88,
+    "badge": null,
+    "stats": {
+      "pace": 94,
+      "shooting": 91,
+      "passing": 87,
+      "dribbling": 91,
+      "defending": 80,
+      "physical": 73
+    },
+    "seasonStats": {
+      "goals": 5,
+      "assists": 2,
+      "matches": 21,
+      "minutesPlayed": 2656,
+      "passAccuracy": 83,
+      "shotsOnTarget": 56,
+      "tackles": 73,
+      "sprints": 286
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566103,
+    "name": "Hugo Vance",
+    "shortName": "H. Vance",
+    "number": 57,
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Real Madrid",
+    "age": 34,
+    "image": "https://images.unsplash.com/photo-1500000667414?q=80&w=400&fit=crop",
+    "rating": 93,
+    "badge": null,
+    "stats": {
+      "pace": 80,
+      "shooting": 66,
+      "passing": 80,
+      "dribbling": 93,
+      "defending": 79,
+      "physical": 78
+    },
+    "seasonStats": {
+      "goals": 6,
+      "assists": 2,
+      "matches": 26,
+      "minutesPlayed": 2721,
+      "passAccuracy": 92,
+      "shotsOnTarget": 37,
+      "tackles": 78,
+      "sprints": 205
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566104,
+    "name": "Jonas Silva",
+    "shortName": "J. Silva",
+    "number": 91,
+    "position": "Defender",
+    "nationality": "Portugal",
+    "nationalityCode": "pt",
+    "club": "Real Madrid",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1500000184230?q=80&w=400&fit=crop",
+    "rating": 87,
+    "badge": null,
+    "stats": {
+      "pace": 86,
+      "shooting": 64,
+      "passing": 78,
+      "dribbling": 74,
+      "defending": 65,
+      "physical": 65
+    },
+    "seasonStats": {
+      "goals": 11,
+      "assists": 7,
+      "matches": 25,
+      "minutesPlayed": 1981,
+      "passAccuracy": 90,
+      "shotsOnTarget": 35,
+      "tackles": 61,
+      "sprints": 416
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566105,
+    "name": "Erik Nadal",
+    "shortName": "E. Nadal",
+    "number": 41,
+    "position": "Defender",
+    "nationality": "Germany",
+    "nationalityCode": "de",
+    "club": "Real Madrid",
+    "age": 23,
+    "image": "https://images.unsplash.com/photo-1500000472012?q=80&w=400&fit=crop",
+    "rating": 86,
+    "badge": null,
+    "stats": {
+      "pace": 94,
+      "shooting": 83,
+      "passing": 86,
+      "dribbling": 90,
+      "defending": 89,
+      "physical": 93
+    },
+    "seasonStats": {
+      "goals": 4,
+      "assists": 0,
+      "matches": 24,
+      "minutesPlayed": 2310,
+      "passAccuracy": 91,
+      "shotsOnTarget": 52,
+      "tackles": 56,
+      "sprints": 309
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566106,
+    "name": "Carlos Sato",
+    "shortName": "C. Sato",
+    "number": 30,
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "Real Madrid",
+    "age": 20,
+    "image": "https://images.unsplash.com/photo-1500000820780?q=80&w=400&fit=crop",
+    "rating": 80,
+    "badge": null,
+    "stats": {
+      "pace": 91,
+      "shooting": 81,
+      "passing": 94,
+      "dribbling": 72,
+      "defending": 90,
+      "physical": 78
+    },
+    "seasonStats": {
+      "goals": 4,
+      "assists": 5,
+      "matches": 24,
+      "minutesPlayed": 2410,
+      "passAccuracy": 80,
+      "shotsOnTarget": 45,
+      "tackles": 36,
+      "sprints": 334
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566107,
+    "name": "Carlos Müller",
+    "shortName": "C. Müller",
+    "number": 58,
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Real Madrid",
+    "age": 30,
+    "image": "https://images.unsplash.com/photo-1500000372737?q=80&w=400&fit=crop",
+    "rating": 81,
+    "badge": null,
+    "stats": {
+      "pace": 88,
+      "shooting": 66,
+      "passing": 94,
+      "dribbling": 90,
+      "defending": 92,
+      "physical": 83
+    },
+    "seasonStats": {
+      "goals": 5,
+      "assists": 6,
+      "matches": 28,
+      "minutesPlayed": 2701,
+      "passAccuracy": 83,
+      "shotsOnTarget": 20,
+      "tackles": 80,
+      "sprints": 448
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566108,
+    "name": "Hiro Ricci",
+    "shortName": "H. Ricci",
+    "number": 50,
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Real Madrid",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1500000840804?q=80&w=400&fit=crop",
+    "rating": 90,
+    "badge": null,
+    "stats": {
+      "pace": 81,
+      "shooting": 84,
+      "passing": 77,
+      "dribbling": 92,
+      "defending": 72,
+      "physical": 72
+    },
+    "seasonStats": {
+      "goals": 8,
+      "assists": 4,
+      "matches": 27,
+      "minutesPlayed": 1933,
+      "passAccuracy": 94,
+      "shotsOnTarget": 25,
+      "tackles": 59,
+      "sprints": 228
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566109,
+    "name": "Erik Messi",
+    "shortName": "E. Messi",
+    "number": 18,
+    "position": "Forward",
+    "nationality": "France",
+    "nationalityCode": "fr",
+    "club": "Real Madrid",
+    "age": 23,
+    "image": "https://images.unsplash.com/photo-1500000110705?q=80&w=400&fit=crop",
+    "rating": 86,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 72,
+      "shooting": 68,
+      "passing": 75,
+      "dribbling": 70,
+      "defending": 44,
+      "physical": 64
+    },
+    "seasonStats": {
+      "goals": 13,
+      "assists": 1,
+      "matches": 29,
+      "minutesPlayed": 2193,
+      "passAccuracy": 88,
+      "shotsOnTarget": 35,
+      "tackles": 28,
+      "sprints": 293
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566110,
+    "name": "Jean García",
+    "shortName": "J. García",
+    "number": 90,
+    "position": "Forward",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "Real Madrid",
+    "age": 22,
+    "image": "https://images.unsplash.com/photo-1500000438873?q=80&w=400&fit=crop",
+    "rating": 91,
+    "badge": null,
+    "stats": {
+      "pace": 91,
+      "shooting": 83,
+      "passing": 72,
+      "dribbling": 86,
+      "defending": 76,
+      "physical": 76
+    },
+    "seasonStats": {
+      "goals": 2,
+      "assists": 10,
+      "matches": 32,
+      "minutesPlayed": 2712,
+      "passAccuracy": 87,
+      "shotsOnTarget": 23,
+      "tackles": 89,
+      "sprints": 377
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566111,
+    "name": "Jonas Schmidt",
+    "shortName": "J. Schmidt",
+    "number": 75,
+    "position": "Forward",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "Real Madrid",
+    "age": 25,
+    "image": "https://images.unsplash.com/photo-1500000209995?q=80&w=400&fit=crop",
+    "rating": 84,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 89,
+      "shooting": 70,
+      "passing": 80,
+      "dribbling": 75,
+      "defending": 93,
+      "physical": 73
+    },
+    "seasonStats": {
+      "goals": 7,
+      "assists": 12,
+      "matches": 23,
+      "minutesPlayed": 2792,
+      "passAccuracy": 76,
+      "shotsOnTarget": 46,
+      "tackles": 62,
+      "sprints": 377
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566112,
+    "name": "Jonas Dubois",
+    "shortName": "J. Dubois",
+    "number": 27,
+    "position": "Defender",
+    "nationality": "Portugal",
+    "nationalityCode": "pt",
+    "club": "Inter Milan",
+    "age": 32,
+    "image": "https://images.unsplash.com/photo-1500000495612?q=80&w=400&fit=crop",
+    "rating": 94,
+    "badge": null,
+    "stats": {
+      "pace": 94,
+      "shooting": 64,
+      "passing": 74,
+      "dribbling": 91,
+      "defending": 92,
+      "physical": 74
+    },
+    "seasonStats": {
+      "goals": 11,
+      "assists": 7,
+      "matches": 28,
+      "minutesPlayed": 1997,
+      "passAccuracy": 85,
+      "shotsOnTarget": 36,
+      "tackles": 57,
+      "sprints": 205
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566113,
+    "name": "Hiro Silva",
+    "shortName": "H. Silva",
+    "number": 32,
+    "position": "Defender",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "Inter Milan",
+    "age": 23,
+    "image": "https://images.unsplash.com/photo-1500000735376?q=80&w=400&fit=crop",
+    "rating": 87,
+    "badge": null,
+    "stats": {
+      "pace": 71,
+      "shooting": 67,
+      "passing": 78,
+      "dribbling": 86,
+      "defending": 89,
+      "physical": 85
+    },
+    "seasonStats": {
+      "goals": 9,
+      "assists": 1,
+      "matches": 28,
+      "minutesPlayed": 2306,
+      "passAccuracy": 94,
+      "shotsOnTarget": 26,
+      "tackles": 44,
+      "sprints": 205
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566114,
+    "name": "Marco Dubois",
+    "shortName": "M. Dubois",
+    "number": 48,
+    "position": "Defender",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "Inter Milan",
+    "age": 20,
+    "image": "https://images.unsplash.com/photo-1500000249143?q=80&w=400&fit=crop",
+    "rating": 87,
+    "badge": null,
+    "stats": {
+      "pace": 89,
+      "shooting": 72,
+      "passing": 94,
+      "dribbling": 84,
+      "defending": 42,
+      "physical": 73
+    },
+    "seasonStats": {
+      "goals": 4,
+      "assists": 3,
+      "matches": 34,
+      "minutesPlayed": 2636,
+      "passAccuracy": 82,
+      "shotsOnTarget": 24,
+      "tackles": 89,
+      "sprints": 356
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566115,
+    "name": "Jonas Santos",
+    "shortName": "J. Santos",
+    "number": 76,
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Inter Milan",
+    "age": 32,
+    "image": "https://images.unsplash.com/photo-1500000706556?q=80&w=400&fit=crop",
+    "rating": 93,
+    "badge": null,
+    "stats": {
+      "pace": 83,
+      "shooting": 94,
+      "passing": 93,
+      "dribbling": 93,
+      "defending": 75,
+      "physical": 64
+    },
+    "seasonStats": {
+      "goals": 13,
+      "assists": 5,
+      "matches": 21,
+      "minutesPlayed": 2301,
+      "passAccuracy": 76,
+      "shotsOnTarget": 23,
+      "tackles": 32,
+      "sprints": 294
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566116,
+    "name": "Thiago Silva",
+    "shortName": "T. Silva",
+    "number": 89,
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "Inter Milan",
+    "age": 34,
+    "image": "https://images.unsplash.com/photo-1500000620969?q=80&w=400&fit=crop",
+    "rating": 91,
+    "badge": null,
+    "stats": {
+      "pace": 91,
+      "shooting": 69,
+      "passing": 75,
+      "dribbling": 77,
+      "defending": 67,
+      "physical": 69
+    },
+    "seasonStats": {
+      "goals": 14,
+      "assists": 5,
+      "matches": 24,
+      "minutesPlayed": 2411,
+      "passAccuracy": 89,
+      "shotsOnTarget": 21,
+      "tackles": 22,
+      "sprints": 378
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566117,
+    "name": "Thiago Ricci",
+    "shortName": "T. Ricci",
+    "number": 85,
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "Inter Milan",
+    "age": 34,
+    "image": "https://images.unsplash.com/photo-1500000711583?q=80&w=400&fit=crop",
+    "rating": 92,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 94,
+      "shooting": 80,
+      "passing": 89,
+      "dribbling": 88,
+      "defending": 84,
+      "physical": 82
+    },
+    "seasonStats": {
+      "goals": 6,
+      "assists": 2,
+      "matches": 31,
+      "minutesPlayed": 2550,
+      "passAccuracy": 80,
+      "shotsOnTarget": 25,
+      "tackles": 42,
+      "sprints": 305
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566118,
+    "name": "David Vance",
+    "shortName": "D. Vance",
+    "number": 5,
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Inter Milan",
+    "age": 20,
+    "image": "https://images.unsplash.com/photo-1500000868939?q=80&w=400&fit=crop",
+    "rating": 81,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 91,
+      "shooting": 88,
+      "passing": 71,
+      "dribbling": 75,
+      "defending": 76,
+      "physical": 76
+    },
+    "seasonStats": {
+      "goals": 10,
+      "assists": 14,
+      "matches": 30,
+      "minutesPlayed": 2719,
+      "passAccuracy": 90,
+      "shotsOnTarget": 56,
+      "tackles": 48,
+      "sprints": 453
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566119,
+    "name": "Erik Müller",
+    "shortName": "E. Müller",
+    "number": 47,
+    "position": "Forward",
+    "nationality": "Argentina",
+    "nationalityCode": "ar",
+    "club": "Inter Milan",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1500000857054?q=80&w=400&fit=crop",
+    "rating": 80,
+    "badge": null,
+    "stats": {
+      "pace": 91,
+      "shooting": 73,
+      "passing": 76,
+      "dribbling": 86,
+      "defending": 75,
+      "physical": 70
+    },
+    "seasonStats": {
+      "goals": 4,
+      "assists": 9,
+      "matches": 27,
+      "minutesPlayed": 1823,
+      "passAccuracy": 87,
+      "shotsOnTarget": 59,
+      "tackles": 10,
+      "sprints": 258
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566120,
+    "name": "Hugo Ricci",
+    "shortName": "H. Ricci",
+    "number": 46,
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Inter Milan",
+    "age": 34,
+    "image": "https://images.unsplash.com/photo-1500000761782?q=80&w=400&fit=crop",
+    "rating": 80,
+    "badge": null,
+    "stats": {
+      "pace": 70,
+      "shooting": 62,
+      "passing": 75,
+      "dribbling": 81,
+      "defending": 52,
+      "physical": 72
+    },
+    "seasonStats": {
+      "goals": 10,
+      "assists": 1,
+      "matches": 33,
+      "minutesPlayed": 2464,
+      "passAccuracy": 87,
+      "shotsOnTarget": 46,
+      "tackles": 25,
+      "sprints": 420
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566121,
+    "name": "Jonas Nadal",
+    "shortName": "J. Nadal",
+    "number": 6,
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "Bayern Munich",
+    "age": 33,
+    "image": "https://images.unsplash.com/photo-1500000044065?q=80&w=400&fit=crop",
+    "rating": 85,
+    "badge": null,
+    "stats": {
+      "pace": 84,
+      "shooting": 62,
+      "passing": 83,
+      "dribbling": 70,
+      "defending": 72,
+      "physical": 71
+    },
+    "seasonStats": {
+      "goals": 5,
+      "assists": 4,
+      "matches": 25,
+      "minutesPlayed": 2500,
+      "passAccuracy": 75,
+      "shotsOnTarget": 20,
+      "tackles": 69,
+      "sprints": 315
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566122,
+    "name": "Hugo Messi",
+    "shortName": "H. Messi",
+    "number": 28,
+    "position": "Defender",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "Bayern Munich",
+    "age": 33,
+    "image": "https://images.unsplash.com/photo-1500000850577?q=80&w=400&fit=crop",
+    "rating": 80,
+    "badge": null,
+    "stats": {
+      "pace": 86,
+      "shooting": 85,
+      "passing": 91,
+      "dribbling": 77,
+      "defending": 61,
+      "physical": 82
+    },
+    "seasonStats": {
+      "goals": 0,
+      "assists": 5,
+      "matches": 28,
+      "minutesPlayed": 2205,
+      "passAccuracy": 94,
+      "shotsOnTarget": 20,
+      "tackles": 20,
+      "sprints": 240
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566123,
+    "name": "Erik Thorne",
+    "shortName": "E. Thorne",
+    "number": 72,
+    "position": "Defender",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "Bayern Munich",
+    "age": 29,
+    "image": "https://images.unsplash.com/photo-1500000691009?q=80&w=400&fit=crop",
+    "rating": 90,
+    "badge": null,
+    "stats": {
+      "pace": 79,
+      "shooting": 87,
+      "passing": 88,
+      "dribbling": 94,
+      "defending": 70,
+      "physical": 94
+    },
+    "seasonStats": {
+      "goals": 0,
+      "assists": 11,
+      "matches": 33,
+      "minutesPlayed": 2021,
+      "passAccuracy": 85,
+      "shotsOnTarget": 38,
+      "tackles": 25,
+      "sprints": 269
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566124,
+    "name": "Marco Schmidt",
+    "shortName": "M. Schmidt",
+    "number": 71,
+    "position": "Defender",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "Bayern Munich",
+    "age": 28,
+    "image": "https://images.unsplash.com/photo-1500000672838?q=80&w=400&fit=crop",
+    "rating": 85,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 94,
+      "shooting": 81,
+      "passing": 87,
+      "dribbling": 70,
+      "defending": 53,
+      "physical": 76
+    },
+    "seasonStats": {
+      "goals": 5,
+      "assists": 14,
+      "matches": 29,
+      "minutesPlayed": 1970,
+      "passAccuracy": 87,
+      "shotsOnTarget": 24,
+      "tackles": 72,
+      "sprints": 341
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566125,
+    "name": "Oliver Messi",
+    "shortName": "O. Messi",
+    "number": 71,
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Bayern Munich",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1500000375479?q=80&w=400&fit=crop",
+    "rating": 90,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 76,
+      "shooting": 84,
+      "passing": 70,
+      "dribbling": 83,
+      "defending": 74,
+      "physical": 80
+    },
+    "seasonStats": {
+      "goals": 0,
+      "assists": 8,
+      "matches": 29,
+      "minutesPlayed": 2511,
+      "passAccuracy": 92,
+      "shotsOnTarget": 53,
+      "tackles": 71,
+      "sprints": 323
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566126,
+    "name": "Hiro García",
+    "shortName": "H. García",
+    "number": 6,
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "Bayern Munich",
+    "age": 22,
+    "image": "https://images.unsplash.com/photo-1500000335307?q=80&w=400&fit=crop",
+    "rating": 84,
+    "badge": null,
+    "stats": {
+      "pace": 80,
+      "shooting": 81,
+      "passing": 91,
+      "dribbling": 89,
+      "defending": 68,
+      "physical": 70
+    },
+    "seasonStats": {
+      "goals": 5,
+      "assists": 0,
+      "matches": 34,
+      "minutesPlayed": 2017,
+      "passAccuracy": 83,
+      "shotsOnTarget": 48,
+      "tackles": 21,
+      "sprints": 250
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566127,
+    "name": "Leo Schmidt",
+    "shortName": "L. Schmidt",
+    "number": 33,
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Bayern Munich",
+    "age": 34,
+    "image": "https://images.unsplash.com/photo-1500000307443?q=80&w=400&fit=crop",
+    "rating": 94,
+    "badge": null,
+    "stats": {
+      "pace": 85,
+      "shooting": 94,
+      "passing": 75,
+      "dribbling": 72,
+      "defending": 48,
+      "physical": 63
+    },
+    "seasonStats": {
+      "goals": 9,
+      "assists": 6,
+      "matches": 33,
+      "minutesPlayed": 1944,
+      "passAccuracy": 86,
+      "shotsOnTarget": 57,
+      "tackles": 49,
+      "sprints": 331
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566128,
+    "name": "Marco Sato",
+    "shortName": "M. Sato",
+    "number": 14,
+    "position": "Midfielder",
+    "nationality": "Japan",
+    "nationalityCode": "jp",
+    "club": "Bayern Munich",
+    "age": 21,
+    "image": "https://images.unsplash.com/photo-1500000463194?q=80&w=400&fit=crop",
+    "rating": 84,
+    "badge": null,
+    "stats": {
+      "pace": 77,
+      "shooting": 84,
+      "passing": 72,
+      "dribbling": 93,
+      "defending": 92,
+      "physical": 78
+    },
+    "seasonStats": {
+      "goals": 10,
+      "assists": 7,
+      "matches": 27,
+      "minutesPlayed": 2276,
+      "passAccuracy": 94,
+      "shotsOnTarget": 48,
+      "tackles": 28,
+      "sprints": 498
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566129,
+    "name": "Sandro Nadal",
+    "shortName": "S. Nadal",
+    "number": 7,
+    "position": "Forward",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "Bayern Munich",
+    "age": 24,
+    "image": "https://images.unsplash.com/photo-1500000323540?q=80&w=400&fit=crop",
+    "rating": 91,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 73,
+      "shooting": 84,
+      "passing": 80,
+      "dribbling": 71,
+      "defending": 94,
+      "physical": 76
+    },
+    "seasonStats": {
+      "goals": 2,
+      "assists": 10,
+      "matches": 28,
+      "minutesPlayed": 1823,
+      "passAccuracy": 85,
+      "shotsOnTarget": 57,
+      "tackles": 24,
+      "sprints": 367
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566130,
+    "name": "Hiro Schmidt",
+    "shortName": "H. Schmidt",
+    "number": 20,
+    "position": "Forward",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "Bayern Munich",
+    "age": 31,
+    "image": "https://images.unsplash.com/photo-1500000864702?q=80&w=400&fit=crop",
+    "rating": 85,
+    "badge": null,
+    "stats": {
+      "pace": 93,
+      "shooting": 89,
+      "passing": 92,
+      "dribbling": 94,
+      "defending": 42,
+      "physical": 87
+    },
+    "seasonStats": {
+      "goals": 9,
+      "assists": 7,
+      "matches": 33,
+      "minutesPlayed": 2463,
+      "passAccuracy": 84,
+      "shotsOnTarget": 30,
+      "tackles": 42,
+      "sprints": 210
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566131,
+    "name": "Jean Vance",
+    "shortName": "J. Vance",
+    "number": 97,
+    "position": "Forward",
+    "nationality": "Japan",
+    "nationalityCode": "jp",
+    "club": "Bayern Munich",
+    "age": 31,
+    "image": "https://images.unsplash.com/photo-1500000896116?q=80&w=400&fit=crop",
+    "rating": 91,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 91,
+      "shooting": 80,
+      "passing": 79,
+      "dribbling": 80,
+      "defending": 46,
+      "physical": 87
+    },
+    "seasonStats": {
+      "goals": 12,
+      "assists": 12,
+      "matches": 22,
+      "minutesPlayed": 2084,
+      "passAccuracy": 91,
+      "shotsOnTarget": 28,
+      "tackles": 54,
+      "sprints": 497
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566132,
+    "name": "Oliver Silva",
+    "shortName": "O. Silva",
+    "number": 15,
+    "position": "Goalkeeper",
+    "nationality": "Argentina",
+    "nationalityCode": "ar",
+    "club": "Bayer Leverkusen",
+    "age": 33,
+    "image": "https://images.unsplash.com/photo-1500000614058?q=80&w=400&fit=crop",
+    "rating": 89,
+    "badge": null,
+    "stats": {
+      "pace": 80,
+      "shooting": 87,
+      "passing": 91,
+      "dribbling": 70,
+      "defending": 52,
+      "physical": 87
+    },
+    "seasonStats": {
+      "goals": 10,
+      "assists": 8,
+      "matches": 23,
+      "minutesPlayed": 2166,
+      "passAccuracy": 88,
+      "shotsOnTarget": 31,
+      "tackles": 51,
+      "sprints": 254
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566133,
+    "name": "Lukas Müller",
+    "shortName": "L. Müller",
+    "number": 64,
+    "position": "Defender",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "Bayer Leverkusen",
+    "age": 29,
+    "image": "https://images.unsplash.com/photo-1500000146861?q=80&w=400&fit=crop",
+    "rating": 84,
+    "badge": null,
+    "stats": {
+      "pace": 87,
+      "shooting": 70,
+      "passing": 76,
+      "dribbling": 73,
+      "defending": 48,
+      "physical": 84
+    },
+    "seasonStats": {
+      "goals": 1,
+      "assists": 8,
+      "matches": 34,
+      "minutesPlayed": 2492,
+      "passAccuracy": 75,
+      "shotsOnTarget": 59,
+      "tackles": 57,
+      "sprints": 336
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566134,
+    "name": "Oliver Müller",
+    "shortName": "O. Müller",
+    "number": 15,
+    "position": "Defender",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "Bayer Leverkusen",
+    "age": 24,
+    "image": "https://images.unsplash.com/photo-1500000691057?q=80&w=400&fit=crop",
+    "rating": 82,
+    "badge": null,
+    "stats": {
+      "pace": 91,
+      "shooting": 84,
+      "passing": 74,
+      "dribbling": 90,
+      "defending": 71,
+      "physical": 76
+    },
+    "seasonStats": {
+      "goals": 6,
+      "assists": 13,
+      "matches": 31,
+      "minutesPlayed": 1946,
+      "passAccuracy": 91,
+      "shotsOnTarget": 23,
+      "tackles": 15,
+      "sprints": 450
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566135,
+    "name": "Marco Ricci",
+    "shortName": "M. Ricci",
+    "number": 51,
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Bayer Leverkusen",
+    "age": 32,
+    "image": "https://images.unsplash.com/photo-1500000858593?q=80&w=400&fit=crop",
+    "rating": 88,
+    "badge": null,
+    "stats": {
+      "pace": 75,
+      "shooting": 68,
+      "passing": 93,
+      "dribbling": 78,
+      "defending": 44,
+      "physical": 79
+    },
+    "seasonStats": {
+      "goals": 7,
+      "assists": 12,
+      "matches": 30,
+      "minutesPlayed": 2094,
+      "passAccuracy": 89,
+      "shotsOnTarget": 50,
+      "tackles": 31,
+      "sprints": 399
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566136,
+    "name": "Jean Mbappe",
+    "shortName": "J. Mbappe",
+    "number": 76,
+    "position": "Defender",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "Bayer Leverkusen",
+    "age": 30,
+    "image": "https://images.unsplash.com/photo-1500000260881?q=80&w=400&fit=crop",
+    "rating": 87,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 76,
+      "shooting": 93,
+      "passing": 74,
+      "dribbling": 91,
+      "defending": 64,
+      "physical": 65
+    },
+    "seasonStats": {
+      "goals": 9,
+      "assists": 0,
+      "matches": 23,
+      "minutesPlayed": 2015,
+      "passAccuracy": 92,
+      "shotsOnTarget": 59,
+      "tackles": 58,
+      "sprints": 401
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566137,
+    "name": "David Santos",
+    "shortName": "D. Santos",
+    "number": 47,
+    "position": "Midfielder",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "Bayer Leverkusen",
+    "age": 31,
+    "image": "https://images.unsplash.com/photo-1500000797744?q=80&w=400&fit=crop",
+    "rating": 91,
+    "badge": null,
+    "stats": {
+      "pace": 89,
+      "shooting": 68,
+      "passing": 77,
+      "dribbling": 75,
+      "defending": 59,
+      "physical": 76
+    },
+    "seasonStats": {
+      "goals": 5,
+      "assists": 5,
+      "matches": 29,
+      "minutesPlayed": 1806,
+      "passAccuracy": 77,
+      "shotsOnTarget": 23,
+      "tackles": 20,
+      "sprints": 485
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566138,
+    "name": "Thiago Webber",
+    "shortName": "T. Webber",
+    "number": 87,
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "nationalityCode": "pt",
+    "club": "Bayer Leverkusen",
+    "age": 21,
+    "image": "https://images.unsplash.com/photo-1500000226823?q=80&w=400&fit=crop",
+    "rating": 92,
+    "badge": null,
+    "stats": {
+      "pace": 82,
+      "shooting": 90,
+      "passing": 79,
+      "dribbling": 93,
+      "defending": 59,
+      "physical": 62
+    },
+    "seasonStats": {
+      "goals": 12,
+      "assists": 3,
+      "matches": 22,
+      "minutesPlayed": 2067,
+      "passAccuracy": 87,
+      "shotsOnTarget": 55,
+      "tackles": 52,
+      "sprints": 395
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566139,
+    "name": "Thiago Santos",
+    "shortName": "T. Santos",
+    "number": 77,
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "Bayer Leverkusen",
+    "age": 33,
+    "image": "https://images.unsplash.com/photo-1500000693413?q=80&w=400&fit=crop",
+    "rating": 90,
+    "badge": null,
+    "stats": {
+      "pace": 71,
+      "shooting": 60,
+      "passing": 82,
+      "dribbling": 73,
+      "defending": 55,
+      "physical": 83
+    },
+    "seasonStats": {
+      "goals": 7,
+      "assists": 13,
+      "matches": 27,
+      "minutesPlayed": 2152,
+      "passAccuracy": 88,
+      "shotsOnTarget": 24,
+      "tackles": 36,
+      "sprints": 448
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566140,
+    "name": "Hugo Webber",
+    "shortName": "H. Webber",
+    "number": 82,
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Bayer Leverkusen",
+    "age": 27,
+    "image": "https://images.unsplash.com/photo-1500000796072?q=80&w=400&fit=crop",
+    "rating": 84,
+    "badge": null,
+    "stats": {
+      "pace": 92,
+      "shooting": 69,
+      "passing": 74,
+      "dribbling": 83,
+      "defending": 66,
+      "physical": 86
+    },
+    "seasonStats": {
+      "goals": 14,
+      "assists": 6,
+      "matches": 33,
+      "minutesPlayed": 2376,
+      "passAccuracy": 78,
+      "shotsOnTarget": 20,
+      "tackles": 50,
+      "sprints": 492
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566141,
+    "name": "Marco Nadal",
+    "shortName": "M. Nadal",
+    "number": 42,
+    "position": "Forward",
+    "nationality": "Portugal",
+    "nationalityCode": "pt",
+    "club": "Bayer Leverkusen",
+    "age": 30,
+    "image": "https://images.unsplash.com/photo-1500000760946?q=80&w=400&fit=crop",
+    "rating": 80,
+    "badge": null,
+    "stats": {
+      "pace": 75,
+      "shooting": 90,
+      "passing": 83,
+      "dribbling": 71,
+      "defending": 87,
+      "physical": 60
+    },
+    "seasonStats": {
+      "goals": 2,
+      "assists": 6,
+      "matches": 20,
+      "minutesPlayed": 2434,
+      "passAccuracy": 82,
+      "shotsOnTarget": 31,
+      "tackles": 42,
+      "sprints": 479
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566142,
+    "name": "Hugo Müller",
+    "shortName": "H. Müller",
+    "number": 27,
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Bayer Leverkusen",
+    "age": 29,
+    "image": "https://images.unsplash.com/photo-1500000028733?q=80&w=400&fit=crop",
+    "rating": 86,
+    "badge": null,
+    "stats": {
+      "pace": 84,
+      "shooting": 73,
+      "passing": 78,
+      "dribbling": 94,
+      "defending": 71,
+      "physical": 78
+    },
+    "seasonStats": {
+      "goals": 5,
+      "assists": 5,
+      "matches": 32,
+      "minutesPlayed": 1904,
+      "passAccuracy": 81,
+      "shotsOnTarget": 21,
+      "tackles": 64,
+      "sprints": 333
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566143,
+    "name": "Hiro Dubois",
+    "shortName": "H. Dubois",
+    "number": 18,
+    "position": "Defender",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "London Titans",
+    "age": 23,
+    "image": "https://images.unsplash.com/photo-1500000992381?q=80&w=400&fit=crop",
+    "rating": 84,
+    "badge": null,
+    "stats": {
+      "pace": 75,
+      "shooting": 94,
+      "passing": 73,
+      "dribbling": 83,
+      "defending": 92,
+      "physical": 68
+    },
+    "seasonStats": {
+      "goals": 8,
+      "assists": 12,
+      "matches": 33,
+      "minutesPlayed": 2784,
+      "passAccuracy": 88,
+      "shotsOnTarget": 57,
+      "tackles": 77,
+      "sprints": 479
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566144,
+    "name": "Hugo Santos",
+    "shortName": "H. Santos",
+    "number": 79,
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "London Titans",
+    "age": 20,
+    "image": "https://images.unsplash.com/photo-1500000290967?q=80&w=400&fit=crop",
+    "rating": 84,
+    "badge": null,
+    "stats": {
+      "pace": 72,
+      "shooting": 64,
+      "passing": 91,
+      "dribbling": 84,
+      "defending": 91,
+      "physical": 84
+    },
+    "seasonStats": {
+      "goals": 3,
+      "assists": 11,
+      "matches": 32,
+      "minutesPlayed": 2011,
+      "passAccuracy": 83,
+      "shotsOnTarget": 40,
+      "tackles": 21,
+      "sprints": 416
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566145,
+    "name": "Mats Müller",
+    "shortName": "M. Müller",
+    "number": 86,
+    "position": "Defender",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "London Titans",
+    "age": 21,
+    "image": "https://images.unsplash.com/photo-1500000846636?q=80&w=400&fit=crop",
+    "rating": 89,
+    "badge": null,
+    "stats": {
+      "pace": 70,
+      "shooting": 85,
+      "passing": 74,
+      "dribbling": 80,
+      "defending": 78,
+      "physical": 87
+    },
+    "seasonStats": {
+      "goals": 8,
+      "assists": 6,
+      "matches": 31,
+      "minutesPlayed": 1980,
+      "passAccuracy": 87,
+      "shotsOnTarget": 27,
+      "tackles": 63,
+      "sprints": 483
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566146,
+    "name": "Hugo Mbappe",
+    "shortName": "H. Mbappe",
+    "number": 75,
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "London Titans",
+    "age": 29,
+    "image": "https://images.unsplash.com/photo-1500000958089?q=80&w=400&fit=crop",
+    "rating": 87,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 75,
+      "shooting": 65,
+      "passing": 80,
+      "dribbling": 90,
+      "defending": 42,
+      "physical": 81
+    },
+    "seasonStats": {
+      "goals": 12,
+      "assists": 11,
+      "matches": 32,
+      "minutesPlayed": 2786,
+      "passAccuracy": 78,
+      "shotsOnTarget": 40,
+      "tackles": 77,
+      "sprints": 306
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566147,
+    "name": "Sandro Santos",
+    "shortName": "S. Santos",
+    "number": 51,
+    "position": "Midfielder",
+    "nationality": "France",
+    "nationalityCode": "fr",
+    "club": "London Titans",
+    "age": 22,
+    "image": "https://images.unsplash.com/photo-1500000937325?q=80&w=400&fit=crop",
+    "rating": 85,
+    "badge": null,
+    "stats": {
+      "pace": 78,
+      "shooting": 73,
+      "passing": 71,
+      "dribbling": 81,
+      "defending": 50,
+      "physical": 77
+    },
+    "seasonStats": {
+      "goals": 7,
+      "assists": 1,
+      "matches": 20,
+      "minutesPlayed": 1875,
+      "passAccuracy": 91,
+      "shotsOnTarget": 30,
+      "tackles": 36,
+      "sprints": 239
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566148,
+    "name": "Lukas Dubois",
+    "shortName": "L. Dubois",
+    "number": 6,
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "London Titans",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1500000409844?q=80&w=400&fit=crop",
+    "rating": 87,
+    "badge": null,
+    "stats": {
+      "pace": 84,
+      "shooting": 76,
+      "passing": 76,
+      "dribbling": 74,
+      "defending": 92,
+      "physical": 80
+    },
+    "seasonStats": {
+      "goals": 2,
+      "assists": 4,
+      "matches": 30,
+      "minutesPlayed": 1951,
+      "passAccuracy": 77,
+      "shotsOnTarget": 21,
+      "tackles": 78,
+      "sprints": 497
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566149,
+    "name": "David Ricci",
+    "shortName": "D. Ricci",
+    "number": 68,
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "London Titans",
+    "age": 25,
+    "image": "https://images.unsplash.com/photo-1500000747648?q=80&w=400&fit=crop",
+    "rating": 88,
+    "badge": null,
+    "stats": {
+      "pace": 93,
+      "shooting": 91,
+      "passing": 74,
+      "dribbling": 86,
+      "defending": 51,
+      "physical": 93
+    },
+    "seasonStats": {
+      "goals": 0,
+      "assists": 14,
+      "matches": 23,
+      "minutesPlayed": 2060,
+      "passAccuracy": 93,
+      "shotsOnTarget": 51,
+      "tackles": 85,
+      "sprints": 330
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566150,
+    "name": "Thiago Sato",
+    "shortName": "T. Sato",
+    "number": 14,
+    "position": "Forward",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "London Titans",
+    "age": 23,
+    "image": "https://images.unsplash.com/photo-1500000135345?q=80&w=400&fit=crop",
+    "rating": 80,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 80,
+      "shooting": 62,
+      "passing": 89,
+      "dribbling": 80,
+      "defending": 78,
+      "physical": 79
+    },
+    "seasonStats": {
+      "goals": 10,
+      "assists": 14,
+      "matches": 32,
+      "minutesPlayed": 2365,
+      "passAccuracy": 77,
+      "shotsOnTarget": 27,
+      "tackles": 61,
+      "sprints": 451
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566151,
+    "name": "Thiago Thorne",
+    "shortName": "T. Thorne",
+    "number": 54,
+    "position": "Forward",
+    "nationality": "France",
+    "nationalityCode": "fr",
+    "club": "London Titans",
+    "age": 23,
+    "image": "https://images.unsplash.com/photo-1500000030720?q=80&w=400&fit=crop",
+    "rating": 88,
+    "badge": null,
+    "stats": {
+      "pace": 82,
+      "shooting": 79,
+      "passing": 70,
+      "dribbling": 82,
+      "defending": 61,
+      "physical": 80
+    },
+    "seasonStats": {
+      "goals": 10,
+      "assists": 3,
+      "matches": 29,
+      "minutesPlayed": 1965,
+      "passAccuracy": 94,
+      "shotsOnTarget": 55,
+      "tackles": 44,
+      "sprints": 410
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566152,
+    "name": "Erik Sato",
+    "shortName": "E. Sato",
+    "number": 17,
+    "position": "Forward",
+    "nationality": "Germany",
+    "nationalityCode": "de",
+    "club": "London Titans",
+    "age": 23,
+    "image": "https://images.unsplash.com/photo-1500000884940?q=80&w=400&fit=crop",
+    "rating": 83,
+    "badge": null,
+    "stats": {
+      "pace": 78,
+      "shooting": 63,
+      "passing": 80,
+      "dribbling": 86,
+      "defending": 41,
+      "physical": 82
+    },
+    "seasonStats": {
+      "goals": 10,
+      "assists": 14,
+      "matches": 32,
+      "minutesPlayed": 2452,
+      "passAccuracy": 77,
+      "shotsOnTarget": 56,
+      "tackles": 78,
+      "sprints": 282
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566153,
+    "name": "Thiago Kahn",
+    "shortName": "T. Kahn",
+    "number": 2,
+    "position": "Defender",
+    "nationality": "Portugal",
+    "nationalityCode": "pt",
+    "club": "Paris Saints",
+    "age": 30,
+    "image": "https://images.unsplash.com/photo-1500000548371?q=80&w=400&fit=crop",
+    "rating": 92,
+    "badge": null,
+    "stats": {
+      "pace": 87,
+      "shooting": 68,
+      "passing": 85,
+      "dribbling": 81,
+      "defending": 60,
+      "physical": 69
+    },
+    "seasonStats": {
+      "goals": 14,
+      "assists": 11,
+      "matches": 31,
+      "minutesPlayed": 2562,
+      "passAccuracy": 92,
+      "shotsOnTarget": 50,
+      "tackles": 32,
+      "sprints": 496
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566154,
+    "name": "Thiago Schmidt",
+    "shortName": "T. Schmidt",
+    "number": 11,
+    "position": "Defender",
+    "nationality": "Germany",
+    "nationalityCode": "de",
+    "club": "Paris Saints",
+    "age": 28,
+    "image": "https://images.unsplash.com/photo-1500000086632?q=80&w=400&fit=crop",
+    "rating": 86,
+    "badge": null,
+    "stats": {
+      "pace": 77,
+      "shooting": 83,
+      "passing": 93,
+      "dribbling": 87,
+      "defending": 83,
+      "physical": 73
+    },
+    "seasonStats": {
+      "goals": 14,
+      "assists": 6,
+      "matches": 31,
+      "minutesPlayed": 2520,
+      "passAccuracy": 79,
+      "shotsOnTarget": 36,
+      "tackles": 35,
+      "sprints": 265
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566155,
+    "name": "Carlos Dubois",
+    "shortName": "C. Dubois",
+    "number": 96,
+    "position": "Defender",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "Paris Saints",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1500000265018?q=80&w=400&fit=crop",
+    "rating": 83,
+    "badge": null,
+    "stats": {
+      "pace": 79,
+      "shooting": 94,
+      "passing": 73,
+      "dribbling": 87,
+      "defending": 78,
+      "physical": 74
+    },
+    "seasonStats": {
+      "goals": 2,
+      "assists": 0,
+      "matches": 27,
+      "minutesPlayed": 2375,
+      "passAccuracy": 90,
+      "shotsOnTarget": 54,
+      "tackles": 58,
+      "sprints": 251
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566156,
+    "name": "Hiro Sato",
+    "shortName": "H. Sato",
+    "number": 27,
+    "position": "Defender",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "Paris Saints",
+    "age": 20,
+    "image": "https://images.unsplash.com/photo-1500000047389?q=80&w=400&fit=crop",
+    "rating": 93,
+    "badge": null,
+    "stats": {
+      "pace": 77,
+      "shooting": 93,
+      "passing": 92,
+      "dribbling": 85,
+      "defending": 86,
+      "physical": 66
+    },
+    "seasonStats": {
+      "goals": 1,
+      "assists": 10,
+      "matches": 30,
+      "minutesPlayed": 1913,
+      "passAccuracy": 78,
+      "shotsOnTarget": 59,
+      "tackles": 27,
+      "sprints": 267
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566157,
+    "name": "Alessandro Messi",
+    "shortName": "A. Messi",
+    "number": 50,
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "Paris Saints",
+    "age": 22,
+    "image": "https://images.unsplash.com/photo-1500000118579?q=80&w=400&fit=crop",
+    "rating": 87,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 87,
+      "shooting": 75,
+      "passing": 70,
+      "dribbling": 76,
+      "defending": 72,
+      "physical": 75
+    },
+    "seasonStats": {
+      "goals": 1,
+      "assists": 5,
+      "matches": 27,
+      "minutesPlayed": 1869,
+      "passAccuracy": 79,
+      "shotsOnTarget": 44,
+      "tackles": 36,
+      "sprints": 453
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566158,
+    "name": "Carlos Mbappe",
+    "shortName": "C. Mbappe",
+    "number": 39,
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "Paris Saints",
+    "age": 27,
+    "image": "https://images.unsplash.com/photo-1500000722406?q=80&w=400&fit=crop",
+    "rating": 86,
+    "badge": null,
+    "stats": {
+      "pace": 76,
+      "shooting": 69,
+      "passing": 83,
+      "dribbling": 83,
+      "defending": 45,
+      "physical": 86
+    },
+    "seasonStats": {
+      "goals": 10,
+      "assists": 14,
+      "matches": 21,
+      "minutesPlayed": 1961,
+      "passAccuracy": 91,
+      "shotsOnTarget": 37,
+      "tackles": 14,
+      "sprints": 390
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566159,
+    "name": "Hiro Mbappe",
+    "shortName": "H. Mbappe",
+    "number": 43,
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "Paris Saints",
+    "age": 28,
+    "image": "https://images.unsplash.com/photo-1500000007073?q=80&w=400&fit=crop",
+    "rating": 80,
+    "badge": null,
+    "stats": {
+      "pace": 79,
+      "shooting": 72,
+      "passing": 86,
+      "dribbling": 92,
+      "defending": 66,
+      "physical": 71
+    },
+    "seasonStats": {
+      "goals": 10,
+      "assists": 10,
+      "matches": 23,
+      "minutesPlayed": 2257,
+      "passAccuracy": 90,
+      "shotsOnTarget": 42,
+      "tackles": 39,
+      "sprints": 434
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566160,
+    "name": "Thiago Mbappe",
+    "shortName": "T. Mbappe",
+    "number": 59,
+    "position": "Forward",
+    "nationality": "Germany",
+    "nationalityCode": "de",
+    "club": "Paris Saints",
+    "age": 24,
+    "image": "https://images.unsplash.com/photo-1500000157512?q=80&w=400&fit=crop",
+    "rating": 89,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 73,
+      "shooting": 88,
+      "passing": 90,
+      "dribbling": 93,
+      "defending": 78,
+      "physical": 64
+    },
+    "seasonStats": {
+      "goals": 1,
+      "assists": 12,
+      "matches": 27,
+      "minutesPlayed": 2010,
+      "passAccuracy": 81,
+      "shotsOnTarget": 32,
+      "tackles": 12,
+      "sprints": 298
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566161,
+    "name": "Lukas Nadal",
+    "shortName": "L. Nadal",
+    "number": 17,
+    "position": "Forward",
+    "nationality": "Argentina",
+    "nationalityCode": "ar",
+    "club": "Paris Saints",
+    "age": 23,
+    "image": "https://images.unsplash.com/photo-1500000979553?q=80&w=400&fit=crop",
+    "rating": 93,
+    "badge": null,
+    "stats": {
+      "pace": 72,
+      "shooting": 78,
+      "passing": 71,
+      "dribbling": 88,
+      "defending": 63,
+      "physical": 71
+    },
+    "seasonStats": {
+      "goals": 5,
+      "assists": 14,
+      "matches": 25,
+      "minutesPlayed": 1875,
+      "passAccuracy": 92,
+      "shotsOnTarget": 29,
+      "tackles": 57,
+      "sprints": 353
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566162,
+    "name": "Hiro Messi",
+    "shortName": "H. Messi",
+    "number": 76,
+    "position": "Forward",
+    "nationality": "Germany",
+    "nationalityCode": "de",
+    "club": "Paris Saints",
+    "age": 23,
+    "image": "https://images.unsplash.com/photo-1500000611867?q=80&w=400&fit=crop",
+    "rating": 92,
+    "badge": null,
+    "stats": {
+      "pace": 87,
+      "shooting": 65,
+      "passing": 86,
+      "dribbling": 87,
+      "defending": 40,
+      "physical": 79
+    },
+    "seasonStats": {
+      "goals": 3,
+      "assists": 8,
+      "matches": 20,
+      "minutesPlayed": 2345,
+      "passAccuracy": 82,
+      "shotsOnTarget": 58,
+      "tackles": 51,
+      "sprints": 207
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566163,
+    "name": "Hugo Sato",
+    "shortName": "H. Sato",
+    "number": 62,
+    "position": "Defender",
+    "nationality": "Japan",
+    "nationalityCode": "jp",
+    "club": "London United",
+    "age": 33,
+    "image": "https://images.unsplash.com/photo-1500000489245?q=80&w=400&fit=crop",
+    "rating": 85,
+    "badge": null,
+    "stats": {
+      "pace": 86,
+      "shooting": 69,
+      "passing": 92,
+      "dribbling": 84,
+      "defending": 76,
+      "physical": 68
+    },
+    "seasonStats": {
+      "goals": 4,
+      "assists": 3,
+      "matches": 21,
+      "minutesPlayed": 2023,
+      "passAccuracy": 88,
+      "shotsOnTarget": 59,
+      "tackles": 47,
+      "sprints": 234
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566164,
+    "name": "Alessandro Schmidt",
+    "shortName": "A. Schmidt",
+    "number": 16,
+    "position": "Defender",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "London United",
+    "age": 24,
+    "image": "https://images.unsplash.com/photo-1500000471439?q=80&w=400&fit=crop",
+    "rating": 88,
+    "badge": null,
+    "stats": {
+      "pace": 84,
+      "shooting": 69,
+      "passing": 80,
+      "dribbling": 78,
+      "defending": 60,
+      "physical": 71
+    },
+    "seasonStats": {
+      "goals": 1,
+      "assists": 0,
+      "matches": 29,
+      "minutesPlayed": 2069,
+      "passAccuracy": 93,
+      "shotsOnTarget": 25,
+      "tackles": 49,
+      "sprints": 467
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566165,
+    "name": "Alessandro Kahn",
+    "shortName": "A. Kahn",
+    "number": 28,
+    "position": "Defender",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "London United",
+    "age": 27,
+    "image": "https://images.unsplash.com/photo-1500000560631?q=80&w=400&fit=crop",
+    "rating": 88,
+    "badge": null,
+    "stats": {
+      "pace": 73,
+      "shooting": 88,
+      "passing": 80,
+      "dribbling": 70,
+      "defending": 90,
+      "physical": 77
+    },
+    "seasonStats": {
+      "goals": 10,
+      "assists": 10,
+      "matches": 22,
+      "minutesPlayed": 2655,
+      "passAccuracy": 76,
+      "shotsOnTarget": 57,
+      "tackles": 76,
+      "sprints": 347
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566166,
+    "name": "Jean Thorne",
+    "shortName": "J. Thorne",
+    "number": 62,
+    "position": "Defender",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "London United",
+    "age": 20,
+    "image": "https://images.unsplash.com/photo-1500000716376?q=80&w=400&fit=crop",
+    "rating": 91,
+    "badge": null,
+    "stats": {
+      "pace": 76,
+      "shooting": 87,
+      "passing": 78,
+      "dribbling": 80,
+      "defending": 40,
+      "physical": 73
+    },
+    "seasonStats": {
+      "goals": 6,
+      "assists": 12,
+      "matches": 24,
+      "minutesPlayed": 1954,
+      "passAccuracy": 75,
+      "shotsOnTarget": 26,
+      "tackles": 53,
+      "sprints": 405
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566167,
+    "name": "Erik Silva",
+    "shortName": "E. Silva",
+    "number": 9,
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "London United",
+    "age": 29,
+    "image": "https://images.unsplash.com/photo-1500000665205?q=80&w=400&fit=crop",
+    "rating": 87,
+    "badge": null,
+    "stats": {
+      "pace": 85,
+      "shooting": 86,
+      "passing": 85,
+      "dribbling": 70,
+      "defending": 81,
+      "physical": 88
+    },
+    "seasonStats": {
+      "goals": 1,
+      "assists": 3,
+      "matches": 33,
+      "minutesPlayed": 2178,
+      "passAccuracy": 77,
+      "shotsOnTarget": 44,
+      "tackles": 25,
+      "sprints": 372
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566168,
+    "name": "David Silva",
+    "shortName": "D. Silva",
+    "number": 64,
+    "position": "Midfielder",
+    "nationality": "Japan",
+    "nationalityCode": "jp",
+    "club": "London United",
+    "age": 29,
+    "image": "https://images.unsplash.com/photo-1500000128102?q=80&w=400&fit=crop",
+    "rating": 86,
+    "badge": null,
+    "stats": {
+      "pace": 75,
+      "shooting": 64,
+      "passing": 72,
+      "dribbling": 82,
+      "defending": 94,
+      "physical": 91
+    },
+    "seasonStats": {
+      "goals": 10,
+      "assists": 1,
+      "matches": 33,
+      "minutesPlayed": 2388,
+      "passAccuracy": 92,
+      "shotsOnTarget": 25,
+      "tackles": 77,
+      "sprints": 202
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566169,
+    "name": "Mats Silva",
+    "shortName": "M. Silva",
+    "number": 15,
+    "position": "Midfielder",
+    "nationality": "Argentina",
+    "nationalityCode": "ar",
+    "club": "London United",
+    "age": 32,
+    "image": "https://images.unsplash.com/photo-1500000767939?q=80&w=400&fit=crop",
+    "rating": 83,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 90,
+      "shooting": 66,
+      "passing": 76,
+      "dribbling": 91,
+      "defending": 57,
+      "physical": 88
+    },
+    "seasonStats": {
+      "goals": 9,
+      "assists": 7,
+      "matches": 33,
+      "minutesPlayed": 2326,
+      "passAccuracy": 85,
+      "shotsOnTarget": 36,
+      "tackles": 45,
+      "sprints": 222
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566170,
+    "name": "Leo Messi",
+    "shortName": "L. Messi",
+    "number": 22,
+    "position": "Forward",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "London United",
+    "age": 24,
+    "image": "https://images.unsplash.com/photo-1500000702788?q=80&w=400&fit=crop",
+    "rating": 89,
+    "badge": null,
+    "stats": {
+      "pace": 76,
+      "shooting": 78,
+      "passing": 81,
+      "dribbling": 76,
+      "defending": 77,
+      "physical": 83
+    },
+    "seasonStats": {
+      "goals": 7,
+      "assists": 14,
+      "matches": 26,
+      "minutesPlayed": 2523,
+      "passAccuracy": 81,
+      "shotsOnTarget": 43,
+      "tackles": 26,
+      "sprints": 314
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566171,
+    "name": "Sandro Schmidt",
+    "shortName": "S. Schmidt",
+    "number": 21,
+    "position": "Forward",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "London United",
+    "age": 29,
+    "image": "https://images.unsplash.com/photo-1500000728478?q=80&w=400&fit=crop",
+    "rating": 92,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 94,
+      "shooting": 80,
+      "passing": 85,
+      "dribbling": 91,
+      "defending": 44,
+      "physical": 73
+    },
+    "seasonStats": {
+      "goals": 0,
+      "assists": 12,
+      "matches": 21,
+      "minutesPlayed": 2561,
+      "passAccuracy": 80,
+      "shotsOnTarget": 55,
+      "tackles": 34,
+      "sprints": 385
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566172,
+    "name": "Marco Müller",
+    "shortName": "M. Müller",
+    "number": 4,
+    "position": "Forward",
+    "nationality": "Japan",
+    "nationalityCode": "jp",
+    "club": "London United",
+    "age": 34,
+    "image": "https://images.unsplash.com/photo-1500000236866?q=80&w=400&fit=crop",
+    "rating": 82,
+    "badge": null,
+    "stats": {
+      "pace": 83,
+      "shooting": 79,
+      "passing": 94,
+      "dribbling": 80,
+      "defending": 69,
+      "physical": 75
+    },
+    "seasonStats": {
+      "goals": 2,
+      "assists": 9,
+      "matches": 33,
+      "minutesPlayed": 1979,
+      "passAccuracy": 85,
+      "shotsOnTarget": 36,
+      "tackles": 69,
+      "sprints": 215
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566173,
+    "name": "Mats Sato",
+    "shortName": "M. Sato",
+    "number": 60,
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "nationalityCode": "pt",
+    "club": "AC Milan",
+    "age": 20,
+    "image": "https://images.unsplash.com/photo-1500000723039?q=80&w=400&fit=crop",
+    "rating": 93,
+    "badge": null,
+    "stats": {
+      "pace": 71,
+      "shooting": 83,
+      "passing": 87,
+      "dribbling": 88,
+      "defending": 56,
+      "physical": 72
+    },
+    "seasonStats": {
+      "goals": 5,
+      "assists": 1,
+      "matches": 31,
+      "minutesPlayed": 2159,
+      "passAccuracy": 81,
+      "shotsOnTarget": 53,
+      "tackles": 78,
+      "sprints": 332
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566174,
+    "name": "Leo Ricci",
+    "shortName": "L. Ricci",
+    "number": 74,
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "AC Milan",
+    "age": 25,
+    "image": "https://images.unsplash.com/photo-1500000439636?q=80&w=400&fit=crop",
+    "rating": 90,
+    "badge": null,
+    "stats": {
+      "pace": 82,
+      "shooting": 88,
+      "passing": 72,
+      "dribbling": 88,
+      "defending": 41,
+      "physical": 74
+    },
+    "seasonStats": {
+      "goals": 7,
+      "assists": 5,
+      "matches": 21,
+      "minutesPlayed": 2170,
+      "passAccuracy": 83,
+      "shotsOnTarget": 58,
+      "tackles": 20,
+      "sprints": 346
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566175,
+    "name": "Thiago Müller",
+    "shortName": "T. Müller",
+    "number": 13,
+    "position": "Midfielder",
+    "nationality": "Japan",
+    "nationalityCode": "jp",
+    "club": "AC Milan",
+    "age": 21,
+    "image": "https://images.unsplash.com/photo-1500000021509?q=80&w=400&fit=crop",
+    "rating": 84,
+    "badge": null,
+    "stats": {
+      "pace": 75,
+      "shooting": 62,
+      "passing": 76,
+      "dribbling": 74,
+      "defending": 50,
+      "physical": 91
+    },
+    "seasonStats": {
+      "goals": 10,
+      "assists": 11,
+      "matches": 23,
+      "minutesPlayed": 2046,
+      "passAccuracy": 89,
+      "shotsOnTarget": 25,
+      "tackles": 37,
+      "sprints": 393
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566176,
+    "name": "Leo Müller",
+    "shortName": "L. Müller",
+    "number": 49,
+    "position": "Forward",
+    "nationality": "Germany",
+    "nationalityCode": "de",
+    "club": "AC Milan",
+    "age": 30,
+    "image": "https://images.unsplash.com/photo-1500000278079?q=80&w=400&fit=crop",
+    "rating": 89,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 93,
+      "shooting": 92,
+      "passing": 76,
+      "dribbling": 74,
+      "defending": 75,
+      "physical": 85
+    },
+    "seasonStats": {
+      "goals": 1,
+      "assists": 11,
+      "matches": 22,
+      "minutesPlayed": 2448,
+      "passAccuracy": 85,
+      "shotsOnTarget": 27,
+      "tackles": 63,
+      "sprints": 322
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566177,
+    "name": "Erik Mbappe",
+    "shortName": "E. Mbappe",
+    "number": 55,
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "AC Milan",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1500000374057?q=80&w=400&fit=crop",
+    "rating": 90,
+    "badge": null,
+    "stats": {
+      "pace": 88,
+      "shooting": 88,
+      "passing": 79,
+      "dribbling": 85,
+      "defending": 62,
+      "physical": 77
+    },
+    "seasonStats": {
+      "goals": 9,
+      "assists": 12,
+      "matches": 28,
+      "minutesPlayed": 2284,
+      "passAccuracy": 89,
+      "shotsOnTarget": 25,
+      "tackles": 57,
+      "sprints": 373
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566178,
+    "name": "David Webber",
+    "shortName": "D. Webber",
+    "number": 76,
+    "position": "Forward",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "AC Milan",
+    "age": 27,
+    "image": "https://images.unsplash.com/photo-1500000945569?q=80&w=400&fit=crop",
+    "rating": 86,
+    "badge": null,
+    "stats": {
+      "pace": 93,
+      "shooting": 60,
+      "passing": 75,
+      "dribbling": 91,
+      "defending": 40,
+      "physical": 70
+    },
+    "seasonStats": {
+      "goals": 6,
+      "assists": 3,
+      "matches": 34,
+      "minutesPlayed": 2191,
+      "passAccuracy": 92,
+      "shotsOnTarget": 51,
+      "tackles": 35,
+      "sprints": 302
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566179,
+    "name": "Leo Dubois",
+    "shortName": "L. Dubois",
+    "number": 91,
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Napoli",
+    "age": 20,
+    "image": "https://images.unsplash.com/photo-1500000069095?q=80&w=400&fit=crop",
+    "rating": 92,
+    "badge": null,
+    "stats": {
+      "pace": 74,
+      "shooting": 85,
+      "passing": 85,
+      "dribbling": 91,
+      "defending": 72,
+      "physical": 65
+    },
+    "seasonStats": {
+      "goals": 3,
+      "assists": 1,
+      "matches": 20,
+      "minutesPlayed": 2608,
+      "passAccuracy": 75,
+      "shotsOnTarget": 44,
+      "tackles": 48,
+      "sprints": 477
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566180,
+    "name": "Jonas Müller",
+    "shortName": "J. Müller",
+    "number": 79,
+    "position": "Midfielder",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "Napoli",
+    "age": 30,
+    "image": "https://images.unsplash.com/photo-1500000062750?q=80&w=400&fit=crop",
+    "rating": 89,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 75,
+      "shooting": 90,
+      "passing": 87,
+      "dribbling": 90,
+      "defending": 44,
+      "physical": 82
+    },
+    "seasonStats": {
+      "goals": 14,
+      "assists": 14,
+      "matches": 21,
+      "minutesPlayed": 1976,
+      "passAccuracy": 87,
+      "shotsOnTarget": 40,
+      "tackles": 36,
+      "sprints": 468
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566181,
+    "name": "Lukas Vance",
+    "shortName": "L. Vance",
+    "number": 35,
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "Napoli",
+    "age": 29,
+    "image": "https://images.unsplash.com/photo-1500000358025?q=80&w=400&fit=crop",
+    "rating": 93,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 90,
+      "shooting": 64,
+      "passing": 86,
+      "dribbling": 74,
+      "defending": 41,
+      "physical": 82
+    },
+    "seasonStats": {
+      "goals": 9,
+      "assists": 8,
+      "matches": 23,
+      "minutesPlayed": 2131,
+      "passAccuracy": 82,
+      "shotsOnTarget": 46,
+      "tackles": 30,
+      "sprints": 294
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566182,
+    "name": "Oliver Schmidt",
+    "shortName": "O. Schmidt",
+    "number": 79,
+    "position": "Forward",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "Napoli",
+    "age": 27,
+    "image": "https://images.unsplash.com/photo-1500000167235?q=80&w=400&fit=crop",
+    "rating": 90,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 86,
+      "shooting": 93,
+      "passing": 71,
+      "dribbling": 92,
+      "defending": 70,
+      "physical": 88
+    },
+    "seasonStats": {
+      "goals": 7,
+      "assists": 13,
+      "matches": 28,
+      "minutesPlayed": 1846,
+      "passAccuracy": 94,
+      "shotsOnTarget": 56,
+      "tackles": 87,
+      "sprints": 238
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566183,
+    "name": "Alessandro Ricci",
+    "shortName": "A. Ricci",
+    "number": 6,
+    "position": "Forward",
+    "nationality": "Argentina",
+    "nationalityCode": "ar",
+    "club": "Napoli",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1500000443766?q=80&w=400&fit=crop",
+    "rating": 90,
+    "badge": null,
+    "stats": {
+      "pace": 93,
+      "shooting": 91,
+      "passing": 92,
+      "dribbling": 70,
+      "defending": 40,
+      "physical": 81
+    },
+    "seasonStats": {
+      "goals": 4,
+      "assists": 11,
+      "matches": 25,
+      "minutesPlayed": 2676,
+      "passAccuracy": 81,
+      "shotsOnTarget": 56,
+      "tackles": 10,
+      "sprints": 202
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566184,
+    "name": "Hugo García",
+    "shortName": "H. García",
+    "number": 38,
+    "position": "Forward",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "Napoli",
+    "age": 32,
+    "image": "https://images.unsplash.com/photo-1500000291450?q=80&w=400&fit=crop",
+    "rating": 89,
+    "badge": null,
+    "stats": {
+      "pace": 71,
+      "shooting": 83,
+      "passing": 70,
+      "dribbling": 81,
+      "defending": 67,
+      "physical": 94
+    },
+    "seasonStats": {
+      "goals": 11,
+      "assists": 2,
+      "matches": 25,
+      "minutesPlayed": 2571,
+      "passAccuracy": 93,
+      "shotsOnTarget": 57,
+      "tackles": 20,
+      "sprints": 306
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566185,
+    "name": "Hiro Nadal",
+    "shortName": "H. Nadal",
+    "number": 84,
+    "position": "Defender",
+    "nationality": "Portugal",
+    "nationalityCode": "pt",
+    "club": "Amsterdam United",
+    "age": 26,
+    "image": "https://images.unsplash.com/photo-1500000607692?q=80&w=400&fit=crop",
+    "rating": 92,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 72,
+      "shooting": 71,
+      "passing": 85,
+      "dribbling": 76,
+      "defending": 72,
+      "physical": 60
+    },
+    "seasonStats": {
+      "goals": 9,
+      "assists": 2,
+      "matches": 21,
+      "minutesPlayed": 2596,
+      "passAccuracy": 79,
+      "shotsOnTarget": 48,
+      "tackles": 83,
+      "sprints": 425
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566186,
+    "name": "Erik Vance",
+    "shortName": "E. Vance",
+    "number": 43,
+    "position": "Defender",
+    "nationality": "Spain",
+    "nationalityCode": "es",
+    "club": "Amsterdam United",
+    "age": 32,
+    "image": "https://images.unsplash.com/photo-1500000872886?q=80&w=400&fit=crop",
+    "rating": 86,
+    "badge": null,
+    "stats": {
+      "pace": 86,
+      "shooting": 88,
+      "passing": 94,
+      "dribbling": 71,
+      "defending": 72,
+      "physical": 84
+    },
+    "seasonStats": {
+      "goals": 3,
+      "assists": 8,
+      "matches": 31,
+      "minutesPlayed": 2197,
+      "passAccuracy": 94,
+      "shotsOnTarget": 28,
+      "tackles": 40,
+      "sprints": 397
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566187,
+    "name": "Sandro Müller",
+    "shortName": "S. Müller",
+    "number": 89,
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "nationalityCode": "nl",
+    "club": "Amsterdam United",
+    "age": 25,
+    "image": "https://images.unsplash.com/photo-1500000472509?q=80&w=400&fit=crop",
+    "rating": 86,
+    "badge": "HOT PROSPECT",
+    "stats": {
+      "pace": 75,
+      "shooting": 63,
+      "passing": 78,
+      "dribbling": 90,
+      "defending": 48,
+      "physical": 64
+    },
+    "seasonStats": {
+      "goals": 13,
+      "assists": 3,
+      "matches": 30,
+      "minutesPlayed": 2465,
+      "passAccuracy": 75,
+      "shotsOnTarget": 36,
+      "tackles": 33,
+      "sprints": 354
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566188,
+    "name": "Hugo Nadal",
+    "shortName": "H. Nadal",
+    "number": 58,
+    "position": "Defender",
+    "nationality": "Japan",
+    "nationalityCode": "jp",
+    "club": "Amsterdam United",
+    "age": 32,
+    "image": "https://images.unsplash.com/photo-1500000314140?q=80&w=400&fit=crop",
+    "rating": 87,
+    "badge": null,
+    "stats": {
+      "pace": 82,
+      "shooting": 67,
+      "passing": 72,
+      "dribbling": 77,
+      "defending": 41,
+      "physical": 60
+    },
+    "seasonStats": {
+      "goals": 12,
+      "assists": 5,
+      "matches": 21,
+      "minutesPlayed": 2411,
+      "passAccuracy": 78,
+      "shotsOnTarget": 49,
+      "tackles": 80,
+      "sprints": 208
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566189,
+    "name": "David Müller",
+    "shortName": "D. Müller",
+    "number": 30,
+    "position": "Midfielder",
+    "nationality": "Japan",
+    "nationalityCode": "jp",
+    "club": "Amsterdam United",
+    "age": 31,
+    "image": "https://images.unsplash.com/photo-1500000527723?q=80&w=400&fit=crop",
+    "rating": 85,
+    "badge": null,
+    "stats": {
+      "pace": 93,
+      "shooting": 81,
+      "passing": 84,
+      "dribbling": 91,
+      "defending": 88,
+      "physical": 80
+    },
+    "seasonStats": {
+      "goals": 12,
+      "assists": 6,
+      "matches": 30,
+      "minutesPlayed": 2114,
+      "passAccuracy": 87,
+      "shotsOnTarget": 39,
+      "tackles": 29,
+      "sprints": 306
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566190,
+    "name": "Marco Webber",
+    "shortName": "M. Webber",
+    "number": 32,
+    "position": "Midfielder",
+    "nationality": "Japan",
+    "nationalityCode": "jp",
+    "club": "Amsterdam United",
+    "age": 20,
+    "image": "https://images.unsplash.com/photo-1500000360496?q=80&w=400&fit=crop",
+    "rating": 84,
+    "badge": null,
+    "stats": {
+      "pace": 71,
+      "shooting": 91,
+      "passing": 73,
+      "dribbling": 74,
+      "defending": 79,
+      "physical": 84
+    },
+    "seasonStats": {
+      "goals": 12,
+      "assists": 11,
+      "matches": 32,
+      "minutesPlayed": 2480,
+      "passAccuracy": 90,
+      "shotsOnTarget": 29,
+      "tackles": 20,
+      "sprints": 256
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566191,
+    "name": "Marco Silva",
+    "shortName": "M. Silva",
+    "number": 22,
+    "position": "Midfielder",
+    "nationality": "England",
+    "nationalityCode": "gb-eng",
+    "club": "Amsterdam United",
+    "age": 34,
+    "image": "https://images.unsplash.com/photo-1500000138656?q=80&w=400&fit=crop",
+    "rating": 88,
+    "badge": null,
+    "stats": {
+      "pace": 92,
+      "shooting": 86,
+      "passing": 81,
+      "dribbling": 79,
+      "defending": 54,
+      "physical": 66
+    },
+    "seasonStats": {
+      "goals": 0,
+      "assists": 11,
+      "matches": 25,
+      "minutesPlayed": 2614,
+      "passAccuracy": 84,
+      "shotsOnTarget": 39,
+      "tackles": 89,
+      "sprints": 295
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566192,
+    "name": "Alessandro Thorne",
+    "shortName": "A. Thorne",
+    "number": 30,
+    "position": "Forward",
+    "nationality": "Portugal",
+    "nationalityCode": "pt",
+    "club": "Amsterdam United",
+    "age": 28,
+    "image": "https://images.unsplash.com/photo-1500000045495?q=80&w=400&fit=crop",
+    "rating": 92,
+    "badge": null,
+    "stats": {
+      "pace": 94,
+      "shooting": 72,
+      "passing": 76,
+      "dribbling": 79,
+      "defending": 58,
+      "physical": 62
+    },
+    "seasonStats": {
+      "goals": 10,
+      "assists": 12,
+      "matches": 27,
+      "minutesPlayed": 1916,
+      "passAccuracy": 80,
+      "shotsOnTarget": 39,
+      "tackles": 87,
+      "sprints": 462
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566193,
+    "name": "Alessandro Santos",
+    "shortName": "A. Santos",
+    "number": 38,
+    "position": "Forward",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "Amsterdam United",
+    "age": 31,
+    "image": "https://images.unsplash.com/photo-1500000195182?q=80&w=400&fit=crop",
+    "rating": 88,
+    "badge": null,
+    "stats": {
+      "pace": 79,
+      "shooting": 74,
+      "passing": 73,
+      "dribbling": 85,
+      "defending": 76,
+      "physical": 65
+    },
+    "seasonStats": {
+      "goals": 0,
+      "assists": 4,
+      "matches": 29,
+      "minutesPlayed": 2275,
+      "passAccuracy": 77,
+      "shotsOnTarget": 26,
+      "tackles": 81,
+      "sprints": 298
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566194,
+    "name": "Thiago Dubois",
+    "shortName": "T. Dubois",
+    "number": 87,
+    "position": "Forward",
+    "nationality": "Brazil",
+    "nationalityCode": "br",
+    "club": "Amsterdam United",
+    "age": 31,
+    "image": "https://images.unsplash.com/photo-1500000093705?q=80&w=400&fit=crop",
+    "rating": 87,
+    "badge": null,
+    "stats": {
+      "pace": 81,
+      "shooting": 81,
+      "passing": 86,
+      "dribbling": 83,
+      "defending": 85,
+      "physical": 85
+    },
+    "seasonStats": {
+      "goals": 0,
+      "assists": 1,
+      "matches": 29,
+      "minutesPlayed": 2510,
+      "passAccuracy": 75,
+      "shotsOnTarget": 53,
+      "tackles": 81,
+      "sprints": 372
+    },
+    "recentForm": [],
+    "careerHighlights": []
+  },
+  {
+    "id": 1775988566195,
+    "name": "cristiano ronaldo",
+    "shortName": "c. ronaldo",
+    "number": 44,
+    "position": "Forward",
+    "nationality": "portugal",
+    "nationalityCode": "pt",
+    "club": "real madrid",
+    "age": 40,
+    "image": "https://ui-avatars.com/api/?name=cristiano%20ronaldo&background=0f172a&color=72dcff&size=256",
+    "rating": 70,
+    "badge": "NEW SIGNING",
+    "stats": {
+      "pace": 80,
+      "shooting": 78,
+      "passing": 64,
+      "dribbling": 76,
+      "defending": 34,
+      "physical": 72
+    },
+    "seasonStats": {
+      "goals": 0,
+      "assists": 0,
+      "matches": 0,
+      "minutesPlayed": 0,
+      "passAccuracy": 80,
+      "shotsOnTarget": 0,
+      "tackles": 0,
+      "sprints": 0
+    },
+    "recentForm": [],
+    "careerHighlights": [
+      "Added to the Neon Arena database on April 13, 2026",
+      "real madrid squad member registered for tactical depth",
+      "portugal player available for club and country selection"
+    ]
+  }
+]

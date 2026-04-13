@@ -1,0 +1,173 @@
+{
+  "competition": "FIFA World Cup 2026",
+  "stage": "Group Stage - Day 12",
+  "featuredMatches": [
+    {
+      "homeTeam": { "name": "Argentina", "code": "ar", "ranking": 1 },
+      "awayTeam": { "name": "France", "code": "fr", "ranking": 2 },
+      "homeScore": 2,
+      "awayScore": 1,
+      "minute": "78",
+      "status": "IN_PLAY",
+      "stats": {
+        "liveWinPct": "82.4%",
+        "expectedGoals": "1.84",
+        "groupRank": "1st",
+        "knockoutProb": "99%"
+      },
+      "permutations": [
+        { "type": "secondary", "text": "If result holds, Argentina secures top seed." },
+        { "type": "primary", "text": "France must score to guarantee qualification." }
+      ]
+    },
+    {
+      "homeTeam": { "name": "Brazil", "code": "br", "ranking": 1 },
+      "awayTeam": { "name": "Serbia", "code": "rs", "ranking": 21 },
+      "homeScore": 3,
+      "awayScore": 0,
+      "minute": "55",
+      "status": "IN_PLAY",
+      "stats": {
+        "liveWinPct": "97.1%",
+        "expectedGoals": "3.10",
+        "groupRank": "1st",
+        "knockoutProb": "100%"
+      },
+      "permutations": [
+        { "type": "secondary", "text": "Brazil is mathematically through to the knockouts." },
+        { "type": "neutral", "text": "Serbia requires a miracle." }
+      ]
+    },
+    {
+      "homeTeam": { "name": "Portugal", "code": "pt", "ranking": 9 },
+      "awayTeam": { "name": "Germany", "code": "de", "ranking": 11 },
+      "homeScore": 1,
+      "awayScore": 1,
+      "minute": "32",
+      "status": "IN_PLAY",
+      "stats": {
+        "liveWinPct": "48.2%",
+        "expectedGoals": "0.95",
+        "groupRank": "2nd",
+        "knockoutProb": "74%"
+      },
+      "permutations": [
+        { "type": "primary", "text": "The winner of this match likely wins Group H." },
+        { "type": "neutral", "text": "A draw keeps the bracket wide open." }
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        { "name": "Netherlands", "code": "nl", "P": 3, "W": 2, "D": 0, "L": 1, "GF": 5, "GA": 3, "GD": 2, "Pts": 6, "qualified": true },
+        { "name": "Senegal", "code": "sn", "P": 3, "W": 2, "D": 0, "L": 1, "GF": 4, "GA": 2, "GD": 2, "Pts": 6, "qualified": true },
+        { "name": "Ecuador", "code": "ec", "P": 3, "W": 1, "D": 0, "L": 2, "GF": 2, "GA": 4, "GD": -2, "Pts": 3, "qualified": false },
+        { "name": "Qatar", "code": "qa", "P": 3, "W": 0, "D": 0, "L": 3, "GF": 1, "GA": 7, "GD": -6, "Pts": 0, "qualified": false }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        { "name": "England", "code": "gb-eng", "P": 3, "W": 2, "D": 1, "L": 0, "GF": 6, "GA": 2, "GD": 4, "Pts": 7, "qualified": true },
+        { "name": "USA", "code": "us", "P": 3, "W": 1, "D": 1, "L": 1, "GF": 3, "GA": 3, "GD": 0, "Pts": 4, "qualified": false },
+        { "name": "Iran", "code": "ir", "P": 3, "W": 1, "D": 0, "L": 2, "GF": 2, "GA": 4, "GD": -2, "Pts": 3, "qualified": false },
+        { "name": "Wales", "code": "gb-wls", "P": 3, "W": 0, "D": 0, "L": 3, "GF": 0, "GA": 2, "GD": -2, "Pts": 0, "qualified": false }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        { "name": "Argentina", "code": "ar", "P": 3, "W": 2, "D": 1, "L": 0, "GF": 7, "GA": 2, "GD": 5, "Pts": 7, "qualified": true },
+        { "name": "Poland", "code": "pl", "P": 3, "W": 1, "D": 1, "L": 1, "GF": 3, "GA": 4, "GD": -1, "Pts": 4, "qualified": false },
+        { "name": "Mexico", "code": "mx", "P": 3, "W": 1, "D": 1, "L": 1, "GF": 3, "GA": 4, "GD": -1, "Pts": 4, "qualified": false },
+        { "name": "S. Arabia", "code": "sa", "P": 3, "W": 0, "D": 1, "L": 2, "GF": 1, "GA": 5, "GD": -4, "Pts": 1, "qualified": false }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        { "name": "France", "code": "fr", "P": 3, "W": 2, "D": 0, "L": 1, "GF": 6, "GA": 3, "GD": 3, "Pts": 6, "qualified": true },
+        { "name": "Denmark", "code": "dk", "P": 3, "W": 1, "D": 1, "L": 1, "GF": 4, "GA": 4, "GD": 0, "Pts": 4, "qualified": true },
+        { "name": "Tunisia", "code": "tn", "P": 3, "W": 1, "D": 1, "L": 1, "GF": 3, "GA": 3, "GD": 0, "Pts": 4, "qualified": false },
+        { "name": "Australia", "code": "au", "P": 3, "W": 0, "D": 0, "L": 3, "GF": 1, "GA": 4, "GD": -3, "Pts": 0, "qualified": false }
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        { "name": "Spain", "code": "es", "P": 3, "W": 3, "D": 0, "L": 0, "GF": 8, "GA": 1, "GD": 7, "Pts": 9, "qualified": true },
+        { "name": "Germany", "code": "de", "P": 3, "W": 2, "D": 0, "L": 1, "GF": 6, "GA": 3, "GD": 3, "Pts": 6, "qualified": true },
+        { "name": "Japan", "code": "jp", "P": 3, "W": 1, "D": 0, "L": 2, "GF": 3, "GA": 6, "GD": -3, "Pts": 3, "qualified": false },
+        { "name": "Costa Rica", "code": "cr", "P": 3, "W": 0, "D": 0, "L": 3, "GF": 0, "GA": 7, "GD": -7, "Pts": 0, "qualified": false }
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        { "name": "Morocco", "code": "ma", "P": 3, "W": 2, "D": 1, "L": 0, "GF": 5, "GA": 1, "GD": 4, "Pts": 7, "qualified": true },
+        { "name": "Croatia", "code": "hr", "P": 3, "W": 1, "D": 1, "L": 1, "GF": 3, "GA": 3, "GD": 0, "Pts": 4, "qualified": false },
+        { "name": "Belgium", "code": "be", "P": 3, "W": 1, "D": 1, "L": 1, "GF": 3, "GA": 3, "GD": 0, "Pts": 4, "qualified": false },
+        { "name": "Canada", "code": "ca", "P": 3, "W": 0, "D": 1, "L": 2, "GF": 1, "GA": 5, "GD": -4, "Pts": 1, "qualified": false }
+      ]
+    },
+    {
+      "name": "Group G",
+      "teams": [
+        { "name": "Brazil", "code": "br", "P": 3, "W": 3, "D": 0, "L": 0, "GF": 9, "GA": 2, "GD": 7, "Pts": 9, "qualified": true },
+        { "name": "Switzerland", "code": "ch", "P": 3, "W": 1, "D": 1, "L": 1, "GF": 3, "GA": 4, "GD": -1, "Pts": 4, "qualified": false },
+        { "name": "Serbia", "code": "rs", "P": 3, "W": 1, "D": 1, "L": 1, "GF": 3, "GA": 4, "GD": -1, "Pts": 4, "qualified": false },
+        { "name": "Cameroon", "code": "cm", "P": 3, "W": 0, "D": 0, "L": 3, "GF": 1, "GA": 6, "GD": -5, "Pts": 0, "qualified": false }
+      ]
+    },
+    {
+      "name": "Group H",
+      "teams": [
+        { "name": "Portugal", "code": "pt", "P": 3, "W": 2, "D": 0, "L": 1, "GF": 6, "GA": 4, "GD": 2, "Pts": 6, "qualified": true },
+        { "name": "Uruguay", "code": "uy", "P": 3, "W": 2, "D": 0, "L": 1, "GF": 4, "GA": 2, "GD": 2, "Pts": 6, "qualified": true },
+        { "name": "South Korea", "code": "kr", "P": 3, "W": 1, "D": 0, "L": 2, "GF": 3, "GA": 5, "GD": -2, "Pts": 3, "qualified": false },
+        { "name": "Ghana", "code": "gh", "P": 3, "W": 0, "D": 0, "L": 3, "GF": 1, "GA": 3, "GD": -2, "Pts": 0, "qualified": false }
+      ]
+    }
+  ],
+  "fixtures": [
+    { "date": "Tomorrow", "time": "14:00 GMT", "homeTeam": "Brazil", "homeCode": "br", "awayTeam": "Serbia", "awayCode": "rs", "venue": "Lusail Stadium", "group": "Group G" },
+    { "date": "Tomorrow", "time": "17:00 GMT", "homeTeam": "Portugal", "homeCode": "pt", "awayTeam": "Ghana", "awayCode": "gh", "venue": "Stadium 974", "group": "Group H" },
+    { "date": "24 Nov", "time": "20:00 GMT", "homeTeam": "Spain", "homeCode": "es", "awayTeam": "Germany", "awayCode": "de", "venue": "Al Bayt Stadium", "group": "Group E" }
+  ],
+  "nations": [
+    { "name": "Netherlands", "code": "nl", "group": "Group A" },
+    { "name": "Senegal", "code": "sn", "group": "Group A" },
+    { "name": "Ecuador", "code": "ec", "group": "Group A" },
+    { "name": "Qatar", "code": "qa", "group": "Group A" },
+    { "name": "England", "code": "gb-eng", "group": "Group B" },
+    { "name": "USA", "code": "us", "group": "Group B" },
+    { "name": "Iran", "code": "ir", "group": "Group B" },
+    { "name": "Wales", "code": "gb-wls", "group": "Group B" },
+    { "name": "Argentina", "code": "ar", "group": "Group C" },
+    { "name": "Poland", "code": "pl", "group": "Group C" },
+    { "name": "Mexico", "code": "mx", "group": "Group C" },
+    { "name": "S. Arabia", "code": "sa", "group": "Group C" },
+    { "name": "France", "code": "fr", "group": "Group D" },
+    { "name": "Denmark", "code": "dk", "group": "Group D" },
+    { "name": "Tunisia", "code": "tn", "group": "Group D" },
+    { "name": "Australia", "code": "au", "group": "Group D" },
+    { "name": "Spain", "code": "es", "group": "Group E" },
+    { "name": "Germany", "code": "de", "group": "Group E" },
+    { "name": "Japan", "code": "jp", "group": "Group E" },
+    { "name": "Costa Rica", "code": "cr", "group": "Group E" },
+    { "name": "Morocco", "code": "ma", "group": "Group F" },
+    { "name": "Croatia", "code": "hr", "group": "Group F" },
+    { "name": "Belgium", "code": "be", "group": "Group F" },
+    { "name": "Canada", "code": "ca", "group": "Group F" },
+    { "name": "Brazil", "code": "br", "group": "Group G" },
+    { "name": "Switzerland", "code": "ch", "group": "Group G" },
+    { "name": "Serbia", "code": "rs", "group": "Group G" },
+    { "name": "Cameroon", "code": "cm", "group": "Group G" },
+    { "name": "Portugal", "code": "pt", "group": "Group H" },
+    { "name": "Uruguay", "code": "uy", "group": "Group H" },
+    { "name": "South Korea", "code": "kr", "group": "Group H" },
+    { "name": "Ghana", "code": "gh", "group": "Group H" }
+  ]
+}
