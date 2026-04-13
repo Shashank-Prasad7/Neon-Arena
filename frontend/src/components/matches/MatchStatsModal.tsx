@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import type { Match } from '../../types';
 import { Link } from 'react-router-dom';
 
@@ -144,6 +144,21 @@ export default function MatchStatsModal({ match, onClose }: Props) {
   const stats = buildStats(safeMatch);
   const ratings = buildRatings(safeMatch);
   const timeline = buildTimeline(safeMatch);
+
+  // Lock body scroll while modal is mounted — prevents the page width
+  // jumping when the scrollbar appears/disappears (the flicker)
+  useEffect(() => {
+    const prev = document.body.style.overflow;
+    const prevPR = document.body.style.paddingRight;
+    const scrollbarW = window.innerWidth - document.documentElement.clientWidth;
+    document.body.style.overflow = 'hidden';
+    // Compensate for the scrollbar width so content doesn't shift
+    if (scrollbarW > 0) document.body.style.paddingRight = `${scrollbarW}px`;
+    return () => {
+      document.body.style.overflow = prev;
+      document.body.style.paddingRight = prevPR;
+    };
+  }, []);
 
   return (
     <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-black/85 backdrop-blur-md animate-fade-in" onClick={onClose}>
