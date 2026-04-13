@@ -44,7 +44,7 @@ async function initPostgres() {
     );
 
     CREATE TABLE IF NOT EXISTS custom_players (
-      id INTEGER PRIMARY KEY,
+      id BIGINT PRIMARY KEY,
       payload JSONB NOT NULL,
       created_at TIMESTAMPTZ DEFAULT NOW()
     );
@@ -71,6 +71,11 @@ async function initPostgres() {
       updated_at TIMESTAMPTZ DEFAULT NOW()
     );
   `);
+
+  await query(`
+    ALTER TABLE custom_players
+    ALTER COLUMN id TYPE BIGINT;
+  `).catch(() => {});
 
   return true;
 }

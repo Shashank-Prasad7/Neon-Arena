@@ -29,6 +29,7 @@ export default function PlayerDiscovery() {
   const [regClub, setRegClub] = useState('');
   const [regNationality, setRegNationality] = useState('');
   const [regAge, setRegAge] = useState('');
+  const [regError, setRegError] = useState('');
 
   // Fetch players whenever filters change
   useEffect(() => {
@@ -85,6 +86,7 @@ export default function PlayerDiscovery() {
   async function handleRegister() {
     if (!regName.trim()) return;
     setRegState('saving');
+    setRegError('');
     try {
       const res = await api.createPlayer({
         name: regName.trim(),
@@ -102,7 +104,8 @@ export default function PlayerDiscovery() {
       }
 
       setRegState('success');
-    } catch (error) {
+    } catch (error: any) {
+      setRegError(error?.response?.data?.error || 'Failed to register player.');
       setRegState('idle');
     }
   }
@@ -110,6 +113,7 @@ export default function PlayerDiscovery() {
   function closeRegister() {
     setIsRegisterOpen(false);
     setRegState('idle');
+    setRegError('');
     setRegName(''); setRegPosition('Forward'); setRegClub('');
     setRegNationality(''); setRegAge('');
   }
@@ -361,6 +365,12 @@ export default function PlayerDiscovery() {
                       placeholder="Country"
                       className="w-full bg-zinc-800 border border-white/10 rounded-xl px-4 py-3 text-white focus:border-primary outline-none transition-colors font-bold" />
                   </div>
+
+                  {regError && (
+                    <div className="rounded-2xl border border-red-400/20 bg-red-500/10 px-4 py-3 text-sm font-bold text-red-100">
+                      {regError}
+                    </div>
+                  )}
 
                   <button
                     onClick={handleRegister}

@@ -170,28 +170,33 @@ router.get('/:id', async (req, res) => {
 });
 
 router.post('/', async (req, res) => {
-  const players = await loadAllPlayers();
-  const name = String(req.body?.name || '').trim();
+  try {
+    const players = await loadAllPlayers();
+    const name = String(req.body?.name || '').trim();
 
-  if (!name) {
-    return res.status(400).json({ error: 'Player name is required' });
+    if (!name) {
+      return res.status(400).json({ error: 'Player name is required' });
+    }
+
+    const duplicate = players.find((player) => player.name.toLowerCase() === name.toLowerCase());
+    if (duplicate) {
+      return res.status(409).json({ error: 'A player with that name already exists', player: duplicate });
+    }
+
+    const player = buildPlayer(req.body || {}, players);
+    if (postgres.hasPostgres()) {
+      await postgres.query('INSERT INTO custom_players (id, payload) VALUES ($1, $2::jsonb)', [String(player.id), JSON.stringify(player)]);
+    } else {
+      const basePlayers = loadPlayers();
+      basePlayers.push(player);
+      savePlayers(basePlayers);
+    }
+
+    res.status(201).json({ success: true, player });
+  } catch (error) {
+    console.error('Player registration failed:', error);
+    res.status(500).json({ error: 'Failed to register player' });
   }
-
-  const duplicate = players.find((player) => player.name.toLowerCase() === name.toLowerCase());
-  if (duplicate) {
-    return res.status(409).json({ error: 'A player with that name already exists', player: duplicate });
-  }
-
-  const player = buildPlayer(req.body || {}, players);
-  if (postgres.hasPostgres()) {
-    await postgres.query('INSERT INTO custom_players (id, payload) VALUES ($1, $2::jsonb)', [player.id, JSON.stringify(player)]);
-  } else {
-    const basePlayers = loadPlayers();
-    basePlayers.push(player);
-    savePlayers(basePlayers);
-  }
-
-  res.status(201).json({ success: true, player });
 });
 
 module.exports = router;
