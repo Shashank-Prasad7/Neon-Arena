@@ -2,7 +2,10 @@
 
 > A cinematic, full-stack football web application with live match data, tactical analysis, player scouting, World Cup tracking, and a WebGL animated interface.
 
+### 🌐 [**Live Demo → neon-arena-mnq0.onrender.com**](https://neon-arena-mnq0.onrender.com/)
+
 ![NEON ARENA](https://img.shields.io/badge/Status-Active-2ff801?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-neon--arena-72dcff?style=for-the-badge&logo=render)](https://neon-arena-mnq0.onrender.com/)
 ![React](https://img.shields.io/badge/React-18-72dcff?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-72dcff?style=for-the-badge&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Strict-72dcff?style=for-the-badge&logo=typescript)
@@ -177,14 +180,19 @@ Without it, the app uses the built-in mock dataset (108 matches across 6 leagues
 
 ## 🚢 Deployment
 
-### Frontend → Vercel
+### ✅ Live Instance
+| Service | URL |
+|---|---|
+| **Full App** | [https://neon-arena-mnq0.onrender.com/](https://neon-arena-mnq0.onrender.com/) |
+
+### Self-host: Frontend → Vercel
 - Set root directory to `frontend/`
 - The included `vercel.json` handles SPA rewrites
 
-### Backend → Railway
+### Self-host: Backend → Railway / Render
 - Set root directory to `backend/`
 - The included `Procfile` sets `web: node server.js`
-- Add environment variables in the Railway dashboard
+- Add environment variables in the dashboard
 
 ---
 

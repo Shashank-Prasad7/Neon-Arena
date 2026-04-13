@@ -18,6 +18,7 @@ import DemoMatrix from './pages/DemoMatrix';
 import FootballCursorEffect from './components/ui/FootballCursorEffect';
 import AIChatbot from './components/ui/AIChatbot';
 import CelestialMatrixShader from './components/ui/martrix-shader';
+import Footer from './components/layout/Footer';
 
 export default function App() {
   return (
@@ -50,6 +51,7 @@ export default function App() {
                 <Route path="/demo-matrix" element={<DemoMatrix />} />
               </Routes>
             </main>
+            <Footer />
             <div className="h-24 md:h-0" />
             <BottomNav />
             <AuthModal />
