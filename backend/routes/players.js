@@ -1,6 +1,7 @@
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
+const postgres = require('../db/postgres');
 
 const router = express.Router();
 const PLAYERS_PATH = path.join(__dirname, '..', 'data', 'players.json');
@@ -11,6 +12,18 @@ function loadPlayers() {
 
 function savePlayers(players) {
   fs.writeFileSync(PLAYERS_PATH, JSON.stringify(players, null, 2));
+}
+
+async function loadCustomPlayers() {
+  if (!postgres.hasPostgres()) return [];
+  const result = await postgres.query('SELECT payload FROM custom_players ORDER BY id ASC');
+  return result.rows.map((row) => row.payload);
+}
+
+async function loadAllPlayers() {
+  const basePlayers = loadPlayers();
+  const customPlayers = await loadCustomPlayers();
+  return [...basePlayers, ...customPlayers];
 }
 
 function buildShortName(name) {
@@ -117,9 +130,9 @@ function buildPlayer(payload, players) {
 }
 
 // GET /api/players
-router.get('/', (req, res) => {
+router.get('/', async (req, res) => {
   const { search, position, nationality, club, minRating, maxRating } = req.query;
-  let players = loadPlayers();
+  let players = await loadAllPlayers();
 
   if (search) {
     const q = search.toLowerCase();
@@ -149,15 +162,15 @@ router.get('/', (req, res) => {
 });
 
 // GET /api/players/:id
-router.get('/:id', (req, res) => {
-  const players = loadPlayers();
+router.get('/:id', async (req, res) => {
+  const players = await loadAllPlayers();
   const player = players.find(p => p.id === parseInt(req.params.id));
   if (!player) return res.status(404).json({ error: 'Player not found' });
   res.json({ player });
 });
 
-router.post('/', (req, res) => {
-  const players = loadPlayers();
+router.post('/', async (req, res) => {
+  const players = await loadAllPlayers();
   const name = String(req.body?.name || '').trim();
 
   if (!name) {
@@ -170,8 +183,13 @@ router.post('/', (req, res) => {
   }
 
   const player = buildPlayer(req.body || {}, players);
-  players.push(player);
-  savePlayers(players);
+  if (postgres.hasPostgres()) {
+    await postgres.query('INSERT INTO custom_players (id, payload) VALUES ($1, $2::jsonb)', [player.id, JSON.stringify(player)]);
+  } else {
+    const basePlayers = loadPlayers();
+    basePlayers.push(player);
+    savePlayers(basePlayers);
+  }
 
   res.status(201).json({ success: true, player });
 });

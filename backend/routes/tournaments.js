@@ -1,6 +1,7 @@
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
+const postgres = require('../db/postgres');
 
 const router = express.Router();
 
@@ -39,6 +40,23 @@ function loadCustomTeams() {
 
 function saveCustomTeams(teams) {
   writeJson(CUSTOM_TEAMS_PATH, teams);
+}
+
+async function loadCustomTeamsAsync() {
+  if (!postgres.hasPostgres()) return loadCustomTeams();
+  const result = await postgres.query('SELECT * FROM custom_teams ORDER BY updated_at DESC');
+  return result.rows.map((row) => ({
+    id: row.id || Date.now(),
+    slug: row.slug,
+    name: row.name,
+    manager: row.manager,
+    formationId: row.formation_id,
+    starters: Array.isArray(row.starters) ? row.starters : [],
+    substitutes: Array.isArray(row.substitutes) ? row.substitutes : [],
+    competitions: Array.isArray(row.competitions) ? row.competitions : [],
+    createdAt: row.created_at,
+    updatedAt: row.updated_at,
+  }));
 }
 
 function slugify(value) {
@@ -384,14 +402,14 @@ function buildChampionsLeagueSimulation(team, allClubNames) {
   };
 }
 
-router.get('/teams', (req, res) => {
+router.get('/teams', async (req, res) => {
   const players = loadPlayers();
   const playersById = new Map(players.map((player) => [Number(player.id), player]));
-  const teams = loadCustomTeams().map((team) => teamCard(team, playersById));
+  const teams = (await loadCustomTeamsAsync()).map((team) => teamCard(team, playersById));
   res.json({ success: true, teams });
 });
 
-router.post('/teams', (req, res) => {
+router.post('/teams', async (req, res) => {
   const name = String(req.body?.name || '').trim();
   const formationId = String(req.body?.formationId || '4-3-3').trim();
   const starters = dedupeNumbers(req.body?.starters);
@@ -414,7 +432,7 @@ router.post('/teams', (req, res) => {
   }
 
   const now = new Date().toISOString();
-  const teams = loadCustomTeams();
+  const teams = await loadCustomTeamsAsync();
   const existingIndex = teams.findIndex((team) => team.slug === slugify(name));
   const payload = {
     id: existingIndex >= 0 ? teams[existingIndex].id : Date.now(),
@@ -429,19 +447,28 @@ router.post('/teams', (req, res) => {
     updatedAt: now,
   };
 
-  if (existingIndex >= 0) teams[existingIndex] = payload;
-  else teams.push(payload);
-
-  saveCustomTeams(teams);
+  if (postgres.hasPostgres()) {
+    await postgres.query(
+      `INSERT INTO custom_teams (slug, name, manager, formation_id, starters, substitutes, competitions, created_at, updated_at)
+       VALUES ($1, $2, $3, $4, $5::jsonb, $6::jsonb, $7::jsonb, COALESCE((SELECT created_at FROM custom_teams WHERE slug = $1), NOW()), NOW())
+       ON CONFLICT (slug)
+       DO UPDATE SET name = EXCLUDED.name, manager = EXCLUDED.manager, formation_id = EXCLUDED.formation_id, starters = EXCLUDED.starters, substitutes = EXCLUDED.substitutes, competitions = EXCLUDED.competitions, updated_at = NOW()`,
+      [payload.slug, payload.name, payload.manager, payload.formationId, JSON.stringify(payload.starters), JSON.stringify(payload.substitutes), JSON.stringify(payload.competitions)]
+    );
+  } else {
+    if (existingIndex >= 0) teams[existingIndex] = payload;
+    else teams.push(payload);
+    saveCustomTeams(teams);
+  }
   res.json({ success: true, team: teamCard(payload, playersById) });
 });
 
-router.get('/simulate', (req, res) => {
+router.get('/simulate', async (req, res) => {
   const competition = String(req.query?.competition || 'worldcup').toLowerCase();
   const teamSlug = slugify(req.query?.team);
   const players = loadPlayers();
   const playersById = new Map(players.map((player) => [Number(player.id), player]));
-  const teams = loadCustomTeams();
+  const teams = await loadCustomTeamsAsync();
   const team = teams.find((entry) => entry.slug === teamSlug || slugify(entry.name) === teamSlug);
 
   if (!team) {

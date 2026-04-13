@@ -11,6 +11,7 @@ const newsletterRoutes = require('./routes/newsletter');
 const tacticsRoutes = require('./routes/tactics');
 const worldcupRoutes = require('./routes/worldcup');
 const tournamentsRoutes = require('./routes/tournaments');
+const { initPostgres, hasPostgres } = require('./db/postgres');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -63,8 +64,24 @@ app.use((err, req, res, next) => {
   res.status(500).json({ error: 'Internal server error' });
 });
 
-app.listen(PORT, () => {
-  console.log(`\nNeon Arena API running on http://localhost:${PORT}`);
-  console.log(`   Tactics endpoint: http://localhost:${PORT}/api/tactics/formations`);
-  console.log(`   Football API key: ${process.env.FOOTBALL_API_KEY ? 'set' : 'not set (using mock data)'}`);
-});
+async function start() {
+  try {
+    if (hasPostgres()) {
+      await initPostgres();
+      console.log('   Postgres persistence: connected');
+    } else {
+      console.log('   Postgres persistence: not configured, using local fallback storage');
+    }
+
+    app.listen(PORT, () => {
+      console.log(`\nNeon Arena API running on http://localhost:${PORT}`);
+      console.log(`   Tactics endpoint: http://localhost:${PORT}/api/tactics/formations`);
+      console.log(`   Football API key: ${process.env.FOOTBALL_API_KEY ? 'set' : 'not set (using mock data)'}`);
+    });
+  } catch (error) {
+    console.error('Failed to start server:', error);
+    process.exit(1);
+  }
+}
+
+start();
