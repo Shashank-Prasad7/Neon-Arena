@@ -5,6 +5,11 @@ interface Spark {
   id: number;
   x: number;
   y: number;
+  // xDrift / yDrift are baked-in at creation so Math.random() is never called
+  // inside the animate prop. Calling Math.random() there re-runs on every
+  // React render and snaps all sparks to new targets → causes the flicker.
+  xDrift: number;
+  yDrift: number;
   color: string;
   size: number;
 }
@@ -22,6 +27,8 @@ export default function FootballCursorEffect() {
         id: Date.now() + Math.random(),
         x,
         y,
+        xDrift: (Math.random() - 0.5) * 30,  // computed once, stable across renders
+        yDrift: (Math.random() - 0.5) * 30,
         color: SPARK_COLORS[Math.floor(Math.random() * SPARK_COLORS.length)],
         size,
       };
@@ -74,8 +81,8 @@ export default function FootballCursorEffect() {
               opacity: 1,
             }}
             animate={{
-              x: spark.x + (Math.random() - 0.5) * 30,
-              y: spark.y + (Math.random() - 0.5) * 30,
+              x: spark.x + spark.xDrift,
+              y: spark.y + spark.yDrift,
               scale: 1,
               opacity: 0,
             }}
